@@ -1,5 +1,6 @@
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faChevronDown } from "@fortawesome/free-solid-svg-icons";
+import { useTranslation } from "react-i18next";
 
 import "../modules/system/system.base.css";
 import "../sites/all/themes/cassiopeia_theme/css/style.css";
@@ -15,6 +16,7 @@ import "../sites/all/themes/cassiopeia_theme/css/style.css";
 import images from "../data/images";
 import CustomSlider from "../components/custom.slider";
 import CustomLogo from "../components/custom.logo";
+import LanguageSelector from "../components/custom.language";
 // import "./sites/all/themes/cassiopeia_theme/js/lib/lightslider-master/dist/css/lightslider.css";
 // import "./sites/all/themes/cassiopeia_theme/js/lib/lightGallery-master/dist/css/lightgallery.css";
 // import "./sites/all/themes/cassiopeia_theme/js/lib/rateit/rateit.css";
@@ -25,7 +27,9 @@ import "../sites/all/themes/cassiopeia_theme/css/alter.css";
 // import "./sites/all/themes/cassiopeia_theme/css/template.css";
 // import "./sites/all/themes/cassiopeia_theme/css/responsive.css";
 
-function Home() {
+const Home = ()=> {
+  const { t } = useTranslation();
+
   return (
     <div>
       <div className="wrapper-app">
@@ -46,16 +50,16 @@ function Home() {
                     </a>
                     <ul>
                       <li className="first last leaf">
-                        <a href="/about">Về chúng tôi</a>
+                        <a href="/about">{t("home.header.story")}</a>
                       </li>
                     </ul>
                   </li>
                   <li className="leaf">
-                    <a href="/vi/tour/list">Chương trình Tour</a>
+                    <a href="/vi/tour/list">{t("home.header.tours")}</a>
                   </li>
                   <li className="expanded">
                     <a href="/vi/experiences">
-                      Trải nghiệm{" "}
+                    {t("home.header.experiences")}
                       <span>
                         <FontAwesomeIcon icon={faChevronDown} />
                       </span>
@@ -91,41 +95,7 @@ function Home() {
                 </ul>
               </div>
               <div className="header-right d-flex alg-center gap-16">
-                <div className="icon-language">
-                  <div className="dropdown">
-                    <button
-                      id="dLabel"
-                      type="button"
-                      data-toggle="dropdown"
-                      aria-haspopup="true"
-                      aria-expanded="false">
-                      <span>VI</span>
-                      <span>
-                        <FontAwesomeIcon icon={faChevronDown} />
-                      </span>
-                    </button>
-                    <ul
-                      className="dropdown-menu"
-                      aria-labelledby="dropdownMenuButton">
-                      <li className="en first">
-                        <a
-                          href="./en.html"
-                          className="language-link"
-                          xmlLang="en">
-                          English
-                        </a>
-                      </li>
-                      <li className="vi last active">
-                        <a
-                          href="./index.html"
-                          className="language-link active"
-                          xmlLang="vi">
-                          Tiếng Việt
-                        </a>
-                      </li>
-                    </ul>
-                  </div>
-                </div>
+                <LanguageSelector></LanguageSelector>
                 <div className="icon-user">
                   <a href="/tour/list" className="btn text-uppercase radius-2">
                     Book now
@@ -1309,7 +1279,7 @@ function Home() {
                         <h3>Contact</h3>
                         <ul className="custom-nav">
                           <li>
-                            <a href="#">
+                            <a href="/">
                               <span>General Information:</span>
                               <span className="clr-gray">
                                 contact@klangadventure.com
@@ -1317,7 +1287,7 @@ function Home() {
                             </a>
                           </li>
                           <li>
-                            <a href="#">
+                            <a href="/">
                               <span>Press relations:</span>
                               <span className="clr-gray">
                                 contact@klangadventure.com
@@ -1325,7 +1295,7 @@ function Home() {
                             </a>
                           </li>
                           <li>
-                            <a href="#">
+                            <a href="/">
                               <span>Careers:</span>
                               <span className="clr-gray">
                                 contact@klangadventure.com
@@ -1333,7 +1303,7 @@ function Home() {
                             </a>
                           </li>
                           <li>
-                            <a href="#">
+                            <a href="/">
                               <span>Social media &amp; Influencers:</span>
                               <span className="clr-gray">
                                 contact@klangadventure.com
@@ -1341,7 +1311,7 @@ function Home() {
                             </a>
                           </li>
                           <li>
-                            <a href="#">
+                            <a href="/">
                               <span>Sales:</span>
                               <span className="clr-gray">
                                 contact@klangadventure.com

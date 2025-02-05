@@ -1,6 +1,6 @@
 import React from "react";
 
-function CustomLogo({  }) {
+function CustomLogo() {
   return (
       <h1>
         <a href="/">
