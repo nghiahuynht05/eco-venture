@@ -14,7 +14,7 @@ function CustomCarousel({ children }) {
         setTimeout(() => {
           slideNext();
           setSlideDone(true);
-        }, 3000)
+        }, 5000)
       );
     }
   }, [slideDone]);
@@ -25,16 +25,6 @@ function CustomCarousel({ children }) {
         return 0;
       } else {
         return val + 1;
-      }
-    });
-  };
-
-  const slidePrev = () => {
-    setActiveIndex((val) => {
-      if (val <= 0) {
-        return children.length - 1;
-      } else {
-        return val - 1;
       }
     });
   };
@@ -68,12 +58,11 @@ function CustomCarousel({ children }) {
       })}
 
       <div className="container__slider__links">
-      <span>
+        <span>
           K'Lang Adventure mở ra hành trình du ngoạn khám phá miền đất Tây Giang
           huyền bí - nơi chưa từng được biết đến trên bản đồ du lịch thế giới
         </span>
       </div>
-      
     </div>
   );
 }
