@@ -6,7 +6,7 @@ import { useTranslation } from "react-i18next";
 const LanguageSelector = () => {
   const { i18n } = useTranslation();
   const [showDropdown, setShowDropdown] = useState(false);
-  const [selectedLang, setSelectedLang] = useState(i18n.language.toUpperCase());
+  const [selectedLang, setSelectedLang] = useState(i18n.language ? i18n.language.toUpperCase() : "EN");
 
   const changeLanguage = (lang) => {
     i18n.changeLanguage(lang);

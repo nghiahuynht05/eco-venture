@@ -17,15 +17,15 @@ import images from "../data/images";
 import CustomSlider from "../components/custom.slider";
 import CustomLogo from "../components/custom.logo";
 import LanguageSelector from "../components/custom.language";
-// import "./sites/all/themes/cassiopeia_theme/js/lib/lightslider-master/dist/css/lightslider.css";
-// import "./sites/all/themes/cassiopeia_theme/js/lib/lightGallery-master/dist/css/lightgallery.css";
-// import "./sites/all/themes/cassiopeia_theme/js/lib/rateit/rateit.css";
-// import "./sites/all/themes/cassiopeia_theme/css/font-awesome/css/all.css";
+// import "../sites/all/themes/cassiopeia_theme/js/lib/lightslider-master/dist/css/lightslider.css";
+// import "../sites/all/themes/cassiopeia_theme/js/lib/lightGallery-master/dist/css/lightgallery.css";
+// import "../sites/all/themes/cassiopeia_theme/js/lib/rateit/rateit.css";
+// import "../sites/all/themes/cassiopeia_theme/css/font-awesome/css/all.css";
 import "../sites/all/themes/cassiopeia_theme/css/ultils.css";
 import "../sites/all/themes/cassiopeia_theme/css/alter.css";
-// import "./sites/all/themes/cassiopeia_theme/css/loading-css.css";
-// import "./sites/all/themes/cassiopeia_theme/css/template.css";
-// import "./sites/all/themes/cassiopeia_theme/css/responsive.css";
+// import "../sites/all/themes/cassiopeia_theme/css/loading-css.css";
+// import "../sites/all/themes/cassiopeia_theme/css/template.css";
+import "../sites/all/themes/cassiopeia_theme/css/responsive.css";
 
 const Home = ()=> {
   const { t } = useTranslation();
