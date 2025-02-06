@@ -1,18 +1,17 @@
-import React, { useState } from "react";
+import React, { useState, useContext } from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faChevronDown } from "@fortawesome/free-solid-svg-icons";
 import { useTranslation } from "react-i18next";
+import { LanguageContext } from "../context/languageContext";
 
 const LanguageSelector = () => {
   const { i18n } = useTranslation();
   const [showDropdown, setShowDropdown] = useState(false);
-  const [selectedLang, setSelectedLang] = useState(i18n.language ? i18n.language.toUpperCase() : "EN");
+  const [selectedLang] = useState(
+    i18n.language ? i18n.language.toUpperCase() : "EN"
+  );
 
-  const changeLanguage = (lang) => {
-    i18n.changeLanguage(lang);
-    setSelectedLang(lang.toUpperCase());
-    setShowDropdown(false);
-  };
+  const { changeLanguages } = useContext(LanguageContext);
 
   return (
     <div className="icon-language">
@@ -35,10 +34,10 @@ const LanguageSelector = () => {
               border: "1px solid rgba(0, 0, 0, .15)",
               borderRadius: "4px",
             }}>
-            <li className="" style={{}} onClick={() => changeLanguage("en")}>
+            <li className="" style={{}} onClick={() => changeLanguages("en")}>
               EN
             </li>
-            <li className="" onClick={() => changeLanguage("vi")}>
+            <li className="" onClick={() => changeLanguages("vi")}>
               VI
             </li>
           </ul>

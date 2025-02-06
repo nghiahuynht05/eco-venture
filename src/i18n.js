@@ -6,11 +6,11 @@ import vi from "./locales/vi.json";
 
 i18n.use(initReactI18next).init({
   resources: {
-    en: { translation: en },
-    vi: { translation: vi },
+    EN: { translation: en },
+    VI: { translation: vi },
   },
-  lng: "en", // Ngôn ngữ mặc định
-  fallbackLng: "en",
+  lng: "EN", // Ngôn ngữ mặc định
+  fallbackLng: "EN",
   interpolation: {
     escapeValue: false,
   },

@@ -1,6 +1,6 @@
+import React, { useContext } from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faChevronDown } from "@fortawesome/free-solid-svg-icons";
-import { useTranslation } from "react-i18next";
 
 import "../modules/system/system.base.css";
 import "../sites/all/themes/cassiopeia_theme/css/style.css";
@@ -17,6 +17,8 @@ import images from "../data/images";
 import CustomSlider from "../components/custom.slider";
 import CustomLogo from "../components/custom.logo";
 import LanguageSelector from "../components/custom.language";
+import { LanguageContext } from "../context/languageContext";
+
 // import "../sites/all/themes/cassiopeia_theme/js/lib/lightslider-master/dist/css/lightslider.css";
 // import "../sites/all/themes/cassiopeia_theme/js/lib/lightGallery-master/dist/css/lightgallery.css";
 // import "../sites/all/themes/cassiopeia_theme/js/lib/rateit/rateit.css";
@@ -28,7 +30,7 @@ import "../sites/all/themes/cassiopeia_theme/css/alter.css";
 import "../sites/all/themes/cassiopeia_theme/css/responsive.css";
 
 const Home = ()=> {
-  const { t } = useTranslation();
+  const { translations } = useContext(LanguageContext);
 
   return (
     <div>
@@ -50,16 +52,16 @@ const Home = ()=> {
                     </a>
                     <ul>
                       <li className="first last leaf">
-                        <a href="/about">{t("home.header.story")}</a>
+                        <a href="/about">{translations.home.header.story}</a>
                       </li>
                     </ul>
                   </li>
                   <li className="leaf">
-                    <a href="/vi/tour/list">{t("home.header.tours")}</a>
+                    <a href="/vi/tour/list">{translations.home.header.tours}</a>
                   </li>
                   <li className="expanded">
                     <a href="/vi/experiences">
-                    {t("home.header.experiences")}
+                    {translations.home.header.experiences}
                       <span>
                         <FontAwesomeIcon icon={faChevronDown} />
                       </span>
