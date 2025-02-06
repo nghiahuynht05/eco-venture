@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/eco-venture/static/css/main.a6061c77.css",
-    "main.js": "/eco-venture/static/js/main.27c3ef0d.js",
-    "static/js/488.2280c783.chunk.js": "/eco-venture/static/js/488.2280c783.chunk.js",
-    "static/media/Inter-Bold.ttf": "/eco-venture/static/media/Inter-Bold.9aab1ebe6bd16660e37e.ttf",
-    "static/media/PlayfairDisplay-Medium.ttf": "/eco-venture/static/media/PlayfairDisplay-Medium.d8afa483b200cadcda26.ttf",
-    "static/media/PlayfairDisplay-Regular.ttf": "/eco-venture/static/media/PlayfairDisplay-Regular.27705d9c43e8c36b1abd.ttf",
-    "static/media/Metropolis-Regular.ttf": "/eco-venture/static/media/Metropolis-Regular.f2eb96de122b10a1e670.ttf",
-    "static/media/Metropolis-Medium.ttf": "/eco-venture/static/media/Metropolis-Medium.1127e7abf91f80e0f4d6.ttf",
-    "static/media/Metropolis-SemiBold.ttf": "/eco-venture/static/media/Metropolis-SemiBold.31f379f2e7e268ef770b.ttf",
-    "static/media/Metropolis-Bold.ttf": "/eco-venture/static/media/Metropolis-Bold.36005b0d3217b601e8a1.ttf",
-    "index.html": "/eco-venture/index.html",
-    "main.a6061c77.css.map": "/eco-venture/static/css/main.a6061c77.css.map",
-    "main.27c3ef0d.js.map": "/eco-venture/static/js/main.27c3ef0d.js.map",
-    "488.2280c783.chunk.js.map": "/eco-venture/static/js/488.2280c783.chunk.js.map"
+    "main.css": "/static/css/main.e962c71f.css",
+    "main.js": "/static/js/main.98a1918e.js",
+    "static/js/488.2280c783.chunk.js": "/static/js/488.2280c783.chunk.js",
+    "static/media/Inter-Bold.ttf": "/static/media/Inter-Bold.9aab1ebe6bd16660e37e.ttf",
+    "static/media/PlayfairDisplay-Medium.ttf": "/static/media/PlayfairDisplay-Medium.d8afa483b200cadcda26.ttf",
+    "static/media/PlayfairDisplay-Regular.ttf": "/static/media/PlayfairDisplay-Regular.27705d9c43e8c36b1abd.ttf",
+    "static/media/Metropolis-Regular.ttf": "/static/media/Metropolis-Regular.f2eb96de122b10a1e670.ttf",
+    "static/media/Metropolis-Medium.ttf": "/static/media/Metropolis-Medium.1127e7abf91f80e0f4d6.ttf",
+    "static/media/Metropolis-SemiBold.ttf": "/static/media/Metropolis-SemiBold.31f379f2e7e268ef770b.ttf",
+    "static/media/Metropolis-Bold.ttf": "/static/media/Metropolis-Bold.36005b0d3217b601e8a1.ttf",
+    "index.html": "/index.html",
+    "main.e962c71f.css.map": "/static/css/main.e962c71f.css.map",
+    "main.98a1918e.js.map": "/static/js/main.98a1918e.js.map",
+    "488.2280c783.chunk.js.map": "/static/js/488.2280c783.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a6061c77.css",
-    "static/js/main.27c3ef0d.js"
+    "static/css/main.e962c71f.css",
+    "static/js/main.98a1918e.js"
   ]
 }
