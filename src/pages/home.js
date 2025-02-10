@@ -1,4 +1,4 @@
-import React, { useContext } from "react";
+import React, { useContext, useEffect, useState } from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faChevronDown } from "@fortawesome/free-solid-svg-icons";
 
@@ -29,9 +29,17 @@ import "../sites/all/themes/cassiopeia_theme/css/alter.css";
 // import "../sites/all/themes/cassiopeia_theme/css/template.css";
 import "../sites/all/themes/cassiopeia_theme/css/responsive.css";
 
-const Home = ()=> {
+const Home = () => {
   const { translations } = useContext(LanguageContext);
-
+  const [setContent] = useState({});
+  
+  useEffect(() => {
+    import(`../locales/${translations}.json`)
+      .then((module) => {
+        setContent(module.default);
+      })
+      .catch((error) => console.error("Error loading language file:", error));
+  }, [translations]);
   return (
     <div>
       <div className="wrapper-app">
@@ -61,7 +69,7 @@ const Home = ()=> {
                   </li>
                   <li className="expanded">
                     <a href="/vi/experiences">
-                    {translations.home.header.experiences}
+                      {translations.home.header.experiences}
                       <span>
                         <FontAwesomeIcon icon={faChevronDown} />
                       </span>
@@ -117,11 +125,14 @@ const Home = ()=> {
                 <div className="main-slider">
                   <CustomSlider>
                     {images.map((image, index) => {
+                      const bannerData = translations.home?.banner || [];
                       return (
                         <img
                           key={index}
                           src={image.imgURL}
                           alt={image.imgAlt}
+                          title={bannerData[index]?.title || ""}
+                          description={bannerData[index]?.description || ""}
                         />
                       );
                     })}
@@ -1368,6 +1379,6 @@ const Home = ()=> {
       </div>
     </div>
   );
-}
+};
 
 export default Home;

@@ -1,17 +1,12 @@
 import React, { useState, useContext } from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faChevronDown } from "@fortawesome/free-solid-svg-icons";
-import { useTranslation } from "react-i18next";
 import { LanguageContext } from "../context/languageContext";
 
 const LanguageSelector = () => {
-  const { i18n } = useTranslation();
   const [showDropdown, setShowDropdown] = useState(false);
-  const [selectedLang] = useState(
-    i18n.language ? i18n.language.toUpperCase() : "EN"
-  );
 
-  const { changeLanguages } = useContext(LanguageContext);
+  const { language, changeLanguages } = useContext(LanguageContext);
 
   return (
     <div className="icon-language">
@@ -21,7 +16,7 @@ const LanguageSelector = () => {
           type="button"
           onClick={() => setShowDropdown(!showDropdown)}
           className="flex items-center space-x-2 p-2 bg-gray-200 rounded">
-          <span>{selectedLang}</span>
+          <span>{language.toUpperCase()}</span>
           <FontAwesomeIcon icon={faChevronDown} />
         </button>
         {showDropdown && (
@@ -34,7 +29,7 @@ const LanguageSelector = () => {
               border: "1px solid rgba(0, 0, 0, .15)",
               borderRadius: "4px",
             }}>
-            <li className="" style={{}} onClick={() => changeLanguages("en")}>
+            <li className="" onClick={() => changeLanguages("en")}>
               EN
             </li>
             <li className="" onClick={() => changeLanguages("vi")}>

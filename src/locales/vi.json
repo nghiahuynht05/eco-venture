@@ -4,6 +4,16 @@
             "story": "Về chúng tôi",
             "tours": "Chương trình Tour",
             "experiences": "Trải nghiệm"
-        }
+        },
+        "banner": [{
+                "title": "ECO VENTURE",
+                "description": "K'Lang Adventure mở ra hành trình du ngoạn khám phá miền đất Tây Giang huyền bí - nơi chưa từng được biết đến trên bản đồ du lịch thế giới"
+            },
+            {
+                "title": "HÀNH TRÌNH KHÁM PHÁ SỰ BÍ ẨN",
+                "description": "Tấy Giang - Nơi thiên nhiên siêu thực đem đến cho bạn những trải nghiệm vô giá."
+
+            }
+        ]
     }
 }

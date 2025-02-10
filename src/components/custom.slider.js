@@ -53,16 +53,32 @@ function CustomCarousel({ children }) {
             className={"slider__item slider__item-active-" + (activeIndex + 1)}
             key={index}>
             {item}
+            <div className="container__slider__links">
+              <div className="txt-banner">
+                <div className="content">
+                  <div
+                    className=""
+                    style={{ display: "grid", "justify-content": "center" }}>
+                    <span
+                      style={{
+                        "margin-bottom": "8px",
+                        "font-family": "PlayfairDisplay-Medium",
+                        "font-size": "32px",
+                        "line-height": "40px",
+                        "letter-spacing": "2px",
+                        color: "#FFFFFF",
+                      }}>
+                      {item.props.title}
+                    </span>
+                    <span>{item.props.description}
+                    </span>
+                  </div>
+                </div>
+              </div>
+            </div>
           </div>
         );
       })}
-
-      <div className="container__slider__links">
-        <span>
-          K'Lang Adventure mở ra hành trình du ngoạn khám phá miền đất Tây Giang
-          huyền bí - nơi chưa từng được biết đến trên bản đồ du lịch thế giới
-        </span>
-      </div>
     </div>
   );
 }

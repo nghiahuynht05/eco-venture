@@ -37,9 +37,10 @@
   
   .container__slider__links {
     position: absolute;
-    bottom: 5%;
+    bottom: 15%;
     left: 50%;
     transform: translateX(-50%);
+    width: 100%;
   }
   
   .container__slider__links-small {

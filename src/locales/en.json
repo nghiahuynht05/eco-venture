@@ -4,6 +4,16 @@
             "story": "Our story",
             "tours": "Tours",
             "experiences": "Experiences"
-        }
+        },
+        "banner": [{
+                "title": "ECO VENTURE",
+                "description": "K'Lang Adventure opens a journey to explore the mysterious land of Tay Giang - a place never before known on the world tourism map."
+            },
+            {
+                "title": " A JOURNEY TO DISCOVER THE MYSTERY",
+                "description": "Tay Giang - A place where surreal nature brings you priceless experiences."
+
+            }
+        ]
     }
 }
