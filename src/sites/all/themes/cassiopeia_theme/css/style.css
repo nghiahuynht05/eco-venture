@@ -193,7 +193,7 @@ form#user-login button{
 	gap: 30px;
 }
 .header-menu > ul > li {
-	position: relative;
+	position: relative;;
 }
 .header-menu > ul > li > a {
 	padding: 29px 0;
