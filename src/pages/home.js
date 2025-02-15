@@ -321,7 +321,7 @@ const Home = () => {
                     </div>
                     <CustomTours>
                     {imagesTours.map((image, index) => {
-                      const toursData = translations.home?.tours || [];
+                      const toursData = translations.home?.tours.list || [];
                       return (
                         <img
                           key={index}

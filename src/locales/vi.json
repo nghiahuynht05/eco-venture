@@ -14,6 +14,47 @@
                 "description": "Tấy Giang - Nơi thiên nhiên siêu thực đem đến cho bạn những trải nghiệm vô giá."
 
             }
-        ]
+        ],
+        "tours": {
+            "title": "Highlight tours",
+            "description": "When the most beautiful season hits, K'Lang Adventure brings the unique experiential tours up, into places never before known on the world tourism map - Places that will leave you impressed with the beauty of nature and culture.",
+            "detail":"Xem chi tiết",
+            "list": [{
+                    "image": "./tours/anh1.jpeg",
+                    "title": "Trekking - Khám phá rừng lim cổ thụ 2 ngày",
+                    "duration": "2 ngày 1 đêm",
+                    "price": "4,962,000 VND",
+                    "description": "Nếu rừng rêu và đỗ quyên trên đỉnh K'lang là thế giới Avatar siêu thực, còn rừng Pd Mu có..."
+                },
+                {
+                    "image": "./tours/anh2.jpg",
+                    "title": "Trekking - Khám phá rừng rêu và đỉnh K'lang 2 ngày",
+                    "duration": "2 ngày 1 đêm",
+                    "price": "4,962,000 VND",
+                    "description": "Đây là một lịch trình rút gọn với thời gian ngắn nhất để những trekker yêu thiên nhiên và thíc..."
+                },
+                {
+                    "image": "./tours/anh3.jpg",
+                    "title": "Khám phá Aur - Ngôi làng hạnh phúc trong rừng Trường Sơn",
+                    "duration": "3 ngày 2 đêm",
+                    "price": "5,622,000 VND",
+                    "description": "Nằm sâu giữa đại ngàn Trường Sơn, làng Aur (xã A Vương, Tây Giang) giữ được nét bình yên..."
+                },
+                {
+                    "image": "./tours/anh4.png",
+                    "title": "Khám phá Aur - Ngôi làng hạnh phúc trong rừng Trường Sơn",
+                    "duration": "3 ngày 2 đêm",
+                    "price": "5,622,000 VND",
+                    "description": "Nằm sâu giữa đại ngàn Trường Sơn, làng Aur (xã A Vương, Tây Giang) giữ được nét bình yên..."
+                },
+                {
+                    "image": "./tours/anh5.jpeg",
+                    "title": "Khám phá Aur - Ngôi làng hạnh phúc trong rừng Trường Sơn",
+                    "duration": "3 ngày 2 đêm",
+                    "price": "5,622,000 VND",
+                    "description": "Nằm sâu giữa đại ngàn Trường Sơn, làng Aur (xã A Vương, Tây Giang) giữ được nét bình yên..."
+                }
+            ]
+        }
     }
 }
