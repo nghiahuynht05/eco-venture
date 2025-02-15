@@ -6,9 +6,8 @@ import "slick-carousel/slick/slick-theme.css";
 import "./custom.slider.css";
 import "./custom.slick.css";
 import background from "../data/backgroup";
-import tours from "../data/stick";
 
-function CustomTours({}) {
+function CustomTours({ children }) {
   const settings = {
     dots: true,
     infinite: true,
@@ -72,28 +71,29 @@ function CustomTours({}) {
           <div className="slider-cover slider-shadow">
             <div className="owl-carousel owl-theme slider-selling-trip">
               <Slider {...settings}>
-                {tours.map((tour) => (
+                {children.map((tour) => (
+                  console.log("tour",tour),
                   <div className="item">
                     <div className="card card-type-1">
                       <div className="card-img">
                         <a href="/vi/trekking-kham-pha-rung-lim-co-thu-3-ngay.html">
-                          <img src={tour.image} alt={tour.title} />
+                          {tour}
                           <h3 className="card-title">
-                            <span className="title">{tour.title}</span>
+                            <span className="title">{tour.props.title}</span>
                           </h3>
                         </a>
                       </div>
                       <div className="card-info">
                         <div className="classify-selling-trip ">
-                          <span className="date">{tour.duration}</span>
+                          <span className="date">{tour.props.translations.duration}</span>
                           <span>|</span>
-                          <span className="price">{tour.price}</span>
+                          <span className="price">{tour.props.translations.price}</span>
                         </div>
                         <div className="card-synop mt-8">
                           <div className="card-description">
                             <span>
-                              <div dir="auto">{tour.description}</div>
-                              <div dir="auto">
+                              <div dir="auto">{tour.props.translations.description}</div>
+                              {/* <div dir="auto">
                                 Tuyến trek rừng Lim bắt đầu từ thôn Tary, xã
                                 Lăng, men theo dòng suối Lăng để đến sông Lăng
                                 rồi tiến đến hồ thủy điện sông Bung 4 thuộc địa
@@ -105,7 +105,7 @@ function CustomTours({}) {
                               </div>
                               <p>
                                 <span>&nbsp;</span>
-                              </p>
+                              </p> */}
                             </span>
                           </div>
                           <div className="tag-selling mt-8">

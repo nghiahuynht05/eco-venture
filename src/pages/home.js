@@ -14,6 +14,7 @@ import "../sites/all/themes/cassiopeia_theme/css/style.css";
 // import "./sites/all/libraries/fontawesome/fontawesome6/css/all.min.css";
 import "../sites/all/themes/cassiopeia_theme/js/lib/OwlCarousel2-2.3.4/dist/assets/owl.theme.default.css";
 import images from "../data/images";
+import imagesTours from "../data/stick";
 import CustomSlider from "../components/custom.slider";
 import CustomTours from "../components/custom.tours";
 import CustomLogo from "../components/custom.logo";
@@ -318,7 +319,19 @@ const Home = () => {
                         </div>
                       </div>
                     </div>
-                    <CustomTours></CustomTours>
+                    <CustomTours>
+                    {imagesTours.map((image, index) => {
+                      const toursData = translations.home?.tours || [];
+                      return (
+                        <img
+                          key={index}
+                          src={image.image}
+                          alt={image.title}
+                          translations={toursData[index]}
+                        />
+                      );
+                    })}
+                    </CustomTours>
                     <section className="sec sec-review">
                       <div className="sec-container container">
                         <div className="sec-content">

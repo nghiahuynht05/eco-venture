@@ -11,6 +11,7 @@ const images = [
   {
     id: 2,
     image: "./tours/anh2.jpg",
+    link:"",
     title: "Trekking - Khám phá rừng rêu và đỉnh K'lang 2 ngày",
     duration: "2 ngày 1 đêm",
     price: "4,962,000 VND",
