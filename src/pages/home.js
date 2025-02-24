@@ -15,9 +15,17 @@ import "../sites/all/themes/cassiopeia_theme/css/style.css";
 import "../sites/all/themes/cassiopeia_theme/js/lib/OwlCarousel2-2.3.4/dist/assets/owl.theme.default.css";
 import images from "../data/images";
 import imagesTours from "../data/stick";
+import imagesSubs from "../data/subs";
+import imagesAds from "../data/ads";
+import imagesTopic from "../data/topic";
 import CustomSlider from "../components/custom.slider";
 import CustomTours from "../components/custom.tours";
+import CustomSubs from "../components/custom.sub";
+import CustomInfo from "../components/custom.info";
+import CustomReview from "../components/custom.review";
 import CustomLogo from "../components/custom.logo";
+import CustomAds from "../components/custom.ads";
+import CustomDevelopment from "../components/custom.development";
 import LanguageSelector from "../components/custom.language";
 import { LanguageContext } from "../context/languageContext";
 
@@ -146,419 +154,49 @@ const Home = () => {
               <div className="page home-page">
                 <div className="page-container">
                   <div className="page-inner">
-                    <section className="sec sec-introduce">
-                      <div className="sec-container container">
-                        <div className="box-home-introduce d-flex gap-24">
-                          <div className="video-home-introduce">
-                            <div className="img-video-home-introduce">
-                              <img
-                                src="https://klangadventure.com/sites/default/files/batdauhanhtrinh_0.png"
-                                alt=""
-                              />
-                            </div>
-                            <div className="icon-play-introduce">
-                              <img
-                                src="/sites/all/themes/cassiopeia_theme/img/icon/icon-play.png"
-                                alt=""
-                              />
-                            </div>
-                          </div>
-                          <div className="content-home-introduce">
-                            <h2 className="heading heading-primary mb-16">
-                              Bắt đầu hành trình đánh thức sự bí ẩn
-                            </h2>
-                            <div className="txt-home-introduce ml-48">
-                              <p>
-                                K'Lang Adventure là cuộc hành trình khám phá kỳ
-                                quan và lưu giữ giá trị. Nơi sở hữu những khu
-                                rừng nguyên sinh đồ sộ cùng hàng trăm loài sinh
-                                vật quý - kho báu vô giá của mẹ thiên nhiên, nơi
-                                chưa từng có dấu tích của sự “xâm lấn". Nơi khắc
-                                hoạ nền văn hoá lâu đời của người Cơtu, những
-                                con người chất phác, mến khách, luôn tự hào với
-                                bản sắc dân tộc. <br />
-                                Chào mừng bạn đến với Tây Giang!
-                              </p>
-                            </div>
-                            <a
-                              href="https://klangadventure.com/en/tay-giang.html"
-                              className="btn brd-black radius-4 text-capitalize mt-16 ml-48">
-                              Khám Phá Thêm
-                            </a>
-                          </div>
-                        </div>
-                      </div>
-                    </section>
-                    <div className="sec sec-experience bg-gray">
-                      <div className="sec-container container">
-                        <div className="sec-header">
-                          <h2 className="heading heading-primary text-center">
-                            Trải nghiệm
-                          </h2>
-                          <div className="heading sub-heading">
-                            <p style={{ textAlign: "center" }}>
-                              Ngắt kết nối hoàn toàn với thế giới bên ngoài, hòa
-                              mình vào thiên nhiên qua các hoạt động trekking,
-                              camping trong rừng sâu. Hít trọn không khí mát
-                              lành của thảm thực vật nguyên sinh, thấm nhuần nét
-                              tinh tế trong văn hoá lâu đời của đồng bào Cơtu
-                              với nét đẹp về ẩm thực, nghệ thuật thủ công, âm
-                              nhạc và đời sống.
-                            </p>
-                          </div>
-                        </div>
-                        <div className="sec-content">
-                          <div className="box-home-experience d-flex alg-center gap-32">
-                            <div className="list-home-experience">
-                              <ul className="custom-nav">
-                                <li className="active" data-tid={46}>
-                                  <div className="list-experience-item">
-                                    <div className="header-experience-item d-flex alg-center gap-16">
-                                      <span>01</span>
-                                      <h3>Tây Giang</h3>
-                                    </div>
-                                    <a
-                                      href="/vi/tay-giang.html"
-                                      className="d-flex alg-center gap-8">
-                                      <span>Khám Phá Thêm</span>
-                                      <span>
-                                        <i className="fa-regular fa-arrow-right" />
-                                      </span>
-                                    </a>
-                                  </div>
-                                </li>
-                                <li className data-tid={12}>
-                                  <div className="list-experience-item">
-                                    <div className="header-experience-item d-flex alg-center gap-16">
-                                      <span>02</span>
-                                      <h3>Mạo hiểm &amp; thử thách</h3>
-                                    </div>
-                                    <a
-                                      href="/vi/mao-hiem-thu-thach.html"
-                                      className="d-flex alg-center gap-8">
-                                      <span>Khám Phá Thêm</span>
-                                      <span>
-                                        <i className="fa-regular fa-arrow-right" />
-                                      </span>
-                                    </a>
-                                  </div>
-                                </li>
-                                <li className data-tid={13}>
-                                  <div className="list-experience-item">
-                                    <div className="header-experience-item d-flex alg-center gap-16">
-                                      <span>03</span>
-                                      <h3>Văn hóa &amp; Bảo tồn</h3>
-                                    </div>
-                                    <a
-                                      href="/vi/van-hoa-bao-ton.html"
-                                      className="d-flex alg-center gap-8">
-                                      <span>Khám Phá Thêm</span>
-                                      <span>
-                                        <i className="fa-regular fa-arrow-right" />
-                                      </span>
-                                    </a>
-                                  </div>
-                                </li>
-                                <li className data-tid={14}>
-                                  <div className="list-experience-item">
-                                    <div className="header-experience-item d-flex alg-center gap-16">
-                                      <span>04</span>
-                                      <h3>Sự kiện</h3>
-                                    </div>
-                                    <a
-                                      href="/vi/su-kien.html"
-                                      className="d-flex alg-center gap-8">
-                                      <span>Khám Phá Thêm</span>
-                                      <span>
-                                        <i className="fa-regular fa-arrow-right" />
-                                      </span>
-                                    </a>
-                                  </div>
-                                </li>
-                              </ul>
-                            </div>
-                            <div className="img-home-experience">
-                              <div
-                                className="experience-change-image-js"
-                                style={{}}
-                                data-tid={46}>
-                                <img
-                                  src="https://klangadventure.com/sites/default/files/styles/style_777x474/public/file/image/tay_giang.png?itok=U6n-HAAN"
-                                  alt=""
-                                />
-                              </div>
-                              <div
-                                className="experience-change-image-js"
-                                style={{ display: "none" }}
-                                data-tid={12}>
-                                <img
-                                  src="https://klangadventure.com/sites/default/files/styles/style_777x474/public/file/image/mao_hiem_thu_thach_0.png?itok=8cN7Pj3D"
-                                  alt=""
-                                />
-                              </div>
-                              <div
-                                className="experience-change-image-js"
-                                style={{ display: "none" }}
-                                data-tid={13}>
-                                <img
-                                  src="https://klangadventure.com/sites/default/files/styles/style_777x474/public/file/image/van_hoa_bao_ton.png?itok=r5ja6ilq"
-                                  alt=""
-                                />
-                              </div>
-                              <div
-                                className="experience-change-image-js"
-                                style={{ display: "none" }}
-                                data-tid={14}>
-                                <img
-                                  src="https://klangadventure.com/sites/default/files/styles/style_777x474/public/file/image/su_kien_0.png?itok=7Ri3Zg4-"
-                                  alt=""
-                                />
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
+                    <CustomInfo
+                      title={translations.home?.info.title}
+                      description={translations.home?.info.description}
+                      more={translations.home?.info.more}></CustomInfo>
+                    <CustomSubs>
+                      {imagesSubs.map((image, index) => {
+                        const experiencesData =
+                          translations.home?.experiences.list || [];
+                        return (
+                          <img
+                            key={index}
+                            src={image.image}
+                            alt={image.title}
+                            experiences={experiencesData[index]}
+                          />
+                        );
+                      })}
+                    </CustomSubs>
                     <CustomTours>
-                    {imagesTours.map((image, index) => {
-                      const toursData = translations.home?.tours.list || [];
-                      return (
-                        <img
-                          key={index}
-                          src={image.image}
-                          alt={image.title}
-                          translations={toursData[index]}
-                        />
-                      );
-                    })}
+                      {imagesTours.map((image, index) => {
+                        const toursData = translations.home?.tours.list || [];
+                        return (
+                          <img
+                            key={index}
+                            src={image.image}
+                            alt={image.title}
+                            translations={toursData[index]}
+                          />
+                        );
+                      })}
                     </CustomTours>
-                    <section className="sec sec-review">
-                      <div className="sec-container container">
-                        <div className="sec-content">
-                          <div className="slider-cover">
-                            <div className="owl-carousel owl=theme slider-single">
-                              <div className="item">
-                                <div className="box-review">
-                                  <div className="row">
-                                    <div className="col-md-7">
-                                      <div className="img-box-review">
-                                        <img
-                                          src="https://klangadventure.com/sites/default/files/styles/style_699x460/public/file/image/traveler_reviews.png?itok=7p-RafhT"
-                                          alt=""
-                                        />
-                                      </div>
-                                    </div>
-                                    <div className="col-md-5">
-                                      <div className="sec-header mt-24">
-                                        <h2 className="heading heading-primary text-center">
-                                          Câu chuyện sau mỗi chuyến đi
-                                        </h2>
-                                      </div>
-                                      <div className="txt-box-review">
-                                        <p>
-                                          <span>
-                                            Được mệnh danh là “Sapa thu nhỏ” hay
-                                            “Đà Lạt của miền Trung”, Tây Giang
-                                            đã và đang là một cái tên rất hot
-                                            trên bản đồ xê dịch của các tín đồ
-                                            mê phượt. Đến đây, bạn không chỉ
-                                            được hòa mình vào khung cảnh thiên
-                                            nhiên bao la, thơ mộng; tận hưởng
-                                            cảm giác lành lạnh giữ núi rừng hay
-                                            ngắm những thửa ruộng bậc thang
-                                            tuyệt đẹp mà còn được tận mắt chiêm
-                                            ngưỡng những áng mây trắng bồng
-                                            bềnh.
-                                          </span>
-                                        </p>{" "}
-                                        <b>Kien Tran</b>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </section>
-                    <section className="sec sec-special pb-0">
-                      <div className="sec-container container">
-                        <div className="sec-header">
-                          <h2 className="heading heading-primary text-center">
-                            Ưu đãi đặc biệt{" "}
-                          </h2>
-                          <p style={{ textAlign: "center" }}>
-                            Đăng ký tour vào tháng 9 tới tháng 12 để đón nhận
-                            những ưu đãi đặc biệt&nbsp;
-                            <span>từ K'Lang Adventure.&nbsp;</span>
-                            <br />
-                            K'Lang Adventure - Hành trình khám phá sự bí ẩn
-                          </p>
-                        </div>
-                        <div className="sec-content">
-                          <div className="row">
-                            <div className="col-md-6">
-                              <div className="card card-type-2">
-                                <div className="card-img">
-                                  <a href="/vi/chuong-trinh-gia-sieu-hot-chao-mua-leo-nui-2023.html">
-                                    <img
-                                      src="https://klangadventure.com/sites/default/files/styles/style_555x280/public/file/image/su-kien.png?itok=lq-S-8Wq"
-                                      alt=""
-                                    />
-                                  </a>
-                                </div>
-                                <div className="card-info">
-                                  <h3 className="card-title">
-                                    <a
-                                      href="/vi/chuong-trinh-gia-sieu-hot-chao-mua-leo-nui-2023.html"
-                                      className="title">
-                                      Chương trình Giá - Siêu Hot - Chào mùa leo
-                                      núi 2023
-                                    </a>
-                                  </h3>
-                                  <div className="card-description">
-                                    <ul>
-                                      <li>
-                                        <span>
-                                          Mùa leo núi sắp điểm, mùa của những
-                                          thử thách chạm đỉnh, “săn mây” quên
-                                          lối về; ngắm view mà ở dưới xuôi người
-                                          ta gọi là triệu đô; trải nghiệm sự kết
-                                          hợp hoàn hảo giữa Trekking và Săn mây.
-                                        </span>
-                                      </li>
-                                    </ul>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                            <div className="col-md-6">
-                              <div className="card card-type-2">
-                                <div className="card-img">
-                                  <a href="/vi/chinh-sach-giam-gia-chung-cho-tour-ghep.html">
-                                    <img
-                                      src="https://klangadventure.com/sites/default/files/styles/style_555x280/public/file/image/rectangle_3464056.png?itok=mm_L_Sy7"
-                                      alt=""
-                                    />
-                                  </a>
-                                </div>
-                                <div className="card-info">
-                                  <h3 className="card-title">
-                                    <a
-                                      href="/vi/chinh-sach-giam-gia-chung-cho-tour-ghep.html"
-                                      className="title">
-                                      Chính sách giảm giá chung cho tour ghép
-                                    </a>
-                                  </h3>
-                                  <div className="card-description">
-                                    <ul>
-                                      <li>
-                                        Mua tour cho&nbsp;05 người đi cùng một
-                                        tour vào một ngày khởi hành:&nbsp;
-                                        <strong>giảm&nbsp;5%</strong>
-                                      </li>
-                                      <li>
-                                        Mua&nbsp;02 tour cùng một lúc:&nbsp;
-                                        <strong>giảm&nbsp;5%</strong>
-                                      </li>
-                                    </ul>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </section>
-                    <section className="sec sec-commitment">
-                      <div className="sec-container container">
-                        <div className="sec-header">
-                          <h2 className="heading heading-primary text-center">
-                            Responsible tourism development{" "}
-                          </h2>
-                          <div className="heading sub-heading">
-                            <p style={{ textAlign: "center" }}>
-                              <span id="docs-internal-guid-efefe776-7fff-98de-45c4-a84eaec61428">
-                                <span>
-                                  Sustainable development - K'Lang Adventure's
-                                  ambitions and long-term goals for experiential
-                                  tourism - cultural tourism in Tay Giang, Quang
-                                  Nam
-                                </span>
-                              </span>
-                            </p>
-                          </div>
-                        </div>
-                        <div className="sec-content">
-                          <div className="row">
-                            <div className="col-md-4">
-                              <div className="box-full-img">
-                                <div className="box-img">
-                                  <a href="/vi/moi-truong.html">
-                                    <img
-                                      src="https://klangadventure.com/sites/default/files/styles/style_360x280/public/2023-09/moi_truong.png?itok=gmlGw6S4"
-                                      alt=""
-                                    />
-                                  </a>
-                                </div>
-                                <div className="box-info box-full-img-center">
-                                  <div className="info">
-                                    <img
-                                      src="/sites/all/themes/cassiopeia_theme/img/icon/icon-commitment.png"
-                                      alt=""
-                                    />
-                                    <h3 className="title">Môi trường</h3>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                            <div className="col-md-4">
-                              <div className="box-full-img">
-                                <div className="box-img">
-                                  <a href="/vi/quan-tri.html">
-                                    <img
-                                      src="https://klangadventure.com/sites/default/files/styles/style_360x280/public/2023-09/quan_tri.png?itok=0oTp0BDm"
-                                      alt=""
-                                    />
-                                  </a>
-                                </div>
-                                <div className="box-info box-full-img-center">
-                                  <div className="info">
-                                    <img
-                                      src="/sites/all/themes/cassiopeia_theme/img/icon/icon-commitment.png"
-                                      alt=""
-                                    />
-                                    <h3 className="title">Quản trị</h3>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                            <div className="col-md-4">
-                              <div className="box-full-img">
-                                <div className="box-img">
-                                  <a href="/vi/xa-hoi.html">
-                                    <img
-                                      src="https://klangadventure.com/sites/default/files/styles/style_360x280/public/2023-09/xa_hoi.png?itok=S2yGfecD"
-                                      alt=""
-                                    />
-                                  </a>
-                                </div>
-                                <div className="box-info box-full-img-center">
-                                  <div className="info">
-                                    <img
-                                      src="/sites/all/themes/cassiopeia_theme/img/icon/icon-commitment.png"
-                                      alt=""
-                                    />
-                                    <h3 className="title">Xã hội</h3>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </section>
+                    <CustomReview
+                      review={translations.home?.review.list}></CustomReview>
+                    <CustomAds
+                      title={translations.home?.ads.title}
+                      content={translations.home?.ads.content}
+                      ads={translations.home?.ads.list}
+                      image={imagesAds}></CustomAds>
+                    <CustomDevelopment
+                      title={translations.home?.development.title}
+                      content={translations.home?.development.content}
+                      development={translations.home?.development.list}
+                      image={imagesTopic}></CustomDevelopment>
                   </div>
                 </div>
               </div>

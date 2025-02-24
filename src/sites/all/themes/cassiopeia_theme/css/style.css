@@ -776,7 +776,7 @@ li.active .list-experience-item {
     font-size: 40px;
     line-height: 64px;
     -webkit-text-stroke: .5px #9EA0A4;
-    color: transparent;
+    /* color: transparent; */
 }
 li.active .header-experience-item > span {
     color: #9EA0A4;
@@ -786,7 +786,7 @@ li.active .header-experience-item > span {
     font-size: 20px;
     line-height: 30px;
     letter-spacing: 2px;
-    color: var(--color-black);
+    /* color: var(--color-black); */
 }
 li.active .header-experience-item > h3 {
     color: var(--color-red);
@@ -794,10 +794,7 @@ li.active .header-experience-item > h3 {
 .list-experience-item a {
     padding: 0 16px;
     text-transform: capitalize;
-    color: var(--color-blue);
-    opacity: 0;
-	visibility: hidden;
-    transition: all .3s ease;
+    /* color: var(--color-blue); */
 }
 li.active .list-experience-item a {
 	visibility: visible;

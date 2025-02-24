@@ -105,19 +105,6 @@ function CustomTours({ children }) {
                               <div dir="auto">
                                 {tour.props.translations.description}
                               </div>
-                              {/* <div dir="auto">
-                                Tuyến trek rừng Lim bắt đầu từ thôn Tary, xã
-                                Lăng, men theo dòng suối Lăng để đến sông Lăng
-                                rồi tiến đến hồ thủy điện sông Bung 4 thuộc địa
-                                phận Nam Giang. Tuyến trek này sẽ đi qua cánh
-                                rừng lim xanh cổ thụ với những cây lim nhiều
-                                tuổi nhất lên đến 200 năm. Dọc tuyến trek này
-                                còn gặp rất nhiều cây chua khổng lồ mà gốc phải
-                                đến hơn chục người ôm mới hết.
-                              </div>
-                              <p>
-                                <span>&nbsp;</span>
-                              </p> */}
                             </span>
                           </div>
                           <div className="tag-selling mt-8">

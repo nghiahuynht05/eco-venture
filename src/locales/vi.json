@@ -18,7 +18,7 @@
         "tours": {
             "title": "Highlight tours",
             "description": "When the most beautiful season hits, K'Lang Adventure brings the unique experiential tours up, into places never before known on the world tourism map - Places that will leave you impressed with the beauty of nature and culture.",
-            "detail":"Xem chi tiết",
+            "detail": "Xem chi tiết",
             "list": [{
                     "image": "./tours/anh1.jpeg",
                     "title": "Trekking - Khám phá rừng lim cổ thụ 2 ngày",
@@ -55,6 +55,45 @@
                     "description": "Nằm sâu giữa đại ngàn Trường Sơn, làng Aur (xã A Vương, Tây Giang) giữ được nét bình yên..."
                 }
             ]
+        },
+        "experiences": {
+            "title": "Experiences",
+            "description": "“Completely-disconnect” from the outside world, immerse yourself in nature through trekking and camping activities in primeval forest. Breathing the cool air,, imbued with the sophistication of the long-standing culture of the Cotu people with the beauty of cuisine, arts and crafts, music and life.",
+            "list": [{
+                "id": "01",
+                "title": "Adventure & Challenge",
+                "link": "",
+                "detail": "More"
+            }, {
+                "id": "02",
+                "title": "Adventure & Challenge",
+                "link": "",
+                "detail": "More"
+            }]
+        },
+        "review": {
+            "title": "Stories after each trip",
+            "list": [{
+                "title": "Stories after each trip",
+                "image": "./experiences/anh3.png",
+                "comment": "Dubbed 'miniature Sapa' or 'Da Lat of the Central region', Tay Giang has been a very hot name on the travel map of backpackers. Coming here, you will not only be immersed in the vast and poetic natural scenery; Enjoy the cool feeling between the mountains and forests or watch the beautiful terraced fields but also admire the floating white clouds with your own eyes.",
+                "reviewer": "Kien Tran"
+            }, {
+                "title": "Beautifuly",
+                "image": "./experiences/anh2.png",
+                "comment": "Dubbed 'miniature Sapa' or 'Da Lat of the Central region', Tay Giang has been a very hot name on the travel map of backpackers. Coming here, you will not only be immersed in the vast and poetic natural scenery; Enjoy the cool feeling between the mountains and forests or watch the beautiful terraced fields but also admire the floating white clouds with your own eyes.",
+                "reviewer": "Kien Tran"
+            }]
+        },
+        "add": {
+            "title": "Ưu đãi đặc biệt",
+            "content": "Đăng ký tour vào tháng 9 tới tháng 12 để đón nhận những ưu đãi đặc biệt từ K'Lang Adventure. K'Lang Adventure - Hành trình khám phá sự bí ẩn",
+            "list": [{
+                "title": "Chương trình Giá - Siêu Hot - Chào mùa leo núi 2023",
+                "content": "Mùa leo núi sắp điểm, mùa của những thử thách chạm đỉnh, “săn mây” quên lối về; ngắm view mà ở dưới xuôi người ta gọi là triệu đô; trải nghiệm sự kết hợp hoàn hảo giữa Trekking và Săn mây.",
+                "link": ""
+            }]
         }
+
     }
 }
