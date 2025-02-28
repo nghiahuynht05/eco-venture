@@ -12,14 +12,6 @@ function CustomSubs({ children }) {
   );
   const [setContent] = useState({});
 
-  useEffect(() => {
-    import(`../locales/${translations}.json`)
-      .then((module) => {
-        setContent(module.default);
-      })
-      .catch((error) => console.error("Error loading language file:", error));
-  }, [translations]);
-
   const dataSubs = translations.home?.experiences || [];
 
   return (

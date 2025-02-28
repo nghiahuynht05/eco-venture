@@ -1,17 +1,8 @@
-import React, { useContext, useEffect, useState } from "react";
+import React, { useContext} from "react";
 import { LanguageContext } from "../context/languageContext";
 
 function CustomTours({ title, description, more }) {
   const { translations } = useContext(LanguageContext);
-  const [setContent] = useState({});
-
-  useEffect(() => {
-    import(`../locales/${translations}.json`)
-      .then((module) => {
-        setContent(module.default);
-      })
-      .catch((error) => console.error("Error loading language file:", error));
-  }, [translations]);
 
   return (
     <section className="sec sec-introduce">

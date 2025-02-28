@@ -1,19 +1,7 @@
 import Slider from "react-slick";
-import React, { useContext, useEffect, useState } from "react";
-import { LanguageContext } from "../context/languageContext";
+import React from "react";
 
 function CustomReview({ review }) {
-  const { translations } = useContext(LanguageContext);
-  const [setContent] = useState({});
-  const [currentIndex, setCurrentIndex] = useState(0);
-
-  useEffect(() => {
-    import(`../locales/${translations}.json`)
-      .then((module) => {
-        setContent(module.default);
-      })
-      .catch((error) => console.error("Error loading language file:", error));
-  }, [translations]);
 
   var reviewSetings = {
     dots: false,
