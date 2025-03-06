@@ -1,9 +1,6 @@
-import React, { useContext} from "react";
-import { LanguageContext } from "../context/languageContext";
+import React from "react";
 
 function CustomTours({ title, description, more }) {
-  const { translations } = useContext(LanguageContext);
-
   return (
     <section className="sec sec-introduce">
       <div className="sec-container container">

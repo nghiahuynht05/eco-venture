@@ -1,6 +1,5 @@
 .text-hover {
   color: #142838;
-  /* Màu mặc định */
   transition: color 0.3s ease;
 }
 
@@ -11,18 +10,16 @@
 
 .text-hover a span {
   color: #F8F8F8;
-  /* Màu mặc định */
   transition: color 0.3s ease;
 }
 
 .text-hover:hover a span {
   color: #073356;
-  /* Màu mặc định */
   transition: color 0.3s ease;
   -webkit-text-stroke: .5px #9EA0A4;
 }
 
-li:hover {
+.list-home-experience li:hover {
   color: #9EA0A4;
   transition: color 0.3sease;
   border-left: 3px solid #073356;

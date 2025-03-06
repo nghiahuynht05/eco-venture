@@ -1,4 +1,4 @@
-import React, { useContext, useEffect, useState } from "react";
+import React, { useContext } from "react";
 import Slider from "react-slick";
 import { LanguageContext } from "../context/languageContext";
 import background from "../data/backgroup";
@@ -10,7 +10,6 @@ import "./custom.slick.css";
 
 function CustomTours({ children }) {
   const { translations } = useContext(LanguageContext);
-  const [setContent] = useState({});
 
   const settings = {
     dots: true,
@@ -101,16 +100,14 @@ function CustomTours({ children }) {
                           </div>
                           <div className="tag-selling mt-8">
                             <div className="item">
-                              <img
-                                src={background[1].imgURL}
-                                alt=""
-                              />
+                              <img src={background[1].imgURL} alt="" />
                               <span>Trekking</span>
                             </div>
                           </div>
                           <a
                             href={tour.props.translations.link}
-                            className="btn brd-black radius-4 width-100 mt-24">{toursData.detail}
+                            className="btn brd-black radius-4 width-100 mt-24">
+                            {toursData.detail}
                           </a>
                         </div>
                       </div>

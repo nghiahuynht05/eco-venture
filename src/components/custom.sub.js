@@ -1,4 +1,4 @@
-import React, { useContext, useEffect, useState } from "react";
+import React, { useContext, useState } from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faArrowRight } from "@fortawesome/free-solid-svg-icons";
 import { LanguageContext } from "../context/languageContext";
@@ -10,7 +10,6 @@ function CustomSubs({ children }) {
   const [currentImage, setCurrentImage] = useState(
     children[0].props.experiences.image
   );
-  const [setContent] = useState({});
 
   const dataSubs = translations.home?.experiences || [];
 

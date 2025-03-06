@@ -145,7 +145,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .breadcrumb>li+li:before {
 	font-family: fontawesome;
-	content: "\f105";
+	/* content: "\f105"; */
 	color: #828282;
 }
 

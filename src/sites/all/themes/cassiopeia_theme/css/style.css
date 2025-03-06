@@ -2394,7 +2394,7 @@ input[type=number]::-webkit-outer-spin-button {
 	font-family: var(--fr-Metropolis-Regular);
 	color: var(--color-black);
 }
-.list-filter-experiences li.active a {
+.list-filter-experiences li.active span:hover {
 	font-family: var(--fr-Metropolis-Regular);
 	padding-bottom: 4px;
 	border-bottom: 1px solid #073356;

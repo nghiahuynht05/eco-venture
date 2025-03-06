@@ -1,12 +1,19 @@
 {
+    "header": {
+        "experiences": "experiences",
+        "events": "Events",
+        "press": "Press",
+        "sustainability": "Sustainability",
+        "offers": "Offers",
+        "gallery": "Gallery"
+    },
     "home": {
         "header": {
             "story": "Our story",
             "tours": "Tours",
             "experiences": "Experiences"
         },
-        "banner": [
-            {
+        "banner": [{
                 "title": "ECO VENTURE",
                 "description": "K'Lang Adventure opens a journey to explore the mysterious land of Tay Giang - a place never before known on the world tourism map."
             },
@@ -19,8 +26,7 @@
             "title": "Highlight tours",
             "description": "When the most beautiful season hits, K'Lang Adventure brings the unique experiential tours up, into places never before known on the world tourism map - Places that will leave you impressed with the beauty of nature and culture.",
             "detail": "View detail",
-            "list": [
-                {
+            "list": [{
                     "image": "./experiences/anh1.jpeg",
                     "title": "Trekking - Khám phá rừng lim cổ thụ 2 ngày",
                     "duration": "2 ngày 1 đêm",
@@ -70,8 +76,7 @@
         "experiences": {
             "title": "Experiences",
             "description": "“Completely-disconnect” from the outside world, immerse yourself in nature through trekking and camping activities in primeval forest. Breathing the cool air,, imbued with the sophistication of the long-standing culture of the Cotu people with the beauty of cuisine, arts and crafts, music and life.",
-            "list": [
-                {
+            "list": [{
                     "id": "01",
                     "title": "Adventure & Challenge",
                     "link": "./",
@@ -103,8 +108,7 @@
         },
         "review": {
             "title": "Stories after each trip",
-            "list": [
-                {
+            "list": [{
                     "title": "Stories after each trip",
                     "image": "./experiences/anh3.png",
                     "comment": "Dubbed 'miniature Sapa' or 'Da Lat of the Central region', Tay Giang has been a very hot name on the travel map of backpackers. Coming here, you will not only be immersed in the vast and poetic natural scenery; Enjoy the cool feeling between the mountains and forests or watch the beautiful terraced fields but also admire the floating white clouds with your own eyes.",
@@ -121,8 +125,7 @@
         "ads": {
             "title": "Ưu đãi đặc biệt",
             "content": "Đăng ký tour vào tháng 9 tới tháng 12 để đón nhận những ưu đãi đặc biệt từ K'Lang Adventure. K'Lang Adventure - Hành trình khám phá sự bí ẩn",
-            "list": [
-                {
+            "list": [{
                     "title": "Chương trình Giá - Siêu Hot - Chào mùa leo núi 2023",
                     "content": [
                         "Mùa leo núi sắp điểm, mùa của những thử thách chạm đỉnh, “săn mây” quên lối về; ngắm view mà ở dưới xuôi người ta gọi là triệu đô; trải nghiệm sự kết hợp hoàn hảo giữa Trekking và Săn mây."
@@ -142,8 +145,7 @@
         "development": {
             "title": "Our Commitment to Sustainability",
             "content": "This season – as the first blossoms of spring spark feelings of joy and renewal - we celebrate the exceptional natural environments across the globe that K’Lang Adventure calls home.",
-            "list": [
-                {
+            "list": [{
                     "topic": "Environment"
                 },
                 {
@@ -166,11 +168,9 @@
                 }
             },
             "middle": {
-                "list": [
-                    {
+                "list": [{
                         "title": "About Us",
-                        "items": [
-                            {
+                        "items": [{
                                 "name": "Contact Us",
                                 "link": ""
                             },
@@ -182,8 +182,7 @@
                     },
                     {
                         "title": "Experience",
-                        "items": [
-                            {
+                        "items": [{
                                 "name": "Contact Us",
                                 "link": ""
                             },
@@ -195,8 +194,7 @@
                     },
                     {
                         "title": "New",
-                        "items": [
-                            {
+                        "items": [{
                                 "name": "Contact Us",
                                 "link": ""
                             },
@@ -209,8 +207,7 @@
                 ],
                 "contact": {
                     "title": "Contact Us",
-                    "list": [
-                        {
+                    "list": [{
                             "name": "General Information:",
                             "link": "contact@klangadventure.com"
                         },
@@ -235,5 +232,78 @@
             },
             "bottom": {}
         }
+    },
+    "about": {
+        "title": "The story about K'Lang",
+        "description": "K’lang Adventure founded in 2023 is a subsidiary of TAAD Group.  We aim to become a leading travel and tourism enterprises in the Southeast Asian, developing sustainable tourism - experiential tourism.",
+        "list": [{
+            "title": "Về TAAD",
+            "description": "During 13 years of establishment and development, we are headquartered in Vietnam, the US, and Mexico, with 5 large textile factories and 7 member companies, TAAD Group has become a reputable partner in these fields: Fashion & Garment Export, Real Estate, Transportation, Travel Services. Oriented to a strategy of sustainable development and continuous innovation, we are always confident in providing our partners and customers with the most complete and perfect products, services and experiences."
+        }, {
+            "title": "K'LANG",
+            "description": "Choosing Tay Giang, Quang Nam - The land of original beauty to implement a project to develop sustainable tourism and recover the cultural identity of the Cotu people, TAAD Group decided to establish Trade Investment Joint Stock Company. K'lang Adventure Tourism Development and Trade.",
+            "sub": "Our investment fields include:",
+            "investment": [{
+                "fields": "Hotel",
+                "list": [{
+                    "title": "Accommodation",
+                    "items": ["K'lang Retreat Luxury Eco-Resort Resort", "Azaleas Glamping Resort", "Community tourism"]
+                }, {
+                    "title": "Homestay",
+                    "items": []
+                }]
+            }, {
+                "fields": "Travel",
+                "list": [{
+                    "title": "Adventure travel to explore nature",
+                    "items": []
+                }, {
+                    "title": "Travel to experience cultural discovery",
+                    "items": []
+                }]
+            }]
+        }, {
+            "title": "TẦM NHÌN, SỨ MỆNH",
+            "description": "Định hướng trở thành doanh nghiệp phát triển Du lịch Bền vững – Du lịch Trải nghiệm mang tầm cỡ khu vực Tứ Giác Đông Nam Á. K’lang Adventure sẽ đồng hành trong sứ mệnh đưa Tây Giang trở thành một trong những điểm đến thu hút khách du lịch trong và ngoài nước về du lịch xanh mang đậm chất liệu văn hóa bản địa đặc sắc hàng đầu Quảng Nam."
+        }]
+    },
+    "tours": {
+        "translate": {
+            "tourId": "Tour code",
+            "tourLocation": "Destinations",
+            "view": "View Tour"
+        },
+        "list": [{
+            "tourName": "Trekking - Conquering moss forest and K’lang Peak in 2 days ",
+            "tourDes": "This is an abbreviated itinerary with the shortest time so that trekkers who love nature and like challenges but don 't have much time can reach the top of Klang and explore the most wonderful points of this mysterious mountain. & nbsp;K 'lang Peak, standing at 2000 meters in Tay Giang, vividly brings to life the scenes from the movie Avatar with its lush moss forest stretching from the height of 1500 meters to the summit.This location also boasts the largest ancient rhododendron forest in Vietnam.From March to June, the rhododendrons bloom brilliantly, creating stunning white flower streaks amidst the green forest that cannot be found anywhere else.            ",
+            "tourId": "123",
+            "tourLocation": "Quang Nam Province",
+            "tourTime": "2 days 1 night"
+        }]
+    },
+    "experiences": [{
+            "tabs": "Adventure & Challenge",
+            "name": "Explore thrilling adventures and challenges in nature!"
+        },
+        {
+            "tabs": "Culture & Conservation",
+            "name": "Learn about local cultures and conservation efforts"
+        }, {
+            "tabs": "Events",
+            "name": "Check out upcoming events in the Tay Giang region"
+        }
+    ],
+    "offers": {
+        "title": "Special Offers",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley"
+    },
+    "gallery": {
+        "title": "Gallery",
+        "description": "Photos & Video",
+        "list": ["Mạo hiểm & thử thách", "Mạo hiểm & thử thách", "Mạo hiểm & thử thách", "Mạo hiểm & thử thách", "Mạo hiểm & thử thách", "Mạo hiểm & thử tháchs"]
+    },
+    "press": {
+        "title": "Press",
+        "description": "Ngắt kết nối hoàn toàn với thế giới bên ngoài, hòa mình vào thiên nhiên qua các hoạt động trekking, camping trong rừng sâu.Hít trọn không khí mát lành của thảm thực vật nguyên sinh, tinh tế trong văn hoá lâu đời của đồng bào Cơtu."
     }
 }
