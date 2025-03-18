@@ -1,4 +1,12 @@
 {
+    "header": {
+        "experiences": "experiences",
+        "events": "Events",
+        "press": "Press",
+        "sustainability": "Sustainability",
+        "offers": "Offers",
+        "gallery": "Gallery"
+    },
     "home": {
         "header": {
             "story": "Our story",
@@ -236,25 +244,66 @@
             "description": "Choosing Tay Giang, Quang Nam - The land of original beauty to implement a project to develop sustainable tourism and recover the cultural identity of the Cotu people, TAAD Group decided to establish Trade Investment Joint Stock Company. K'lang Adventure Tourism Development and Trade.",
             "sub": "Our investment fields include:",
             "investment": [{
-                "fields ": "Hotel",
+                "fields": "Hotel",
                 "list": [{
                     "title": "Accommodation",
-                    "item": ["K'lang Retreat Luxury Eco-Resort Resort", "Azaleas Glamping Resort", "Community tourism"]
+                    "items": ["K'lang Retreat Luxury Eco-Resort Resort", "Azaleas Glamping Resort", "Community tourism"]
                 }, {
-                    "homnestay": "Homestay",
-                    "item": ["a"]
+                    "title": "Homestay",
+                    "items": []
                 }]
             }, {
-                "fields ": "Travel",
+                "fields": "Travel",
                 "list": [{
-                    "title": "Adventure travel to explore nature"
+                    "title": "Adventure travel to explore nature",
+                    "items": []
                 }, {
-                    "title": "Travel to experience cultural discovery"
+                    "title": "Travel to experience cultural discovery",
+                    "items": []
                 }]
             }]
         }, {
             "title": "TẦM NHÌN, SỨ MỆNH",
             "description": "Định hướng trở thành doanh nghiệp phát triển Du lịch Bền vững – Du lịch Trải nghiệm mang tầm cỡ khu vực Tứ Giác Đông Nam Á. K’lang Adventure sẽ đồng hành trong sứ mệnh đưa Tây Giang trở thành một trong những điểm đến thu hút khách du lịch trong và ngoài nước về du lịch xanh mang đậm chất liệu văn hóa bản địa đặc sắc hàng đầu Quảng Nam."
         }]
+    },
+    "tours": {
+        "translate": {
+            "tourId": "Tour code",
+            "tourLocation": "Destinations",
+            "view": "View Tour"
+        },
+        "list": [{
+            "tourName": "Trekking - Conquering moss forest and K’lang Peak in 2 days ",
+            "tourDes": "This is an abbreviated itinerary with the shortest time so that trekkers who love nature and like challenges but don 't have much time can reach the top of Klang and explore the most wonderful points of this mysterious mountain. & nbsp;K 'lang Peak, standing at 2000 meters in Tay Giang, vividly brings to life the scenes from the movie Avatar with its lush moss forest stretching from the height of 1500 meters to the summit.This location also boasts the largest ancient rhododendron forest in Vietnam.From March to June, the rhododendrons bloom brilliantly, creating stunning white flower streaks amidst the green forest that cannot be found anywhere else.            ",
+            "tourId": "123",
+            "tourLocation": "Quang Nam Province",
+            "tourTime": "2 days 1 night"
+        }]
+    },
+    "experiences": [{
+            "tabs": "Adventure & Challenge",
+            "name": "Explore thrilling adventures and challenges in nature!"
+        },
+        {
+            "tabs": "Culture & Conservation",
+            "name": "Learn about local cultures and conservation efforts"
+        }, {
+            "tabs": "Events",
+            "name": "Check out upcoming events in the Tay Giang region"
+        }
+    ],
+    "offers": {
+        "title": "Special Offers",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley"
+    },
+    "gallery": {
+        "title": "Gallery",
+        "description": "Photos & Video",
+        "list": ["Mạo hiểm & thử thách", "Mạo hiểm & thử thách", "Mạo hiểm & thử thách", "Mạo hiểm & thử thách", "Mạo hiểm & thử thách", "Mạo hiểm & thử tháchs"]
+    },
+    "press": {
+        "title": "Press",
+        "description": "Ngắt kết nối hoàn toàn với thế giới bên ngoài, hòa mình vào thiên nhiên qua các hoạt động trekking, camping trong rừng sâu.Hít trọn không khí mát lành của thảm thực vật nguyên sinh, tinh tế trong văn hoá lâu đời của đồng bào Cơtu."
     }
 }

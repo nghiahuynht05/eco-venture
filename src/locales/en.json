@@ -274,12 +274,53 @@
             "view": "View Tour"
         },
         "list": [{
-            "tourName": "Trekking - Conquering moss forest and K’lang Peak in 2 days ",
+            "tourName": "Trekking - Conquering moss forest and K’lang Peak in 2 days",
             "tourDes": "This is an abbreviated itinerary with the shortest time so that trekkers who love nature and like challenges but don 't have much time can reach the top of Klang and explore the most wonderful points of this mysterious mountain. & nbsp;K 'lang Peak, standing at 2000 meters in Tay Giang, vividly brings to life the scenes from the movie Avatar with its lush moss forest stretching from the height of 1500 meters to the summit.This location also boasts the largest ancient rhododendron forest in Vietnam.From March to June, the rhododendrons bloom brilliantly, creating stunning white flower streaks amidst the green forest that cannot be found anywhere else.            ",
-            "tourId": "123",
+            "tourId": "EC123",
+            "tags": ["None Plastic", "Local communities"],
             "tourLocation": "Quang Nam Province",
-            "tourTime": "2 days 1 night"
-        }]
+            "tourTime": "2 days 1 night",
+            "detail": [{
+                "tourName": "Trekking - Conquering moss forest and K’lang Peak in 2 days",
+                "journey": [{
+                        "day": "1st day: Đà Nẵng - Thị trấn Tây Giang - Làng A Banh - Điểm cắm trại",
+                        "details": [{
+                            "time": "04:00",
+                            "title": "Being available at the pick-up point in Da Nang and then going to Tay Giang."
+                        }, {
+                            "time": "7:00",
+                            "title": "Arriving in Tay Giang town, following the tour guide, and having breakfast at a local restaurant."
+                        }]
+                    },
+                    {
+                        "day": "2nd day: K’lang peak - Abanh village - Tay Giang district - Da Nang city",
+                        "details": [{
+                            "time": "6:30",
+                            "title": "Waking up early and hiking to the peak to catch the sunrise. K'lang Peak is only about a 15-minute trek from the campsite. After watching the sunrise and taking photos, you will return to the campsite for breakfast."
+                        }, {
+                            "time": "8:00",
+                            "title": "Having breakfast and drinking coffee at the campsite. After breakfast, we will pack up our belongings and tents to leave the mountain. On the way, we will have time to take photos and explore the Avatar moss forest."
+                        }]
+                    }
+                ],
+                "images": ["../tours/images/tours1/images-01.jpg", "../tours/images/tours1/images-02.jpg"],
+                "question": {
+                    "title": "Q&A",
+                    "list": [{
+                        "question": "What is the minimum age for children to join this tour?",
+                        "answer": "This tour is suitable for children aged 12 or above and accompanied by parents or adults."
+                    }, {
+                        "question": "I don't have trekking experience. Can I join this program?",
+                        "answer": "The trek has a steep gradient, especially the nearly 1km incline at the foot of the mountain, so it can be quite challenging for those who are not physically active. You should review the tips and guidelines for preparing for a trip with a difficulty level of 6/10 here."
+                    }]
+                }
+            }]
+        }],
+        "detail": {
+            "nav": ["Describe", "Summary", "Images/Videos", "Journey", "Tour information", "Schedule & Price", "Equipment", "Difficulty of operation", "Important Note", "Q&A", "Download tour file"],
+            "idTag": ["describe-destination", "summary-destination", "images-destination", "journey-destination", "tour-destination", "schedule-destination", "equipment-destination", "level-destination", "important-destination", "qa-destination", "download-destination"]
+        }
+
     },
     "experiences": [{
             "tabs": "Adventure & Challenge",

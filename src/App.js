@@ -5,6 +5,7 @@ import { LanguageProvider } from "./context/languageContext";
 import Home from "./pages/home";
 import About from "./pages/about";
 import Tours from "./pages/tours";
+import ToursDetail from "./pages/tours-detail";
 import Experiences from "./pages/experiences";
 import Sustainability from "./pages/sustainability";
 import Offers from "./pages/offers";
@@ -22,6 +23,7 @@ const App = () => {
           <Route path="/" element={<Home />} />
           <Route path="/about" element={<About />} />
           <Route path="/tours" element={<Tours />} />
+          <Route path="/tours-details/:id" element={<ToursDetail />} />
           <Route path="/experiences" element={<Experiences />} />
           <Route path="/sustainability" element={<Sustainability />} />
           <Route path="/press" element={<Press />} />

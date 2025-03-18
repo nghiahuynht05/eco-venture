@@ -10,3 +10,7 @@
 .slick-slide {
     margin-right: 30px;
 }
+
+.description-item .slick-slide {
+    margin-right: 0px;
+}

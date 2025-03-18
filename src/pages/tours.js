@@ -1,4 +1,4 @@
-import React, { useContext } from "react";
+import React, { useState, useContext } from "react";
 
 import "../sites/all/themes/cassiopeia_theme/css/ultils.css";
 import "../sites/all/themes/cassiopeia_theme/css/alter.css";
@@ -17,7 +17,20 @@ import { LanguageContext } from "../context/languageContext";
 
 const Tours = () => {
   const { translations } = useContext(LanguageContext);
+  const data = translations.tours.list;
+  const [filteredData, setFilteredData] = useState(data);
 
+  const handleFilterChange = (selectedFilters) => {
+    if (selectedFilters.length === 0) {
+      setFilteredData(data);
+      return;
+    }
+
+    const filtered = data.filter((item) =>
+      selectedFilters.every((filter) => item.tags.includes(filter))
+    );
+    setFilteredData(filtered);
+  };
   return (
     <div className="wrapper-app">
       <header className="header header-f" id="header">
@@ -86,11 +99,25 @@ const Tours = () => {
                             <form action method="get" id="tour-list">
                               <div className="list-hotel-filter">
                                 <div className="row">
-                                <ToursFilter></ToursFilter>
-                                  {/* right */}
+                                  <ToursFilter
+                                    onFilterChange={
+                                      handleFilterChange
+                                    }></ToursFilter>
                                   <div className="col-md-9">
                                     <div className="block-container">
-                                      <ToursItem translate={translations.tours.translate} tours={translations.tours}></ToursItem>
+                                      {filteredData.length > 0 ? (
+                                        filteredData.map((item) => (
+                                          <ToursItem
+                                            translate={
+                                              translations.tours.translate
+                                            }
+                                            toursData={
+                                              item
+                                            }></ToursItem>
+                                        ))
+                                      ) : (
+                                        <p>No results found</p>
+                                      )}
                                     </div>
                                   </div>
                                 </div>

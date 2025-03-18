@@ -1,4 +1,6 @@
 import React, { useState } from "react";
+import emailjs from "@emailjs/browser";
+
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
   faFacebook,
@@ -27,30 +29,30 @@ function CustomFooter({ translations }) {
   // Xử lý gửi email
   const handleSubmit = (e) => {
     e.preventDefault();
-    setStatus("Đang gửi...");
+    setStatus("Sending...");
 
     // Cấu hình SMTP
-    window.Email.send({
-      Host: "smtp.gmail.com",
-      Username: "your-email@gmail.com", // Thay bằng email của bạn
-      Password: "your-app-password", // Thay bằng app password của bạn
-      To: formData.to,
-      From: "your-email@gmail.com", // Thay bằng email của bạn
-      Subject: "New Signup",
-      Body: formData.connect,
-    })
-      .then((message) => {
-        setStatus(top.status.success);
-        // Reset form
-        setFormData({
-          to: "",
-          subject: "",
-          message: "",
-        });
-      })
-      .catch((error) => {
-        setStatus(top.status.error);
-      });
+    emailjs
+      .send(
+        "service_vo852ys",
+        "template_j9ecejp",
+        formData,
+        "jL6JHRUVditpYnQBs"
+      )
+      .then(
+        (response) => {
+          console.log(
+            "Email sent successfully!",
+            response.status,
+            response.text
+          );
+          setStatus("Email sent successfully!");
+        },
+        (error) => {
+          console.error("Failed to send email.", error);
+          setStatus("Failed to send email.");
+        }
+      );
   };
 
   return (
@@ -70,8 +72,8 @@ function CustomFooter({ translations }) {
                     <div className="inp-footer">
                       <input
                         type="email"
-                        name="to"
-                        id="to"
+                        name="email"
+                        id="email"
                         placeholder={top.inputEmail}
                         onChange={handleChange}
                       />
@@ -121,7 +123,7 @@ function CustomFooter({ translations }) {
                 </div>
                 {/* copy-right */}
                 <div className="copy-right d-flex alg-center jtf-between pt-24 pb-24">
-                  <span>© 2023. All Rights Reserved</span>
+                  <span>© 2025. All Rights Reserved</span>
                   <div className="icon-contact">
                     <ul className="custom-nav">
                       <li>
