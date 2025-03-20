@@ -63,14 +63,21 @@ function CustomCarousel({ children }) {
                       style={{
                         "margin-bottom": "8px",
                         "font-family": "PlayfairDisplay-Medium",
-                        "font-size": "32px",
+                        "font-size": "42px",
                         "line-height": "40px",
                         "letter-spacing": "2px",
                         color: "#FFFFFF",
                       }}>
                       {item.props.title}
                     </span>
-                    <span>{item.props.description}
+                    <span style={{
+                        "margin-bottom": "8px",
+                        "font-family": "PlayfairDisplay-Medium",
+                        "font-size": "32px",
+                        "line-height": "40px",
+                        "letter-spacing": "2px",
+                        color: "#FFFFFF",
+                      }}>{item.props.description}
                     </span>
                   </div>
                 </div>

@@ -25,9 +25,6 @@ function ToursItem({ translate, toursData }) {
                   <div className="card-synop">
                     <div className="card-description">
                       <p>{item.tourDes}</p>
-                      <p>
-                        <span>&nbsp;</span>
-                      </p>
                     </div>
                     <div className="tag-selling mt-8">
                       <span>

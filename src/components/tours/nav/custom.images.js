@@ -5,7 +5,6 @@ import Slider from "react-slick";
 
 function CustomTourImages({ images }) {
   const children = images.images;
-  console.log(children);
 
   var imageSetings = {
     dots: true,

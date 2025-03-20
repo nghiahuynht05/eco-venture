@@ -3,7 +3,6 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faChevronDown, faChevronUp } from "@fortawesome/free-solid-svg-icons";
 
 function CustomQA({ qa }) {
-  console.log(qa);
   const itineraryData = qa.question.list;
   const [expanded, setExpanded] = useState(
     Array(itineraryData.length).fill(false)

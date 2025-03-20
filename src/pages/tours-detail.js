@@ -18,7 +18,6 @@ import { LanguageContext } from "../context/languageContext";
 const ToursDetails = () => {
   const { translations } = useContext(LanguageContext);
   const { id } = useParams();
-console.log(id)
   return (
     <div className="wrapper-app">
       <header className="header header-f" id="header">
@@ -48,7 +47,7 @@ console.log(id)
         </div>
       </section>
       <ToursDetail
-        transation={translations.tours.list[id].detail[id]}
+        dataTours={translations.tours.list[id].detail[id]}
         navText={translations.tours.detail.nav}
         idTag={translations.tours.detail.idTag}></ToursDetail>
       <CustomFooter translations={translations.home?.footer}></CustomFooter>

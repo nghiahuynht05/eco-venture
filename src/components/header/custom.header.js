@@ -8,7 +8,7 @@ function Hearder({ translations }) {
     <div className="header-menu">
       <ul className="custom-nav">
         <li className="first expanded">
-          <a href="/en">
+          <a href="/">
             EcoVenture
             <span>
               <FontAwesomeIcon icon={faChevronDown} />
