@@ -27,7 +27,9 @@ const Tours = () => {
     }
 
     const filtered = data.filter((item) =>
-      selectedFilters.every((filter) => item.tags.includes(filter))
+      selectedFilters.every((filter) =>
+        item.tags.some((tag) => tag.text === filter)
+      )
     );
     setFilteredData(filtered);
   };
@@ -111,9 +113,7 @@ const Tours = () => {
                                             translate={
                                               translations.tours.translate
                                             }
-                                            toursData={
-                                              item
-                                            }></ToursItem>
+                                            toursData={item}></ToursItem>
                                         ))
                                       ) : (
                                         <p>No results found</p>

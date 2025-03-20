@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-const filterOptions = ["None Plastic", "Local communities", "Save money"];
+const filterOptions = ["None Plastic", "Local Communities", "Save Money"];
 
 function ToursFilter({ onFilterChange }) {
   const [selectedFilters, setSelectedFilters] = useState([]);

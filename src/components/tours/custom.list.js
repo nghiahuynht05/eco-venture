@@ -37,13 +37,12 @@ function ToursItem({ translate, toursData }) {
                         {translate.tourLocation}:{" "}
                         <span>{item.tourLocation}</span>
                       </span>
-                      <div className="item">
-                        <img
-                          src="https://klangadventure.com/sites/default/files/file/image/icon-trekking_1.png"
-                          alt=""
-                        />
-                        <span>Trekking </span>
-                      </div>
+                      {item.tags.map((tagName) => (
+                        <div className="item">
+                          <img src={`../tours/tag/${tagName.icon}.png`} alt="" />
+                          <span>{tagName.text}</span>
+                        </div>
+                      ))}
                     </div>
                   </div>
                 </div>

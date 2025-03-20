@@ -274,14 +274,167 @@
             "view": "View Tour"
         },
         "list": [{
-            "tourName": "Trekking - Conquering moss forest and K’lang Peak in 2 days",
-            "tourDes": "This is an abbreviated itinerary with the shortest time so that trekkers who love nature and like challenges but don 't have much time can reach the top of Klang and explore the most wonderful points of this mysterious mountain. & nbsp;K 'lang Peak, standing at 2000 meters in Tay Giang, vividly brings to life the scenes from the movie Avatar with its lush moss forest stretching from the height of 1500 meters to the summit.This location also boasts the largest ancient rhododendron forest in Vietnam.From March to June, the rhododendrons bloom brilliantly, creating stunning white flower streaks amidst the green forest that cannot be found anywhere else.            ",
-            "tourId": "EC123",
-            "tags": ["None Plastic", "Local communities"],
-            "tourLocation": "Quang Nam Province",
+            "tourName": "TOUR 1 - Cultural Package",
+            "tourDes": "'Foodstep Of The Co Tu' is an immersive cultural tour that takes you deep into the heart of Tây Giang, where the ancient tradition of Co Tu people come to life. Each day of the journey reflects a different aspect of their rich heritage, from the sacred forests and survival wisdom of their ancestors to their vibrant craftsmanship and communal spirit. The experience begins with a trek through the majesty Pomu forest, home to centuries-old trees and hidden medicinal plants, guided by local experts who share the deep-rooted connection between the Cơ Tu and nature. The journey continues with interactive workshops, where you’ll learn traditional weaving, bamboo musical instrument making, and the art of cooking authentic Co Tu cuisine. Beyond exploring the culture, this tour provides a rare opportunity to live as the Cơ Tu do—staying in traditional homestays, participating in farming activities, and joining nightly gatherings filled with folk dances, storytelling, and music. This hands-on experience not only supports local livelihoods but also preserves a way of life that has been passed down through generations.",
+            "tourId": "CT101",
+            "tags": [{
+                "text": "None Plastic",
+                "icon": "no-plastic"
+            }, {
+                "text": "Local communities",
+                "icon": "community"
+            }],
+            "tourLocation": "Mang Den Province",
             "tourTime": "2 days 1 night",
             "detail": [{
-                "tourName": "Trekking - Conquering moss forest and K’lang Peak in 2 days",
+                "tourName": "TOUR 1 - Cultural Package",
+                "journey": [{
+                        "day": "1st day: Đà Nẵng - Thị trấn Tây Giang - Làng A Banh - Điểm cắm trại",
+                        "details": [{
+                            "time": "04:00",
+                            "title": "Being available at the pick-up point in Da Nang and then going to Tay Giang."
+                        }, {
+                            "time": "7:00",
+                            "title": "Arriving in Tay Giang town, following the tour guide, and having breakfast at a local restaurant."
+                        }]
+                    },
+                    {
+                        "day": "2nd day: K’lang peak - Abanh village - Tay Giang district - Da Nang city",
+                        "details": [{
+                            "time": "6:30",
+                            "title": "Waking up early and hiking to the peak to catch the sunrise. K'lang Peak is only about a 15-minute trek from the campsite. After watching the sunrise and taking photos, you will return to the campsite for breakfast."
+                        }, {
+                            "time": "8:00",
+                            "title": "Having breakfast and drinking coffee at the campsite. After breakfast, we will pack up our belongings and tents to leave the mountain. On the way, we will have time to take photos and explore the Avatar moss forest."
+                        }]
+                    }
+                ],
+                "images": ["../tours/images/tours1/images-01.jpg", "../tours/images/tours1/images-02.jpg"],
+                "question": {
+                    "title": "Q&A",
+                    "list": [{
+                        "question": "What is the minimum age for children to join this tour?",
+                        "answer": "This tour is suitable for children aged 12 or above and accompanied by parents or adults."
+                    }, {
+                        "question": "I don't have trekking experience. Can I join this program?",
+                        "answer": "The trek has a steep gradient, especially the nearly 1km incline at the foot of the mountain, so it can be quite challenging for those who are not physically active. You should review the tips and guidelines for preparing for a trip with a difficulty level of 6/10 here."
+                    }]
+                }
+            }]
+        }, {
+            "tourName": "TOUR 2 - Survival Package",
+            "tourDes": " The 'Echoes of the Jungle: Tay Giang Survival' tour is a thrilling and immersive adventure that blends survival skills, cultural exploration, and nature discovery. Over two days and one night, travelers will embark on a journey into the pristine forests of Tay Giang, where they will learn essential survival techniques, such as filtering water, setting up shelters, and navigating with compasses and maps. The experience is enriched by cultural interactions with the Co Tu people, including visiting the Guol house, witnessing the vibrant Tung Tung Za Za dance, and enjoying traditional cuisine like bamboo-tube rice, grilled chicken, and herbal-infused dishes. Guests will also partake in team-building activities, such as a 'Treasure Hunt' challenge and a nature photography contest, adding an element of excitement to the adventure. With breathtaking treks through ancient forests, refreshing dips in rocky streams, and evenings spent around a lively campfire, this tour offers an unparalleled opportunity to reconnect with nature, embrace local traditions, and create unforgettable memories in the heart of Tay Giang",
+            "tourId": "SV102",
+            "tags": [{
+                "text": "None Plastic",
+                "icon": "no-plastic"
+            }, {
+                "text": "Local communities",
+                "icon": "community"
+            }],
+            "tourLocation": "Mang Den Province",
+            "tourTime": "2 days 1 night",
+            "detail": [{
+                "tourName": "TOUR 2 - Survival Package",
+                "journey": [{
+                        "day": "1st day: Đà Nẵng - Thị trấn Tây Giang - Làng A Banh - Điểm cắm trại",
+                        "details": [{
+                            "time": "04:00",
+                            "title": "Being available at the pick-up point in Da Nang and then going to Tay Giang."
+                        }, {
+                            "time": "7:00",
+                            "title": "Arriving in Tay Giang town, following the tour guide, and having breakfast at a local restaurant."
+                        }]
+                    },
+                    {
+                        "day": "2nd day: K’lang peak - Abanh village - Tay Giang district - Da Nang city",
+                        "details": [{
+                            "time": "6:30",
+                            "title": "Waking up early and hiking to the peak to catch the sunrise. K'lang Peak is only about a 15-minute trek from the campsite. After watching the sunrise and taking photos, you will return to the campsite for breakfast."
+                        }, {
+                            "time": "8:00",
+                            "title": "Having breakfast and drinking coffee at the campsite. After breakfast, we will pack up our belongings and tents to leave the mountain. On the way, we will have time to take photos and explore the Avatar moss forest."
+                        }]
+                    }
+                ],
+                "images": ["../tours/images/tours1/images-01.jpg", "../tours/images/tours1/images-02.jpg"],
+                "question": {
+                    "title": "Q&A",
+                    "list": [{
+                        "question": "What is the minimum age for children to join this tour?",
+                        "answer": "This tour is suitable for children aged 12 or above and accompanied by parents or adults."
+                    }, {
+                        "question": "I don't have trekking experience. Can I join this program?",
+                        "answer": "The trek has a steep gradient, especially the nearly 1km incline at the foot of the mountain, so it can be quite challenging for those who are not physically active. You should review the tips and guidelines for preparing for a trip with a difficulty level of 6/10 here."
+                    }]
+                }
+            }]
+        }, {
+            "tourName": "TOUR 3 - Combine Cultural and Survival Package",
+            "tourDes": "The 'Pomu Challenge – Calling the Soul of Tay Giang' tour is a thrilling 3-day, 2-night adventure that seamlessly blends survival skills and cultural immersion in the breathtaking highlands of Tay Giang. Travelers will trek through the ancient Pơmu forest, learn to build shelters, filter water, and start fires, while also experiencing the rich traditions of the Cơ Tu people. Highlights include hands-on weaving, bamboo music workshops, and traditional baking, as well as evenings spent enjoying folk dances, storytelling, and BBQ feasts around a campfire. With opportunities to explore pristine waterfalls, sip herbal forest tea at sunrise, and stay in a traditional Guol house, this journey offers the perfect mix of nature, adventure, and culture, leaving travelers with unforgettable memories of Tay Giang",
+            "tourId": "CT101",
+            "tags": [{
+                "text": "None Plastic",
+                "icon": "no-plastic"
+            }, {
+                "text": "Local Communities",
+                "icon": "community"
+            },{
+                "text": "Save Money",
+                "icon": "save-money"
+            }],
+            "tourLocation": "Mang Den Province",
+            "tourTime": "2 days 1 night",
+            "detail": [{
+                "tourName": "TOUR 3 - Combine Cultural and Survival Package",
+                "journey": [{
+                        "day": "1st day: Đà Nẵng - Thị trấn Tây Giang - Làng A Banh - Điểm cắm trại",
+                        "details": [{
+                            "time": "04:00",
+                            "title": "Being available at the pick-up point in Da Nang and then going to Tay Giang."
+                        }, {
+                            "time": "7:00",
+                            "title": "Arriving in Tay Giang town, following the tour guide, and having breakfast at a local restaurant."
+                        }]
+                    },
+                    {
+                        "day": "2nd day: K’lang peak - Abanh village - Tay Giang district - Da Nang city",
+                        "details": [{
+                            "time": "6:30",
+                            "title": "Waking up early and hiking to the peak to catch the sunrise. K'lang Peak is only about a 15-minute trek from the campsite. After watching the sunrise and taking photos, you will return to the campsite for breakfast."
+                        }, {
+                            "time": "8:00",
+                            "title": "Having breakfast and drinking coffee at the campsite. After breakfast, we will pack up our belongings and tents to leave the mountain. On the way, we will have time to take photos and explore the Avatar moss forest."
+                        }]
+                    }
+                ],
+                "images": ["../tours/images/tours1/images-01.jpg", "../tours/images/tours1/images-02.jpg"],
+                "question": {
+                    "title": "Q&A",
+                    "list": [{
+                        "question": "What is the minimum age for children to join this tour?",
+                        "answer": "This tour is suitable for children aged 12 or above and accompanied by parents or adults."
+                    }, {
+                        "question": "I don't have trekking experience. Can I join this program?",
+                        "answer": "The trek has a steep gradient, especially the nearly 1km incline at the foot of the mountain, so it can be quite challenging for those who are not physically active. You should review the tips and guidelines for preparing for a trip with a difficulty level of 6/10 here."
+                    }]
+                }
+            }]
+        }, {
+            "tourName": "TOUR 4 - Combine Culture and Volunteer Package",
+            "tourDes": "The 'Pomu Challenge – Calling the Soul of Tay Giang' tour is a thrilling 3-day, 2-night adventure that seamlessly blends survival skills and cultural immersion in the breathtaking highlands of Tay Giang. Travelers will trek through the ancient Pơmu forest, learn to build shelters, filter water, and start fires, while also experiencing the rich traditions of the Cơ Tu people. Highlights include hands-on weaving, bamboo music workshops, and traditional baking, as well as evenings spent enjoying folk dances, storytelling, and BBQ feasts around a campfire. With opportunities to explore pristine waterfalls, sip herbal forest tea at sunrise, and stay in a traditional Guol house, this journey offers the perfect mix of nature, adventure, and culture, leaving travelers with unforgettable memories of Tay Giang",
+            "tourId": "CT101",
+            "tags": [{
+                "text": "None Plastic",
+                "icon": "no-plastic"
+            }, {
+                "text": "Local communities",
+                "icon": "community"
+            }],
+            "tourLocation": "Mang Den Province",
+            "tourTime": "2 days 1 night",
+            "detail": [{
+                "tourName": "TOUR 4 - Combine Culture and Volunteer Package",
                 "journey": [{
                         "day": "1st day: Đà Nẵng - Thị trấn Tây Giang - Làng A Banh - Điểm cắm trại",
                         "details": [{

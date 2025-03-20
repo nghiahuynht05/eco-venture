@@ -18,26 +18,17 @@ function CustomAbout({ content }) {
       <div className="page about-us-page">
         <div className="page-container">
           <div className="page-inner">
-            <section className="sec sec-img-about-us">
-              <div className="sec-container container">
-                <div className="sec-header">
-                  <h2 className="heading heading-secondary text-center">
-                    {content.title}
-                  </h2>
-                  <div className="heading sub-heading text-center text-center">
-                    <p style={{ textAlign: "center" }}>
-                      <span id="">
-                        <span> {content.description}</span>{" "}
-                      </span>
-                    </p>{" "}
-                  </div>
-                </div>
-                <div className="sec-content">
-                  <div className="img-about-us-top">
-                    <img
-                      src="https://klangadventure.com/sites/default/files/styles/style_1140x314/public/file/image/rectangle_3464070_10.png?itok=IBqPO0HF"
-                      alt=""
-                    />
+            <section className="sec-img-about-us">
+              <div className="banner">
+                <div className="banner-container">
+                  <div className="main-slider">
+                    {/* slider */}
+                    <div className="img-banner">
+                      <img
+                        src="https://klangadventure.com/sites/default/files/file/image/banner_4_6.png"
+                        alt=""
+                      />
+                    </div>
                   </div>
                 </div>
               </div>
