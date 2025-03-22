@@ -49,7 +49,7 @@ const ToursDetails = () => {
         </div>
       </section>
       <ToursDetail
-        dataTours={translations.tours.list[id].detail[id]}
+        dataTours={translations.tours.list[id].detail[0]}
         navText={translations.tours.detail.nav}
         idTag={translations.tours.detail.idTag}></ToursDetail>
       <CustomFooter translations={translations.home?.footer}></CustomFooter>

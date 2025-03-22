@@ -48,6 +48,7 @@ function CustomTours({ children }) {
   };
 
   const toursData = translations.home?.tours || [];
+  console.log(children);
   return (
     <section
       className="sec sec-selling-trip bg-img-dot"
@@ -73,7 +74,7 @@ function CustomTours({ children }) {
                   <div className="item">
                     <div className="card card-type-1">
                       <div className="card-img">
-                        <a href="/vi/trekking-kham-pha-rung-lim-co-thu-3-ngay.html">
+                        <a href={tour.props.translations.link}>
                           {tour}
                           <h3 className="card-title">
                             <span className="title">{tour.props.title}</span>
@@ -99,10 +100,15 @@ function CustomTours({ children }) {
                             </span>
                           </div>
                           <div className="tag-selling mt-8">
-                            <div className="item">
-                              <img src={background[1].imgURL} alt="" />
-                              <span>Trekking</span>
-                            </div>
+                            {tour.props.translations.tags.map((tagName) => (
+                              <div className="item">
+                                <img
+                                  src={`../tours/tag/${tagName.icon}.png`}
+                                  alt=""
+                                />
+                                <span>{tagName.text}</span>
+                              </div>
+                            ))}
                           </div>
                           <a
                             href={tour.props.translations.link}

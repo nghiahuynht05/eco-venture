@@ -1,10 +1,11 @@
-import React from "react";
+import React, { useRef } from "react";
 import Slider from "react-slick";
 
+import "./VideoPlayer.css";
 // import "./custom.slider.css";
 
 function CustomTourImages({ images }) {
-  const children = images.images;
+  const imagesVideos = images.images;
 
   var imageSetings = {
     dots: true,
@@ -16,6 +17,8 @@ function CustomTourImages({ images }) {
     slidesToScroll: 1,
   };
 
+  const videoRef = useRef(null);
+
   return (
     <div id="images-destination" className="description-item">
       <div className="description-item-title">
@@ -23,7 +26,7 @@ function CustomTourImages({ images }) {
       </div>
       <div className="description-item-content">
         <Slider {...imageSetings}>
-          {children.map((item, index) => (
+          {imagesVideos.map((item) => (
             <div className="slider-cover">
               <div className="owl-carousel owl-theme slider-single owl-loaded owl-drag">
                 <div className="owl-stage-outer">
@@ -35,6 +38,14 @@ function CustomTourImages({ images }) {
                     </div>
                   </div>
                 </div>
+              </div>
+              <div className="video-container">
+                <iframe
+                  src={item}
+                  width="640"
+                  height="360"
+                  allow="autoplay"
+                  style={{ border: "none" }}></iframe>
               </div>
             </div>
           ))}

@@ -28,43 +28,71 @@
             "detail": "View detail",
             "list": [{
                     "image": "./experiences/anh1.jpeg",
-                    "title": "Trekking - Khám phá rừng lim cổ thụ 2 ngày",
+                    "title": "TOUR 1 - Cultural Package",
                     "duration": "2 ngày 1 đêm",
-                    "price": "$150",
-                    "description": "Nếu rừng rêu và đỗ quyên trên đỉnh K'lang là thế giới Avatar siêu thực, còn rừng Pd Mu có...",
-                    "link": ""
+                    "price": "$110",
+                    "tags": [{
+                            "text": "None Plastic",
+                            "icon": "no-plastic"
+                        },
+                        {
+                            "text": "Local communities",
+                            "icon": "community"
+                        }
+                    ],
+                    "description": "'Foodstep Of The Co Tu' is an immersive cultural tour that takes you deep into the heart of Tây Giang, where the ancient tradition of Co Tu people come to life. Each day of the journey reflects a different aspect of their rich heritage, from the sacred forests and survival wisdom of their ancestors to their vibrant craftsmanship and communal spirit. The experience begins with a trek through the majesty Pomu forest, home to centuries-old trees and hidden medicinal plants, guided by local experts who share the deep-rooted connection between the Cơ Tu and nature. The journey continues with interactive workshops, where you’ll learn traditional weaving, bamboo musical instrument making, and the art of cooking authentic Co Tu cuisine. Beyond exploring the culture, this tour provides a rare opportunity to live as the Cơ Tu do—staying in traditional homestays, participating in farming activities, and joining nightly gatherings filled with folk dances, storytelling, and music. This hands-on experience not only supports local livelihoods but also preserves a way of life that has been passed down through generations.",
+                    "link": "/tours-details/0"
                 },
                 {
                     "image": "./experiences/anh2.jpg",
-                    "title": "Trekking - Khám phá rừng rêu và đỉnh K'lang 2 ngày",
+                    "title": "TOUR 2 - Survival Package",
                     "duration": "2 ngày 1 đêm",
-                    "price": "$150",
-                    "description": "Đây là một lịch trình rút gọn với thời gian ngắn nhất để những trekker yêu thiên nhiên và thíc...",
-                    "link": ""
+                    "price": "$120",
+                    "tags": [{
+                            "text": "None Plastic",
+                            "icon": "no-plastic"
+                        },
+                        {
+                            "text": "Local communities",
+                            "icon": "community"
+                        }
+                    ],
+                    "description": "The 'Echoes of the Jungle: Tay Giang Survival' tour is a thrilling and immersive adventure that blends survival skills, cultural exploration, and nature discovery. Over two days and one night, travelers will embark on a journey into the pristine forests of Tay Giang, where they will learn essential survival techniques, such as filtering water, setting up shelters, and navigating with compasses and maps. The experience is enriched by cultural interactions with the Co Tu people, including visiting the Guol house, witnessing the vibrant Tung Tung Za Za dance, and enjoying traditional cuisine like bamboo-tube rice, grilled chicken, and herbal-infused dishes. Guests will also partake in team-building activities, such as a 'Treasure Hunt' challenge and a nature photography contest, adding an element of excitement to the adventure. With breathtaking treks through ancient forests, refreshing dips in rocky streams, and evenings spent around a lively campfire, this tour offers an unparalleled opportunity to reconnect with nature, embrace local traditions, and create unforgettable memories in the heart of Tay Giang",
+                    "link": "/tours-details/1"
                 },
                 {
                     "image": "./experiences/anh3.jpg",
-                    "title": "Khám phá Aur - Ngôi làng hạnh phúc trong rừng Trường Sơn",
+                    "title": "TOUR 3 - Combine Cultural and Survival Package",
                     "duration": "3 ngày 2 đêm",
-                    "price": "$250",
-                    "description": "Nằm sâu giữa đại ngàn Trường Sơn, làng Aur (xã A Vương, Tây Giang) giữ được nét bình yên...",
-                    "link": ""
+                    "price": "$230",
+                    "tags": [{
+                            "text": "None Plastic",
+                            "icon": "no-plastic"
+                        },
+                        {
+                            "text": "Local communities",
+                            "icon": "community"
+                        }
+                    ],
+                    "description": "The 'Pomu Challenge – Calling the Soul of Tay Giang' tour is a thrilling 3-day, 2-night adventure that seamlessly blends survival skills and cultural immersion in the breathtaking highlands of Tay Giang. Travelers will trek through the ancient Pơmu forest, learn to build shelters, filter water, and start fires, while also experiencing the rich traditions of the Cơ Tu people. Highlights include hands-on weaving, bamboo music workshops, and traditional baking, as well as evenings spent enjoying folk dances, storytelling, and BBQ feasts around a campfire. With opportunities to explore pristine waterfalls, sip herbal forest tea at sunrise, and stay in a traditional Guol house, this journey offers the perfect mix of nature, adventure, and culture, leaving travelers with unforgettable memories of Tay Giang",
+                    "link": "/tours-details/2"
                 },
                 {
                     "image": "./experiences/anh4.png",
-                    "title": "Khám phá Aur - Ngôi làng hạnh phúc trong rừng Trường Sơn",
+                    "title": "TOUR 4 - Combine Culture and Volunteer Package",
                     "duration": "3 ngày 2 đêm",
-                    "price": "$200",
-                    "description": "Nằm sâu giữa đại ngàn Trường Sơn, làng Aur (xã A Vương, Tây Giang) giữ được nét bình yên...",
-                    "link": ""
-                },
-                {
-                    "image": "./experiences/anh5.jpeg",
-                    "title": "Khám phá Aur - Ngôi làng hạnh phúc trong rừng Trường Sơn",
-                    "duration": "3 ngày 2 đêm",
-                    "price": "$300",
-                    "description": "Nằm sâu giữa đại ngàn Trường Sơn, làng Aur (xã A Vương, Tây Giang) giữ được nét bình yên...",
-                    "link": ""
+                    "price": "$244",
+                    "tags": [{
+                            "text": "None Plastic",
+                            "icon": "no-plastic"
+                        },
+                        {
+                            "text": "Local communities",
+                            "icon": "community"
+                        }
+                    ],
+                    "description": "The 'Pomu Challenge – Calling the Soul of Tay Giang' tour is a thrilling 3-day, 2-night adventure that seamlessly blends survival skills and cultural immersion in the breathtaking highlands of Tay Giang. Travelers will trek through the ancient Pơmu forest, learn to build shelters, filter water, and start fires, while also experiencing the rich traditions of the Cơ Tu people. Highlights include hands-on weaving, bamboo music workshops, and traditional baking, as well as evenings spent enjoying folk dances, storytelling, and BBQ feasts around a campfire. With opportunities to explore pristine waterfalls, sip herbal forest tea at sunrise, and stay in a traditional Guol house, this journey offers the perfect mix of nature, adventure, and culture, leaving travelers with unforgettable memories of Tay Giang",
+                    "link": "/tours-details/3"
                 }
             ]
         },
@@ -245,7 +273,9 @@
             "view": "View Tour"
         },
         "list": [{
+                "id": 0,
                 "tourName": "TOUR 1 - Cultural Package",
+                "bannerImage": "../tours/images/tours1/images-01.jpg",
                 "tourDes": "'Foodstep Of The Co Tu' is an immersive cultural tour that takes you deep into the heart of Tây Giang, where the ancient tradition of Co Tu people come to life. Each day of the journey reflects a different aspect of their rich heritage, from the sacred forests and survival wisdom of their ancestors to their vibrant craftsmanship and communal spirit. The experience begins with a trek through the majesty Pomu forest, home to centuries-old trees and hidden medicinal plants, guided by local experts who share the deep-rooted connection between the Cơ Tu and nature. The journey continues with interactive workshops, where you’ll learn traditional weaving, bamboo musical instrument making, and the art of cooking authentic Co Tu cuisine. Beyond exploring the culture, this tour provides a rare opportunity to live as the Cơ Tu do—staying in traditional homestays, participating in farming activities, and joining nightly gatherings filled with folk dances, storytelling, and music. This hands-on experience not only supports local livelihoods but also preserves a way of life that has been passed down through generations.",
                 "tourId": "CT101",
                 "tags": [{
@@ -329,7 +359,13 @@
                     "notes": [],
                     "images": [
                         "../tours/images/tours1/images-01.jpg",
-                        "../tours/images/tours1/images-02.jpg"
+                        "https://drive.google.com/file/d/1BbSzk3XX2wKn9BpUXP3utbxPqWQeP0Ko/preview",
+                        "https://drive.google.com/file/d/1J_vpFkB9gUssOtcPBPtVadmEHeZbsfVZ/preview",
+                        "https://drive.google.com/file/d/1pTQE7qt1wwYaME72ZoY9DEOzjaY-3dvx/preview",
+                        "https://drive.google.com/file/d/1lHSfqyNRhzsJD9SvDztN4cyU1Wk_bK8Z/preview",
+                        "https://drive.google.com/file/d/1HRSuoVG7IZ5VEuA4eCRkDkelWTNJvBSO/preview",
+                        "https://drive.google.com/file/d/1eekb5oHIZCbiA3qykJWYLPnBLaL8damC/preview",
+                        "https://drive.google.com/file/d/1-xPifB7xff1R0K23B3y4zZKgTxGpF7SM//preview"
                     ],
                     "question": {
                         "title": "Q&A",
@@ -346,9 +382,11 @@
                 }]
             },
             {
+                "id": 1,
                 "tourName": "TOUR 2 - Survival Package",
+                "bannerImage": "../tours/images/tours2/images-01.jpg",
                 "tourDes": "The 'Echoes of the Jungle: Tay Giang Survival' tour is a thrilling and immersive adventure that blends survival skills, cultural exploration, and nature discovery. Over two days and one night, travelers will embark on a journey into the pristine forests of Tay Giang, where they will learn essential survival techniques, such as filtering water, setting up shelters, and navigating with compasses and maps. The experience is enriched by cultural interactions with the Co Tu people, including visiting the Guol house, witnessing the vibrant Tung Tung Za Za dance, and enjoying traditional cuisine like bamboo-tube rice, grilled chicken, and herbal-infused dishes. Guests will also partake in team-building activities, such as a 'Treasure Hunt' challenge and a nature photography contest, adding an element of excitement to the adventure. With breathtaking treks through ancient forests, refreshing dips in rocky streams, and evenings spent around a lively campfire, this tour offers an unparalleled opportunity to reconnect with nature, embrace local traditions, and create unforgettable memories in the heart of Tay Giang",
-                "tourId": "SV102 ",
+                "tourId": "SV102",
                 "tags": [{
                         "text": "None Plastic",
                         "icon": "no-plastic"
@@ -429,8 +467,8 @@
                     },
                     "notes": [],
                     "images": [
-                        "../tours/images/tours1/images-01.jpg",
-                        "../tours/images/tours1/images-02.jpg"
+                        "../tours/images/tours2/images-01.jpg",
+                        "https://drive.google.com/file/d/14ldyoLrvJbBfJOuZrAoL68qVpnPZ8f8V/preview"
                     ],
                     "question": {
                         "title": "Q&A",
@@ -447,7 +485,9 @@
                 }]
             },
             {
+                "id": 2,
                 "tourName": "TOUR 3 - Combine Cultural and Survival Package",
+                "bannerImage": "../tours/images/tours3/images-01.jpg",
                 "tourDes": "The 'Pomu Challenge – Calling the Soul of Tay Giang' tour is a thrilling 3-day, 2-night adventure that seamlessly blends survival skills and cultural immersion in the breathtaking highlands of Tay Giang. Travelers will trek through the ancient Pơmu forest, learn to build shelters, filter water, and start fires, while also experiencing the rich traditions of the Cơ Tu people. Highlights include hands-on weaving, bamboo music workshops, and traditional baking, as well as evenings spent enjoying folk dances, storytelling, and BBQ feasts around a campfire. With opportunities to explore pristine waterfalls, sip herbal forest tea at sunrise, and stay in a traditional Guol house, this journey offers the perfect mix of nature, adventure, and culture, leaving travelers with unforgettable memories of Tay Giang",
                 "tourId": "CP101",
                 "tags": [{
@@ -531,7 +571,13 @@
                     "notes": [],
                     "images": [
                         "../tours/images/tours1/images-01.jpg",
-                        "../tours/images/tours1/images-02.jpg"
+                        "https://drive.google.com/file/d/1I3ADuGQgkig-c4SANHKYuHZw31i0-yWF/preview",
+                        "https://drive.google.com/file/d/1ibeOu_FvCwTt722RtIvIr6WzFD5F3YBF/preview",
+                        "https://drive.google.com/file/d/1GVvEuHN0allydKJiVn0N_Bn3TR9LdHrp/preview",
+                        "https://drive.google.com/file/d/1gCVZVVs1pKbaGvqbco8P-8YFbb5Ez_6t/preview",
+                        "https://drive.google.com/file/d/1CDfaoqNNBGitAjI0ZsWeiG6iDgBbQVau/preview",
+                        "https://drive.google.com/file/d/1qbAtAQ2glsDQftL_JlwV5Bs6WuSVAjwy/preview",
+                        "https://drive.google.com/file/d/1hahaHYB2cPvJfhRVdNQ0tERFIB0TiC--/preview"
                     ],
                     "question": {
                         "title": "Q&A",
@@ -548,7 +594,9 @@
                 }]
             },
             {
+                "id": 3,
                 "tourName": "TOUR 4 - Combine Culture and Volunteer Package",
+                "bannerImage": "../tours/images/tours4/images-01.jpg",
                 "tourDes": "The 'Pomu Challenge – Calling the Soul of Tay Giang' tour is a thrilling 3-day, 2-night adventure that seamlessly blends survival skills and cultural immersion in the breathtaking highlands of Tay Giang. Travelers will trek through the ancient Pơmu forest, learn to build shelters, filter water, and start fires, while also experiencing the rich traditions of the Cơ Tu people. Highlights include hands-on weaving, bamboo music workshops, and traditional baking, as well as evenings spent enjoying folk dances, storytelling, and BBQ feasts around a campfire. With opportunities to explore pristine waterfalls, sip herbal forest tea at sunrise, and stay in a traditional Guol house, this journey offers the perfect mix of nature, adventure, and culture, leaving travelers with unforgettable memories of Tay Giang",
                 "tourId": "CV201",
                 "tags": [{
@@ -632,7 +680,12 @@
                     "notes": [],
                     "images": [
                         "../tours/images/tours1/images-01.jpg",
-                        "../tours/images/tours1/images-02.jpg"
+                        "https://drive.google.com/file/d/1UfOQSdaRYfL60Dk-8W5_zkFMaSUFOF2Q/preview",
+                        "https://drive.google.com/file/d/1SlFsfQ5NyVNOqJ3iKzHTXRYC8778XSA0/preview",
+                        "https://drive.google.com/file/d/1epqly6owkMl6J242YisxVKCDQ4VHgEoX/preview",
+                        "https://drive.google.com/file/d/1DmuN7D0pJBAVftTcqss00WLSsWsXtice/preview",
+                        "https://drive.google.com/file/d/1Q8QjhnBgggks3geuaBZ_HB0EQacXV81T/preview",
+                        "https://drive.google.com/file/d/1HjkmHdia7X9HC8NY_v_5H41xXiLOsAZ6/preview"
                     ],
                     "question": {
                         "title": "Q&A",

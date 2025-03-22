@@ -19,11 +19,7 @@ const images = [
   {
     id: 4,
     image: "./tours/anh4.png",
-  },
-  {
-    id: 5,
-    image: "./tours/anh5.jpeg",
-  },
+  }
 ];
 
 export default images;

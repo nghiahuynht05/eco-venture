@@ -9,6 +9,7 @@ import TourImages from "./nav/custom.images";
 import imageNav from "../../data/tour.nav";
 
 function ToursDetail({ dataTours, navText, idTag }) {
+  console.log(dataTours.bannerImage)
   return (
     <div className="region region-content">
       <section id="block-system-main" className="block block-system clearfix">
