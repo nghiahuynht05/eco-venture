@@ -13,6 +13,8 @@ import CustomFooter from "../components/custom.footer";
 import GalleryItem from "../components/gallery/custom.gallery";
 import CustomHeader from "../components/header/custom.header";
 import LanguageSelector from "../components/custom.language";
+import CustomChatBot from "../components/chatbot/custom.chatbot";
+
 import { LanguageContext } from "../context/languageContext";
 
 const Gallery = () => {
@@ -50,6 +52,7 @@ const Gallery = () => {
         imagesURLs={imagesGallery}
         translations={translations.gallery}></GalleryItem>
       <CustomFooter translations={translations.home?.footer}></CustomFooter>
+      <CustomChatBot></CustomChatBot>
     </div>
   );
 };

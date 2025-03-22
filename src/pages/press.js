@@ -12,6 +12,8 @@ import CustomFooter from "../components/custom.footer";
 import CustomPress from "../components/press/custome.press";
 import CustomHeader from "../components/header/custom.header";
 import LanguageSelector from "../components/custom.language";
+import CustomChatBot from "../components/chatbot/custom.chatbot";
+
 import { LanguageContext } from "../context/languageContext";
 
 const Gallery = () => {
@@ -47,6 +49,8 @@ const Gallery = () => {
       </section>
       <CustomPress translations={translations}></CustomPress>
       <CustomFooter translations={translations.home?.footer}></CustomFooter>
+      <CustomChatBot></CustomChatBot>
+
     </div>
   );
 };

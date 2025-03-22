@@ -17,6 +17,7 @@ import CustomLogo from "../components/custom.logo";
 import CustomAds from "../components/custom.ads";
 import CustomFooter from "../components/custom.footer";
 import CustomHeader from "../components/header/custom.header";
+import CustomChatBot from "../components/chatbot/custom.chatbot";
 import CustomDevelopment from "../components/custom.development";
 import LanguageSelector from "../components/custom.language";
 import { LanguageContext } from "../context/languageContext";
@@ -128,6 +129,7 @@ const Home = () => {
           </div>
         </main>
         <CustomFooter translations={translations.home?.footer}></CustomFooter>
+        <CustomChatBot></CustomChatBot>
       </div>
     </div>
   );

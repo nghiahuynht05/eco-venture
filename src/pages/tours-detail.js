@@ -13,6 +13,8 @@ import CustomFooter from "../components/custom.footer";
 import ToursDetail from "../components/tours/custom.detail";
 import CustomHeader from "../components/header/custom.header";
 import LanguageSelector from "../components/custom.language";
+import CustomChatBot from "../components/chatbot/custom.chatbot";
+
 import { LanguageContext } from "../context/languageContext";
 
 const ToursDetails = () => {
@@ -51,6 +53,8 @@ const ToursDetails = () => {
         navText={translations.tours.detail.nav}
         idTag={translations.tours.detail.idTag}></ToursDetail>
       <CustomFooter translations={translations.home?.footer}></CustomFooter>
+      <CustomChatBot></CustomChatBot>
+
     </div>
   );
 };

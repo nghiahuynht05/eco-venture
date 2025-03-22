@@ -11,6 +11,7 @@ import CustomLogo from "../components/custom.logo";
 import CustomFooter from "../components/custom.footer";
 import CustomAbout from "../components/custom.about";
 import CustomHeader from "../components/header/custom.header";
+import CustomChatBot from "../components/chatbot/custom.chatbot";
 import LanguageSelector from "../components/custom.language";
 import { LanguageContext } from "../context/languageContext";
 
@@ -47,6 +48,7 @@ const About = () => {
       </section>
       <CustomAbout content={translations.about}></CustomAbout>
       <CustomFooter translations={translations.home?.footer}></CustomFooter>
+      <CustomChatBot></CustomChatBot>
     </div>
   );
 };

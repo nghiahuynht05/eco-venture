@@ -12,6 +12,8 @@ import CustomFooter from "../components/custom.footer";
 import CustomOffers from "../components/offers/custom.offers";
 import CustomHeader from "../components/header/custom.header";
 import LanguageSelector from "../components/custom.language";
+import CustomChatBot from "../components/chatbot/custom.chatbot";
+
 import { LanguageContext } from "../context/languageContext";
 
 const Gallery = () => {
@@ -48,6 +50,8 @@ const Gallery = () => {
       </section>
       <CustomOffers translations={translations.offers}></CustomOffers>
       <CustomFooter translations={translations.home?.footer}></CustomFooter>
+      <CustomChatBot></CustomChatBot>
+
     </div>
   );
 };

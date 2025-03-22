@@ -13,6 +13,7 @@ import CustomFooter from "../components/custom.footer";
 import LanguageSelector from "../components/custom.language";
 import CustomHeader from "../components/header/custom.header";
 import CustomExperiences from "../components/experiences/custom.experiences";
+import CustomChatBot from "../components/chatbot/custom.chatbot";
 import { LanguageContext } from "../context/languageContext";
 
 const Experiences = () => {
@@ -50,6 +51,7 @@ const Experiences = () => {
         tabs={translations.experiences}
         images={imagesExperiences}></CustomExperiences>
       <CustomFooter translations={translations.home?.footer}></CustomFooter>
+      <CustomChatBot></CustomChatBot>
     </div>
   );
 };

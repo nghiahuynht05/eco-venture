@@ -13,6 +13,8 @@ import ToursItem from "../components/tours/custom.list";
 import ToursFilter from "../components/tours/custom.filter";
 import CustomHeader from "../components/header/custom.header";
 import LanguageSelector from "../components/custom.language";
+import CustomChatBot from "../components/chatbot/custom.chatbot";
+
 import { LanguageContext } from "../context/languageContext";
 
 const Tours = () => {
@@ -135,6 +137,7 @@ const Tours = () => {
         </section>
       </div>
       <CustomFooter translations={translations.home?.footer}></CustomFooter>
+      <CustomChatBot></CustomChatBot>
     </div>
   );
 };

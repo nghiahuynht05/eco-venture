@@ -12,6 +12,8 @@ import CustomFooter from "../components/custom.footer";
 import SustainabilityContent from "../components/sustainability/custom.sustainability";
 import CustomHeader from "../components/header/custom.header";
 import LanguageSelector from "../components/custom.language";
+import CustomChatBot from "../components/chatbot/custom.chatbot";
+
 import { LanguageContext } from "../context/languageContext";
 
 const Sustainability = () => {
@@ -48,6 +50,8 @@ const Sustainability = () => {
       </section>
       <SustainabilityContent></SustainabilityContent>
       <CustomFooter translations={translations.home?.footer}></CustomFooter>
+      <CustomChatBot></CustomChatBot>
+
     </div>
   );
 };
