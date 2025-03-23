@@ -115,7 +115,7 @@ function ToursDetail({ dataTours, navText, idTag }) {
                             <div className="col-md-3 sticky-top">
                               <div className="img-map-destination">
                                 <img
-                                  src="https://klangadventure.com/sites/default/files/file/image/kl02-01_2_2.jpg"
+                                  src={dataTours.map}
                                   alt=""
                                 />
                               </div>
