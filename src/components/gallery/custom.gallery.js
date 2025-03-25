@@ -28,9 +28,9 @@ function MyGallery({ imagesURLs, translations }) {
                                     </div>
                                     <div className="box-info box-full-img-bot">
                                       <div className="info">
-                                        <h3 className="title">
+                                        {/* <h3 className="title">
                                           {translations.list[index]}
-                                        </h3>
+                                        </h3> */}
                                       </div>
                                     </div>
                                   </div>
