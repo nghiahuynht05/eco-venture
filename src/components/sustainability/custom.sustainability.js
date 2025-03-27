@@ -113,6 +113,134 @@ function SustainabilityContent({ translate, tours }) {
                                     Không để lại dấu chân carbon!" Ecoventure bù
                                     đắp lượng CO2 cho mỗi người khi mua Tour
                                   </p>
+                                  <div className="result-solutions pledge-container">
+                                    <div className="pledge city fade-to-right">
+                                      <div className="image">
+                                        <img
+                                          src="https://www.footprintcalculator.org/assets/images/city.png"
+                                          alt="CITY"
+                                        />
+                                      </div>
+                                      <div className="text-container">
+                                        <h2 className="title">City</h2>
+                                        <p>
+                                          With 70-80% of the world’s population
+                                          expected to live in cities by 2050,
+                                          smart urban planning and development
+                                          strategies are crucial to managing our
+                                          resources.
+                                        </p>
+                                        <p>
+                                          <strong>
+                                            Visit your city’s website and
+                                            challenge your city leaders to
+                                            support sustainability policies.
+                                          </strong>
+                                        </p>
+                                      </div>
+                                      <div className="footer">
+                                        <div className="seeMore cta-bg-up">
+                                          <a>Learn More</a>
+                                        </div>
+                                        {/**/}
+                                        <app-social-media _nghost-tip-c60>
+                                          <div className="social-media">
+                                            <label className="share">
+                                              SHARE:
+                                            </label>
+                                            <label className="pledge-share">
+                                              Pledge and Share:
+                                            </label>
+                                            <ul>
+                                              <li>
+                                                <a className="share">
+                                                  <i className="fa fa-facebook" />
+                                                </a>
+                                              </li>
+                                              <li>
+                                                <a className="share">
+                                                  <i className="fa fa-twitter" />
+                                                </a>
+                                              </li>
+                                              <li>
+                                                <a className="share">
+                                                  <i className="fa fa-linkedin" />
+                                                </a>
+                                              </li>
+                                              <li>
+                                                <a className="share">
+                                                  <i className="fa fa-envelope" />
+                                                </a>
+                                              </li>
+                                            </ul>
+                                          </div>
+                                        </app-social-media>
+                                      </div>
+                                      {/**/}
+                                    </div>
+                                    <div className="pledge energy fade-to-left">
+                                      <div className="image">
+                                        <img
+                                          src="https://www.footprintcalculator.org/assets/images/energy.png"
+                                          alt="ENERGY"
+                                        />
+                                      </div>
+                                      <div className="text-container">
+                                        <h2 className="title">Energy</h2>
+                                        <p>
+                                          Renewable energy is a direct path to
+                                          reducing your Ecological Footprint and
+                                          addressing climate change.
+                                        </p>
+                                        <p>
+                                          <strong>
+                                            Can you take transit, bicycle or
+                                            walk instead of driving solo at
+                                            least once a month? Once a week?
+                                          </strong>
+                                        </p>
+                                      </div>
+                                      <div className="footer">
+                                        <div className="seeMore cta-bg-up">
+                                          <a>Learn More</a>
+                                        </div>
+                                        {/**/}
+                                        <app-social-media _nghost-tip-c60>
+                                          <div className="social-media">
+                                            <label className="share">
+                                              SHARE:
+                                            </label>
+                                            <label className="pledge-share">
+                                              Pledge and Share:
+                                            </label>
+                                            <ul>
+                                              <li>
+                                                <a className="share">
+                                                  <i className="fa fa-facebook" />
+                                                </a>
+                                              </li>
+                                              <li>
+                                                <a className="share">
+                                                  <i className="fa fa-twitter" />
+                                                </a>
+                                              </li>
+                                              <li>
+                                                <a className="share">
+                                                  <i className="fa fa-linkedin" />
+                                                </a>
+                                              </li>
+                                              <li>
+                                                <a className="share">
+                                                  <i className="fa fa-envelope" />
+                                                </a>
+                                              </li>
+                                            </ul>
+                                          </div>
+                                        </app-social-media>
+                                      </div>
+                                      {/**/}
+                                    </div>
+                                  </div>
                                 </p>
                               </div>
                             )}
@@ -126,62 +254,62 @@ function SustainabilityContent({ translate, tours }) {
                               <div className="tree-container">
                                 <img
                                   alt="tree1"
-                                  src="https://www.footprintcalculator.org/assets/images/tree/tree1.png"
+                                  src="../sustainability/tree1.png"
                                   className="tree1"
                                 />
                                 <img
                                   alt="tree2"
-                                  src="https://www.footprintcalculator.org/assets/images/tree/tree2.png"
+                                  src="../sustainability/tree2.png"
                                   className="tree2"
                                 />
                                 <img
                                   alt="tree3"
-                                  src="https://www.footprintcalculator.org/assets/images/tree/tree3.png"
+                                  src="../sustainability/tree3.png"
                                   className="tree3"
                                 />
                                 <img
                                   alt="tree4"
-                                  src="https://www.footprintcalculator.org/assets/images/tree/tree4.png"
+                                  src="../sustainability/tree4.png"
                                   className="tree4"
                                 />
                                 <img
                                   alt="tree5"
-                                  src="https://www.footprintcalculator.org/assets/images/tree/tree5.png"
+                                  src="../sustainability/tree5.png"
                                   className="tree5"
                                 />
                                 <img
                                   alt="tree6"
-                                  src="https://www.footprintcalculator.org/assets/images/tree/tree6.png"
+                                  src="../sustainability/tree6.png"
                                   className="tree6"
                                 />
                                 <img
                                   alt="tree7"
-                                  src="https://www.footprintcalculator.org/assets/images/tree/tree7.png"
+                                  src="../sustainability/tree7.png"
                                   className="tree7"
                                 />
                                 <img
                                   alt="tree8"
-                                  src="https://www.footprintcalculator.org/assets/images/tree/tree8.png"
+                                  src="../sustainability/tree8.png"
                                   className="tree8"
                                 />
                                 <img
                                   alt="tree9"
-                                  src="https://www.footprintcalculator.org/assets/images/tree/tree9.png"
+                                  src="../sustainability/tree9.png"
                                   className="tree9"
                                 />
                                 <img
                                   alt="tree10"
-                                  src="https://www.footprintcalculator.org/assets/images/tree/tree10.png"
+                                  src="../sustainability/tree10.png"
                                   className="tree10"
                                 />
                                 <img
                                   alt="tree11"
-                                  src="https://www.footprintcalculator.org/assets/images/tree/tree11.png"
+                                  src="../sustainability/tree11.png"
                                   className="tree11"
                                 />
                                 <img
                                   alt="tree12"
-                                  src="https://www.footprintcalculator.org/assets/images/tree/tree12.png"
+                                  src="../sustainability/tree12.png"
                                   className="tree12"
                                 />
                               </div>
@@ -189,7 +317,7 @@ function SustainabilityContent({ translate, tours }) {
                                 className="earth-container"
                                 style={{
                                   backgroundImage:
-                                    'url("https://www.footprintcalculator.org/assets/images/earth.png")',
+                                    'url("../sustainability/earth.png")',
                                 }}></div>
                             </div>
                           </app-footer>
