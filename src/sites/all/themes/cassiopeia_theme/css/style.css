@@ -946,7 +946,7 @@ li.active .list-experience-item a {
 
 /*------------ gallery ------------*/
 .box-gallery {
-	display: grid;
+	/* display: grid; */
 	grid-template-columns: repeat(4, 1fr);
 	gap: 16px;
 }

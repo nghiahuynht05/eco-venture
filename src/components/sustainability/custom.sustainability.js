@@ -53,13 +53,15 @@ function SustainabilityContent({ translate, tours }) {
                         <div
                           style={{
                             position: "absolute",
-                            top: "50%",
+                            top: "40%",
                             left: "50%",
                             transform: "translate(-50%, -50%)",
                             "text-align": "center",
                             zIndex: "999",
                           }}>
-                          <h2 className="heading heading-secondary text-center">
+                          <h2
+                            className="heading heading-secondary text-center"
+                            style={{ color: "#fff" }}>
                             Carbon Footprint Calculator
                           </h2>
                           <div className="text-center">
@@ -88,7 +90,12 @@ function SustainabilityContent({ translate, tours }) {
                             )}
                             {result && (
                               <div className="mt-6 bg-gray-50 p-4 rounded-lg shadow-inner">
-                                <p className="text-gray-700">
+                                <p
+                                  className="text-gray-700"
+                                  style={{
+                                    color: "#FFFFFF",
+                                    fontSize: "16px",
+                                  }}>
                                   Tour{" "}
                                   <span className="font-semibold">
                                     {result.tourId}
@@ -109,138 +116,70 @@ function SustainabilityContent({ translate, tours }) {
                                     {result.solution.power} kWh
                                   </span>{" "}
                                   năng lượng tái tạo.{" "}
-                                  <p>
-                                    Không để lại dấu chân carbon!" Ecoventure bù
-                                    đắp lượng CO2 cho mỗi người khi mua Tour
-                                  </p>
-                                  <div className="result-solutions pledge-container">
+                                  <div
+                                    className="result-solutions pledge-container"
+                                    style={{ display: "flex", margin: "20px" }}>
                                     <div className="pledge city fade-to-right">
                                       <div className="image">
+                                        <span
+                                          className="text-blue-500 font-bold"
+                                          style={{
+                                            position: "absolute",
+                                            top: "10%",
+                                            left: "50%",
+                                            transform: "translate(-50%, -50%)",
+                                            fontSize: "32px",
+                                            fontWeight: "700",
+                                            color: "#ff9000",
+                                          }}>
+                                          + {result.solution.power} kWh
+                                        </span>
                                         <img
-                                          src="https://www.footprintcalculator.org/assets/images/city.png"
+                                          style={{
+                                            display: "block",
+                                            height: "22rem",
+                                            width: "auto",
+                                            margin: "auto",
+                                            border: 0,
+                                          }}
+                                          src="https://www.footprintcalculator.org/assets/images/energy.png"
                                           alt="CITY"
                                         />
                                       </div>
-                                      <div className="text-container">
-                                        <h2 className="title">City</h2>
-                                        <p>
-                                          With 70-80% of the world’s population
-                                          expected to live in cities by 2050,
-                                          smart urban planning and development
-                                          strategies are crucial to managing our
-                                          resources.
-                                        </p>
-                                        <p>
-                                          <strong>
-                                            Visit your city’s website and
-                                            challenge your city leaders to
-                                            support sustainability policies.
-                                          </strong>
-                                        </p>
-                                      </div>
-                                      <div className="footer">
-                                        <div className="seeMore cta-bg-up">
-                                          <a>Learn More</a>
-                                        </div>
-                                        {/**/}
-                                        <app-social-media _nghost-tip-c60>
-                                          <div className="social-media">
-                                            <label className="share">
-                                              SHARE:
-                                            </label>
-                                            <label className="pledge-share">
-                                              Pledge and Share:
-                                            </label>
-                                            <ul>
-                                              <li>
-                                                <a className="share">
-                                                  <i className="fa fa-facebook" />
-                                                </a>
-                                              </li>
-                                              <li>
-                                                <a className="share">
-                                                  <i className="fa fa-twitter" />
-                                                </a>
-                                              </li>
-                                              <li>
-                                                <a className="share">
-                                                  <i className="fa fa-linkedin" />
-                                                </a>
-                                              </li>
-                                              <li>
-                                                <a className="share">
-                                                  <i className="fa fa-envelope" />
-                                                </a>
-                                              </li>
-                                            </ul>
-                                          </div>
-                                        </app-social-media>
-                                      </div>
-                                      {/**/}
                                     </div>
                                     <div className="pledge energy fade-to-left">
                                       <div className="image">
-                                        <img
-                                          src="https://www.footprintcalculator.org/assets/images/energy.png"
+                                        <span
+                                          className="text-green-500 font-bold"
+                                          style={{
+                                            position: "absolute",
+                                            top: "10%",
+                                            left: "50%",
+                                            transform: "translate(-50%, -50%)",
+                                            fontSize: "32px",
+                                            fontWeight: "700",
+                                            color: "#ff9000",
+                                          }}>
+                                          + {result.solution.tree} cây
+                                        </span>
+                                        <img style={{
+                                            display: "block",
+                                            height: "22rem",
+                                            width: "auto",
+                                            margin: "auto",
+                                            border: 0,
+                                          }}
+                                          src="https://www.footprintcalculator.org/assets/images/pledge-planet.png"
                                           alt="ENERGY"
                                         />
                                       </div>
-                                      <div className="text-container">
-                                        <h2 className="title">Energy</h2>
-                                        <p>
-                                          Renewable energy is a direct path to
-                                          reducing your Ecological Footprint and
-                                          addressing climate change.
-                                        </p>
-                                        <p>
-                                          <strong>
-                                            Can you take transit, bicycle or
-                                            walk instead of driving solo at
-                                            least once a month? Once a week?
-                                          </strong>
-                                        </p>
-                                      </div>
-                                      <div className="footer">
-                                        <div className="seeMore cta-bg-up">
-                                          <a>Learn More</a>
-                                        </div>
-                                        {/**/}
-                                        <app-social-media _nghost-tip-c60>
-                                          <div className="social-media">
-                                            <label className="share">
-                                              SHARE:
-                                            </label>
-                                            <label className="pledge-share">
-                                              Pledge and Share:
-                                            </label>
-                                            <ul>
-                                              <li>
-                                                <a className="share">
-                                                  <i className="fa fa-facebook" />
-                                                </a>
-                                              </li>
-                                              <li>
-                                                <a className="share">
-                                                  <i className="fa fa-twitter" />
-                                                </a>
-                                              </li>
-                                              <li>
-                                                <a className="share">
-                                                  <i className="fa fa-linkedin" />
-                                                </a>
-                                              </li>
-                                              <li>
-                                                <a className="share">
-                                                  <i className="fa fa-envelope" />
-                                                </a>
-                                              </li>
-                                            </ul>
-                                          </div>
-                                        </app-social-media>
-                                      </div>
-                                      {/**/}
                                     </div>
                                   </div>
+                                  <p>Không để lại dấu chân carbon!</p>
+                                  <p>
+                                    Ecoventure bù đắp lượng CO2 cho mỗi người
+                                    khi mua Tour.
+                                  </p>
                                 </p>
                               </div>
                             )}

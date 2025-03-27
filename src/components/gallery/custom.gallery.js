@@ -1,4 +1,5 @@
 import React from "react";
+import Masonry, { ResponsiveMasonry } from "react-responsive-masonry";
 
 function MyGallery({ imagesURLs, translations }) {
   return (
@@ -15,28 +16,29 @@ function MyGallery({ imagesURLs, translations }) {
                       <div className="sec-container container">
                         <div className="sec-content mt-0">
                           <div className="box-gallery">
-                            <div className="item txt-box-gallery">
+                            <div
+                              className="item txt-box-gallery"
+                              style={{ margin: "15px" }}>
                               <span>{translations.title}</span>
                               <span>{translations.description}</span>
                             </div>
-                            {imagesURLs.map((url, index) => (
-                              <div className="item">
-                                <a data-fancybox="gallery42" href={url.imgURL}>
-                                  <div className="box-full-img">
-                                    <div className="box-img">
-                                      <img src={url.imgURL} alt="" />
-                                    </div>
-                                    <div className="box-info box-full-img-bot">
-                                      <div className="info">
-                                        {/* <h3 className="title">
-                                          {translations.list[index]}
-                                        </h3> */}
+                            <ResponsiveMasonry columnsCount={1} gutter="10px">
+                              <Masonry>
+                                {imagesURLs.map((url, index) => (
+                                  <div className="item">
+                                    <a
+                                      data-fancybox="gallery42"
+                                      href={url.imgURL}>
+                                      <div className="box-full-img">
+                                        <div className="box-img">
+                                          <img src={url.imgURL} alt="" />
+                                        </div>
                                       </div>
-                                    </div>
+                                    </a>
                                   </div>
-                                </a>
-                              </div>
-                            ))}
+                                ))}
+                              </Masonry>
+                            </ResponsiveMasonry>
                           </div>
                         </div>
                       </div>

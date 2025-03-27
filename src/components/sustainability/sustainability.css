@@ -693,7 +693,7 @@ app-summary {
 
 
 .no-auth {
-    min-height: 80vh;
+    min-height: 100vh;
     background: linear-gradient(0deg, #c4e0e5, #4ca1af 99%)
 }
 
