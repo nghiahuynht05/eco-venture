@@ -127,21 +127,21 @@ function CustomFooter({ translations }) {
                   <div className="icon-contact">
                     <ul className="custom-nav">
                       <li>
-                        <a href="https://www.facebook.com/KlangAdventure">
+                        <a href="">
                           <span>
                             <FontAwesomeIcon icon={faFacebook} />
                           </span>
                         </a>
                       </li>
                       <li>
-                        <a href="https://www.instagram.com/klang.adventure?fbclid=IwAR36y3jjAAtqILkL7hESKoFsXceSzdJJw1mAkGsf2C3zYUHPf65jGf2d2Aw">
+                        <a href="">
                           <span>
                             <FontAwesomeIcon icon={faLinkedin} />
                           </span>
                         </a>
                       </li>
                       <li>
-                        <a href="https://www.instagram.com/klang.adventure?fbclid=IwAR36y3jjAAtqILkL7hESKoFsXceSzdJJw1mAkGsf2C3zYUHPf65jGf2d2Aw">
+                        <a href="">
                           <span>
                             <FontAwesomeIcon icon={faYoutube} />
                           </span>

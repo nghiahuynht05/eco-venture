@@ -19,6 +19,7 @@ import CustomFooter from "../components/custom.footer";
 import CustomHeader from "../components/header/custom.header";
 import CustomChatBot from "../components/chatbot/custom.chatbot";
 import CustomDevelopment from "../components/custom.development";
+import CustomMenuPopup from "../components/header/custom.menu";
 import LanguageSelector from "../components/custom.language";
 import { LanguageContext } from "../context/languageContext";
 
@@ -47,9 +48,7 @@ const Home = () => {
                   </a>
                 </div>
               </div>
-              <div className="header-menu-mb open-close-el">
-                <span />
-              </div>
+              <CustomMenuPopup translations={translations}></CustomMenuPopup>
             </div>
           </div>
         </header>

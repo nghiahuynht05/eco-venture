@@ -26,7 +26,7 @@ function Offers({ translations }) {
                           <div className="special-banner">
                             <div className="special-banner-img">
                               <img
-                                src="https://klangadventure.com/sites/default/files/banner-essentials.png"
+                                src=""
                                 alt=""
                               />
                             </div>

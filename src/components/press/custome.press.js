@@ -30,7 +30,7 @@ function Press({ translations }) {
                                   <div className="card-img">
                                     <a href="/vi/all-elephants-deserve-the-freedom-to-roam-3.html">
                                       <img
-                                        src="https://klangadventure.com/sites/default/files/styles/style_360x440/public/file/image/img-room-booking-1_1.png?itok=Q5F6KmT5"
+                                        src=""
                                         alt=""
                                       />
                                     </a>

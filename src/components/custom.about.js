@@ -25,7 +25,7 @@ function CustomAbout({ content }) {
                     {/* slider */}
                     <div className="img-banner">
                       <img
-                        src="https://klangadventure.com/sites/default/files/file/image/banner_4_6.png"
+                        src=""
                         alt=""
                       />
                     </div>
@@ -59,7 +59,7 @@ function CustomAbout({ content }) {
                                   <div className="item">
                                     <div className="img-slider-about-us">
                                       <img
-                                        src="https://klangadventure.com/sites/default/files/styles/style_555x448/public/file/image/img-about-us-5_0.png?itok=jZWFwKIr"
+                                        src=""
                                         alt=""
                                       />
                                     </div>
@@ -125,7 +125,7 @@ function CustomAbout({ content }) {
                                   <div className="item">
                                     <div className="img-slider-about-us">
                                       <img
-                                        src="https://klangadventure.com/sites/default/files/styles/style_555x448/public/file/image/our_core_value_-_about_us_page_0.png?itok=c9ODI2gu"
+                                        src=""
                                         alt=""
                                       />
                                     </div>
@@ -165,7 +165,7 @@ function CustomAbout({ content }) {
                                   <div className="item">
                                     <div className="img-slider-about-us">
                                       <img
-                                        src="https://klangadventure.com/sites/default/files/styles/style_555x448/public/file/image/our_mission_-_about_us_-_page_0.png?itok=Q_7zQJtb"
+                                        src=""
                                         alt=""
                                       />
                                     </div>

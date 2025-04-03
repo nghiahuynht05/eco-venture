@@ -24,7 +24,7 @@ function CustomTours({ title, description, more }) {
               <p>{description}</p>
             </div>
             <a
-              href="https://klangadventure.com/en/tay-giang.html"
+              href=""
               className="btn brd-black radius-4 text-capitalize mt-16 ml-48">
               {more}
             </a>
