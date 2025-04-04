@@ -47,7 +47,7 @@ const Gallery = () => {
           <div className="tabs"></div>
         </div>
       </section>
-      <CustomPress translations={translations}></CustomPress>
+      <CustomPress content={translations}></CustomPress>
       <CustomFooter translations={translations.home?.footer}></CustomFooter>
       <CustomChatBot></CustomChatBot>
 

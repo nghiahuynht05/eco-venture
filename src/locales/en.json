@@ -1020,7 +1020,90 @@
         "list": []
     },
     "press": {
-        "title": "Press",
-        "description": "Ngắt kết nối hoàn toàn với thế giới bên ngoài, hòa mình vào thiên nhiên qua các hoạt động trekking, camping trong rừng sâu.Hít trọn không khí mát lành của thảm thực vật nguyên sinh, tinh tế trong văn hoá lâu đời của đồng bào Cơtu."
+        "title": "Ứng dụng công nghệ VR/AR vào tour du lịch Tây Giang",
+        "list": [
+            {
+                "title": "Trải nghiệm thực tế ảo (VR) khám phá rừng Pơ Mu và văn hóa Cơ Tu",
+                "description": {
+                    "text": "Sử dụng VR để tạo ra các chuyến du lịch ảo đưa khách tham quan Quần thể rừng Pơ Mu trên núi Zi'link (Tây Giang), nơi có 1.396 cây và 725 cây đạt chuẩn Cây Di sản Việt Nam. Du khách có thể 'đi bộ' qua rừng nguyên sinh, nghe âm thanh tự nhiên và tìm hiểu về hệ sinh thái đa dạng ngay từ nhà.",
+                    "content": "Mô tả"
+                },
+                "application": {
+                    "text": "Tái hiện không gian làng Cơ Tu với nhà Gươl, lễ hội truyền thống và các điệu múa múa qua mô hình 3D động động. Du khách đeo kính VR có thể 'tham gia' các nghi lễ hoặc xem nghệ thuật Cơ Tu làm nghề thủ công.",
+                    "content": "Ứng dụng văn hóa hóa"
+                },
+                "benefits": {
+                    "text": "Thu hút du khách quốc tế, đặc biệt những người không thể đến trực tiếp, đồng thời quảng bá vẻ đẹp thiên nhiên và văn hóa Tây Giang.",
+                    "content": "Lợi ích"
+                }
+            },
+            {
+                "title": "Hướng dẫn AR ảo tại điểm đến thực tế",
+                "description": {
+                    "text": "Phát triển ứng dụng AR trên điện thoại thông minh để du khách quét các địa điểm tại Tây Giang (như rừng Pơ Mu, làng Cơ Tu). Khi quét, thông tin về lịch sử, ý nghĩa văn hóa, hoặc hướng dẫn đường đi sẽ hiện lên dưới dạng hình ảnh, video hoặc văn bản chồng lên khung cảnh thực tế.",
+                    "content": "Mô tả"
+                },
+                "application": {
+                    "text": "Tại rừng Pơ Mu, AR có thể hiển thị thông tin về từng cây cổ thụ, tuổi đời, hoặc người Cơ Tu bảo vệ rừng. Tại làng, AR tái hiện hình ảnh quá khứ của ngôi làng qua các lớp chồng thời gian.",
+                    "content": "Ví dụ"
+                },
+                "benefits": {
+                    "text": "Tăng tính tương tác, giúp du khách hiểu sâu hơn về điểm đến mà không cần hướng dẫn người thực tế mọi lúc.",
+                    "content": "Lợi ích"
+                }
+            },
+            {
+                "title": "Thử trước khi cài đặt chuyến tham quan bằng VR",
+                "description": {
+                    "text": "Trước khi đặt tour, du khách có thể trải nghiệm phiên bản VR của hành trình du lịch Tây Giang: từ cảnh quan núi rừng, các hoạt động mạo hiểm hiểm (leo núi, trekking), đến nghỉ nghỉ tại homestay Cơ Tu. VR cho phép xem trước các góc quay 360 độ và cảm nhận không thực tế.",
+                    "content": "Mô tả"
+                },
+                "benefits": {
+                    "text": "Tăng cường sự tự tin khi đặt tour, đặc biệt với du khách quốc tế hoặc những người lần đầu đến Tây Giang, đồng thời giảm nguy cơ hủy chuyến tham quan bất kỳ kỳ vọng nào không phù hợp.",
+                    "content": "Lợi ích"
+                }
+            },
+            {
+                "title": "Du lịch mạo hiểm toàn với AR",
+                "description": {
+                    "text": "Ứng dụng AR hỗ trợ các tour du lịch mạo hiểm như leo núi hoặc khám phá rừng sâu tại Tây Giang. Khi khách hàng sử dụng kính AR hoặc điện thoại, ứng dụng sẽ hiển thị đường đi an toàn, cảnh báo khu vực nguy hiểm (rào chắn) và cung cấp thông tin tiết kiệm thực tế.",
+                    "content": "Mô tả"
+                },
+                "application": {
+                    "text": "Trong chuyến đi trekking, AR có thể đánh dấu các điểm nghỉ chân, chỉ dẫn vị trí uống nước hoặc hiển thị thông tin về động thực vật tìm kiếm trên đường.",
+                    "content": "Ví dụ"
+                },
+                "benefits": {
+                    "text": "Đảm bảo an toàn theo tiêu chuẩn ISO 12592:2018, đồng thời nâng cao trải nghiệm khám phá.",
+                    "content": "Lợi ích"
+                }
+            },
+            {
+                "title": "Bảo tồn và giáo dục qua VR/AR",
+                "description": {
+                    "text": "Tạo các chương trình VR/AR giáo dục về nỗ lực bảo vệ rừng và văn hóa tại Tây Giang, như dự án “Trồng 1 tỷ cây xanh” của phủ Chính. VR có thể mô phỏng quá trình trồng rừng, trong khi AR cho phép du khách tại phòng xem thông tin về các cây đã trồng (loài, năm trồng, ý nghĩa).",
+                    "content": "Mô tả"
+                },
+                "benefits": {
+                    "text": "Góp phần nâng cao nhận thức về du lịch bền vững, khuyến du khách tham gia bảo tồn, và lan tỏa thông điệp 'rừng còn Tây Giang phát triển'.",
+                    "content": "Lợi ích"
+                }
+            },
+            {
+                "title": "Gamification qua AR để tăng tương tác",
+                "description": {
+                    "text": "Tích hợp trò chơi AR vào tour du lịch, ví dụ: du khách tìm 'kho báu văn hóa Cơ Tu' bằng cách quét các địa điểm để nhận mối mối hoặc giải tranh về thiên nhiên Tây Giang.",
+                    "content": "Mô tả"
+                },
+                "application": {
+                    "text": "Một trò chơi AR yêu cầu khách hàng tìm hiểu về cây Pơ Mu hoặc tái hiện điệu múa Cơ Tu để nhận phần thưởng ảo (huy hiệu, tích tích lũy).",
+                    "content": "Ví dụ"
+                },
+                "benefits": {
+                    "text": "Tăng sự thú vị, đặc biệt với Gen Z và Millennials, đồng thời quảng bá điểm đến qua mạng xã hội khi du khách chia sẻ trải nghiệm.",
+                    "content": "Lợi ích"
+                }
+            }
+        ]
     }
 }
