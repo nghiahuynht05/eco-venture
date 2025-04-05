@@ -13,6 +13,7 @@ import SustainabilityContent from "../components/sustainability/custom.sustainab
 import CustomHeader from "../components/header/custom.header";
 import LanguageSelector from "../components/custom.language";
 import CustomChatBot from "../components/chatbot/custom.chatbot";
+import CustomMenuPopup from "../components/header/custom.menu";
 
 import { LanguageContext } from "../context/languageContext";
 
@@ -32,14 +33,12 @@ const Sustainability = () => {
             <div className="header-right d-flex alg-center gap-16">
               <LanguageSelector></LanguageSelector>
               <div className="icon-user">
-                <a href="/tour/list" className="btn text-uppercase radius-2">
+                <a href="https://www.facebook.com/profile.php?id=61552275430181" className="btn text-uppercase radius-2">
                   Book now
                 </a>
               </div>
             </div>
-            <div className="header-menu-mb open-close-el">
-              <span />
-            </div>
+            <CustomMenuPopup translations={translations}></CustomMenuPopup>
           </div>
         </div>
       </header>

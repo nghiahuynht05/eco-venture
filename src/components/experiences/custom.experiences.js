@@ -16,12 +16,13 @@ function CustomExperiences({ tabs, images }) {
                       <div className="sec-container container">
                         <div className="sec-header">
                           <h2 className="heading heading-secondary text-center">
-                            Experiences
+                            Blog and News
                           </h2>
                           <div className="filter-experiences">
                             <ul className="custom-nav list-filter-experiences">
                               {tabs.map((item, index) => (
-                                <li className="active"
+                                <li
+                                  className="active"
                                   onClick={() => setActiveTab(index)}>
                                   <span className="">{item.tabs}</span>{" "}
                                 </li>
@@ -30,16 +31,25 @@ function CustomExperiences({ tabs, images }) {
                           </div>
                         </div>
                         <div className="sec-content">
-                          <div className="img-experiences" style={{"display":"flex","justify-content": "center"}}>
-                            <img
-                              src={images[activeTab].imgURL}
-                              alt=""
-                            />
+                          <div
+                            className="img-experiences"
+                            style={{
+                              display: "flex",
+                              "justify-content": "center",
+                            }}>
+                            <div className="video-container">
+                              <iframe
+                                src={images[activeTab].imgURL}
+                                width="640"
+                                height="360"
+                                allow="autoplay"
+                                style={{ border: "none" }}></iframe>
+                            </div>
                           </div>
                         </div>
                       </div>
                     </section>
-                    <section className="sec sec-experiences-list pt-0">
+                    {/* <section className="sec sec-experiences-list pt-0">
                       <div className="sec-container container">
                         <div className="sec-header">
                           <h2 className="heading heading-secondary text-center">
@@ -50,7 +60,7 @@ function CustomExperiences({ tabs, images }) {
                           </div>
                         </div>
                       </div>
-                    </section>
+                    </section> */}
                   </div>
                 </div>
               </div>

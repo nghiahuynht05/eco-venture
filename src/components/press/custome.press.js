@@ -17,7 +17,7 @@ function Press({ content }) {
         <div className="page-container">
           <div className="page-inner">
             <section className="sec-img-about-us">
-              <div className="banner">
+              <div className="sec sec-intro-sustainability bg-gray">
                 <div className="banner-container">
                   <div className="sec-header">
                     <h2 className="heading heading-secondary text-center">
@@ -67,15 +67,15 @@ function Press({ content }) {
                         <div className="owl-carousel owl-theme slider-about-us owl-loaded owl-drag">
                           <div className="owl-stage-outer">
                             <div className="owl-stage">
-                              <Slider {...imageSetings}>
+                              {/* <Slider {...imageSetings}> */}
                                 <div className="owl-item cloned">
                                   <div className="item">
                                     <div className="img-slider-about-us">
-                                      <img src="../public/gallery/676a07d82c9e6cb4a56ff09c.jpg" alt="" />
+                                      <img src="../gallery/676a07d82c9e6cb4a56ff09c.jpg" alt="" />
                                     </div>
                                   </div>
                                 </div>
-                              </Slider>
+                              {/* </Slider> */}
                             </div>
                           </div>
                         </div>
@@ -125,15 +125,15 @@ function Press({ content }) {
                         <div className="owl-carousel owl-theme slider-about-us owl-loaded owl-drag">
                           <div className="owl-stage-outer">
                             <div className="owl-stage">
-                              <Slider {...imageSetings}>
+                              {/* <Slider {...imageSetings}> */}
                                 <div className="owl-item cloned">
                                   <div className="item">
                                     <div className="img-slider-about-us">
-                                    <img src="../public/gallery/da502_dulich1.jpg" alt="" />
+                                    <img src="../gallery/da502_dulich1.jpg" alt="" />
                                     </div>
                                   </div>
                                 </div>
-                              </Slider>
+                              {/* </Slider> */}
                             </div>
                           </div>
                         </div>
@@ -163,14 +163,6 @@ function Press({ content }) {
                         <p style={{ textAlign: "justify" }} dir="ltr">
                           <span id="">
                             <span style={{ fontWeight: "bold" }}>
-                              {list[2].application.content}:{" "}
-                            </span>
-                            <span>{list[2].application.text}</span>
-                          </span>
-                        </p>
-                        <p style={{ textAlign: "justify" }} dir="ltr">
-                          <span id="">
-                            <span style={{ fontWeight: "bold" }}>
                               {list[2].benefits.content}:{" "}
                             </span>
                             <span>{list[2].benefits.text}</span>
@@ -183,15 +175,15 @@ function Press({ content }) {
                         <div className="owl-carousel owl-theme slider-about-us owl-loaded owl-drag">
                           <div className="owl-stage-outer">
                             <div className="owl-stage">
-                              <Slider {...imageSetings}>
+                              {/* <Slider {...imageSetings}> */}
                                 <div className="owl-item cloned">
                                   <div className="item">
                                     <div className="img-slider-about-us">
-                                    <img src="../public/gallery/det_tho_cam-1692519403870.jpg" alt="" />
+                                    <img src="../gallery/det_tho_cam-1692519403870.jpg" alt="" />
                                     </div>
                                   </div>
                                 </div>
-                              </Slider>
+                              {/* </Slider> */}
                             </div>
                           </div>
                         </div>
@@ -201,7 +193,7 @@ function Press({ content }) {
                 </div>
               </div>
             </section>
-            <section className="sec sec-content-about-us bg-img-fingerprint-white">
+            <section className="sec sec-content-about-us sec-reverse">
               <div className="sec-container container">
                 <div className="sec-content-about-us-inner">
                   <div className="row">
@@ -241,15 +233,15 @@ function Press({ content }) {
                         <div className="owl-carousel owl-theme slider-about-us owl-loaded owl-drag">
                           <div className="owl-stage-outer">
                             <div className="owl-stage">
-                              <Slider {...imageSetings}>
+                              {/* <Slider {...imageSetings}> */}
                                 <div className="owl-item cloned">
                                   <div className="item">
                                     <div className="img-slider-about-us">
-                                    <img src="../public/gallery/ddaidiendoinhagai1.jpg" alt="" />
+                                    <img src="../gallery/ddaidiendoinhagai1.jpg" alt="" />
                                     </div>
                                   </div>
                                 </div>
-                              </Slider>
+                              {/* </Slider> */}
                             </div>
                           </div>
                         </div>
@@ -259,7 +251,7 @@ function Press({ content }) {
                 </div>
               </div>
             </section>
-            <section className="sec sec-content-about-us sec-reverse">
+            <section className="sec sec-content-about-us bg-img-fingerprint-white">
               <div className="sec-container container">
                 <div className="sec-content-about-us-inner">
                   <div className="row">
@@ -279,14 +271,6 @@ function Press({ content }) {
                         <p style={{ textAlign: "justify" }} dir="ltr">
                           <span id="">
                             <span style={{ fontWeight: "bold" }}>
-                              {list[4].application.content}:{" "}
-                            </span>
-                            <span>{list[4].application.text}</span>
-                          </span>
-                        </p>
-                        <p style={{ textAlign: "justify" }} dir="ltr">
-                          <span id="">
-                            <span style={{ fontWeight: "bold" }}>
                               {list[4].benefits.content}:{" "}
                             </span>
                             <span>{list[4].benefits.text}</span>
@@ -299,15 +283,15 @@ function Press({ content }) {
                         <div className="owl-carousel owl-theme slider-about-us owl-loaded owl-drag">
                           <div className="owl-stage-outer">
                             <div className="owl-stage">
-                              <Slider {...imageSetings}>
+                              {/* <Slider {...imageSetings}> */}
                                 <div className="owl-item cloned">
                                   <div className="item">
                                     <div className="img-slider-about-us">
-                                    <img src="../public/gallery/1-5-hoa-bac-4.webp" alt="" />
+                                    <img src="../gallery/1-5-hoa-bac-4.webp" alt="" />
                                     </div>
                                   </div>
                                 </div>
-                              </Slider>
+                              {/* </Slider> */}
                             </div>
                           </div>
                         </div>
@@ -317,7 +301,7 @@ function Press({ content }) {
                 </div>
               </div>
             </section>
-            <section className="sec sec-content-about-us bg-img-fingerprint-white">
+            <section className="sec sec-content-about-us sec-reverse">
               <div className="sec-container container">
                 <div className="sec-content-about-us-inner">
                   <div className="row">
@@ -357,15 +341,15 @@ function Press({ content }) {
                         <div className="owl-carousel owl-theme slider-about-us owl-loaded owl-drag">
                           <div className="owl-stage-outer">
                             <div className="owl-stage">
-                              <Slider {...imageSetings}>
+                              {/* <Slider {...imageSetings}> */}
                                 <div className="owl-item cloned">
                                   <div className="item">
                                     <div className="img-slider-about-us">
-                                    <img src="../public/gallery/anh-xuan-10.jpg" alt="" />
+                                    <img src="../gallery/anh-xuan-10.jpg" alt="" />
                                     </div>
                                   </div>
                                 </div>
-                              </Slider>
+                              {/* </Slider> */}
                             </div>
                           </div>
                         </div>

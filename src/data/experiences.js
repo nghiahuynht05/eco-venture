@@ -1,13 +1,10 @@
 const experiences = [
   {
-    imgURL: "../experiences/anh1-1.png",
+    imgURL: "https://drive.google.com/file/d/1cbVSURwv7H6VFKTG0j-dRKoQAx7-R1Fk/preview",
   },
   {
-    imgURL: "../experiences/anh2.png",
-  },
-  {
-    imgURL: "../experiences/anh3.png",
-  },
+    imgURL: "https://drive.google.com/file/d/1Et4zeqLYwiVE8LeRDCTGTKeiKYbjS3t7/preview",
+  }
 ];
 
 export default experiences;

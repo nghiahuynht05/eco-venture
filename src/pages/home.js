@@ -5,20 +5,13 @@ import "../sites/all/themes/cassiopeia_theme/css/style.css";
 import "../sites/all/themes/cassiopeia_theme/js/lib/OwlCarousel2-2.3.4/dist/assets/owl.theme.default.css";
 import images from "../data/images";
 import imagesTours from "../data/stick";
-import imagesSubs from "../data/subs";
-import imagesAds from "../data/ads";
-import imagesTopic from "../data/topic";
 import CustomSlider from "../components/custom.slider";
 import CustomTours from "../components/custom.tours";
-import CustomSubs from "../components/custom.sub";
 import CustomInfo from "../components/custom.info";
-import CustomReview from "../components/custom.review";
 import CustomLogo from "../components/custom.logo";
-import CustomAds from "../components/custom.ads";
 import CustomFooter from "../components/custom.footer";
 import CustomHeader from "../components/header/custom.header";
 import CustomChatBot from "../components/chatbot/custom.chatbot";
-import CustomDevelopment from "../components/custom.development";
 import CustomMenuPopup from "../components/header/custom.menu";
 import LanguageSelector from "../components/custom.language";
 import { LanguageContext } from "../context/languageContext";
@@ -43,7 +36,7 @@ const Home = () => {
               <div className="header-right d-flex alg-center gap-16">
                 <LanguageSelector></LanguageSelector>
                 <div className="icon-user">
-                  <a href="./" className="btn text-uppercase radius-2">
+                  <a href="https://www.facebook.com/profile.php?id=61552275430181" className="btn text-uppercase radius-2">
                     Book now
                   </a>
                 </div>
@@ -82,7 +75,7 @@ const Home = () => {
                       title={translations.home?.info.title}
                       description={translations.home?.info.description}
                       more={translations.home?.info.more}></CustomInfo>
-                    <CustomSubs>
+                    {/* <CustomSubs>
                       {imagesSubs.map((image, index) => {
                         const experiencesData =
                           translations.home?.experiences.list || [];
@@ -95,7 +88,7 @@ const Home = () => {
                           />
                         );
                       })}
-                    </CustomSubs>
+                    </CustomSubs> */}
                     <CustomTours>
                       {imagesTours.map((image, index) => {
                         const toursData = translations.home?.tours.list || [];
@@ -109,7 +102,7 @@ const Home = () => {
                         );
                       })}
                     </CustomTours>
-                    <CustomReview
+                    {/* <CustomReview
                       review={translations.home?.review.list}></CustomReview>
                     <CustomAds
                       title={translations.home?.ads.title}
@@ -120,7 +113,7 @@ const Home = () => {
                       title={translations.home?.development.title}
                       content={translations.home?.development.content}
                       development={translations.home?.development.list}
-                      image={imagesTopic}></CustomDevelopment>
+                      image={imagesTopic}></CustomDevelopment> */}
                   </div>
                 </div>
               </div>

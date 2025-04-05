@@ -113,7 +113,7 @@ function CustomTours({ children }) {
                           <a
                             href={tour.props.translations.link}
                             className="btn brd-black radius-4 width-100 mt-24">
-                            {toursData.detail}
+                            {toursData.details}
                           </a>
                         </div>
                       </div>

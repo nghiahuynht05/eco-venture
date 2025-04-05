@@ -1,5 +1,7 @@
 import { useState, useRef, useEffect } from "react";
 
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faChevronDown } from "@fortawesome/free-solid-svg-icons";
 const MenuPopup = ({ translations }) => {
   const [isOpen, setIsOpen] = useState(false);
   const menuRef = useRef(null);
@@ -48,6 +50,9 @@ const MenuPopup = ({ translations }) => {
                 </a>
               </li>
               <li className="leaf">
+                <a href="/press">{translations.header.press}</a>
+              </li>
+              <li className="leaf">
                 <a href="/tours">{translations.home.header.tours}</a>
               </li>
               <li className="expanded">
@@ -59,10 +64,9 @@ const MenuPopup = ({ translations }) => {
                 </a>
               </li>
               <li className="leaf">
-                <a href="/press">{translations.header.press}</a>
-              </li>
-              <li className="leaf">
-                <a href="/offers">{translations.header.offers}</a>
+                <a href="https://www.facebook.com/profile.php?id=61552275430181">
+                  {translations.header.offers}
+                </a>
               </li>
               <li className="last leaf">
                 <a href="/gallery">{translations.header.gallery}</a>

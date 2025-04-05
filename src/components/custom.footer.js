@@ -110,14 +110,20 @@ function CustomFooter({ translations }) {
                   <div className="item-list-footer">
                     <h3>{mid.contact.title}</h3>
                     <ul className="custom-nav">
-                      {mid.contact.list.map((subItem) => (
-                        <li>
-                          <a href={subItem.link}>
-                            <span>{subItem.name}</span>
-                            <span className="clr-gray">{subItem.link}</span>
-                          </a>
-                        </li>
-                      ))}
+                      <li>
+                        <span>General Information</span>
+                        <span className="clr-gray">
+                          <a href="mailto:ecoventuretourist@gmail.com"></a>
+                          ecoventuretourist@gmail.com
+                        </span>
+                      </li>
+                      <li>
+                        <span>Facebook</span>
+                        <span className="clr-gray">
+                          <a href="https://www.facebook.com/profile.php?id=61552275430181"></a>
+                          https://facebook.com/EcoVenture
+                        </span>
+                      </li>
                     </ul>
                   </div>
                 </div>

@@ -1,14 +1,30 @@
-import React, { useRef } from "react";
+import React, { useEffect, useState } from "react";
 import Slider from "react-slick";
 
 import "./VideoPlayer.css";
-// import "./custom.slider.css";
 
+const useIsMobile = () => {
+  const [isMobile, setIsMobile] = useState(window.innerWidth <= 768);
+  useEffect(() => {
+    const handleResize = () => {
+      setIsMobile(window.innerWidth <= 768);
+    };
+    window.addEventListener("resize", handleResize);
+    return () => window.removeEventListener("resize", handleResize);
+  }, []);
+
+  return isMobile;
+};
 function CustomTourImages({ images }) {
   const imagesVideos = images.images;
+  let dots = false;
 
+  const isMobile = useIsMobile();
+  if (isMobile) {
+    dots = false;
+  }
   var imageSetings = {
-    dots: true,
+    dots: dots,
     infinite: true,
     autoplay: true,
     autoplaySpeed: 5000,
@@ -16,8 +32,6 @@ function CustomTourImages({ images }) {
     slidesToShow: 1,
     slidesToScroll: 1,
   };
-
-  const videoRef = useRef(null);
 
   return (
     <div id="images-destination" className="description-item">
@@ -39,14 +53,14 @@ function CustomTourImages({ images }) {
                   </div>
                 </div>
               </div>
-              <div className="video-container">
+              {/* <div className="video-container">
                 <iframe
                   src={item}
                   width="640"
                   height="360"
                   allow="autoplay"
                   style={{ border: "none" }}></iframe>
-              </div>
+              </div> */}
             </div>
           ))}
         </Slider>

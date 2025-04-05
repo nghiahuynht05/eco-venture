@@ -2,7 +2,7 @@
     "header": {
         "experiences": "Blog and News",
         "events": "Events",
-        "press": "Press",
+        "press": "Tour Ecoventure",
         "sustainability": "Sustainability",
         "offers": "Get Involved",
         "gallery": "Multimedia",
@@ -14,8 +14,7 @@
             "tours": "Tours",
             "experiences": "Experiences"
         },
-        "banner": [
-            {
+        "banner": [{
                 "title": "ECO VENTURE",
                 "description": "Explore Nature-Experience Culture-Live Adventure"
             },
@@ -26,16 +25,14 @@
         ],
         "tours": {
             "title": "Highlight tours",
-            "description": "When the most beautiful season hits, K'Lang Adventure brings the unique experiential tours up, into places never before known on the world tourism map-Places that will leave you impressed with the beauty of nature and culture.",
+            "description": "When the most beautiful season hits, Eco Venture brings the unique experiential tours up, into places never before known on the world tourism map-places that will leave you impressed with the beauty of nature and culture.",
             "details": "View detail",
-            "list": [
-                {
+            "list": [{
                     "image": "./experiences/anh1.jpeg",
                     "title": "TOUR 1-Cultural Package",
                     "duration": "2 ngày 1 đêm",
                     "price": "$110",
-                    "tags": [
-                        {
+                    "tags": [{
                             "text": "None Plastic",
                             "icon": "no-plastic"
                         },
@@ -52,8 +49,7 @@
                     "title": "TOUR 2-Survival Package",
                     "duration": "2 ngày 1 đêm",
                     "price": "$120",
-                    "tags": [
-                        {
+                    "tags": [{
                             "text": "None Plastic",
                             "icon": "no-plastic"
                         },
@@ -70,8 +66,7 @@
                     "title": "TOUR 3-Combine Cultural and Survival Package",
                     "duration": "3 ngày 2 đêm",
                     "price": "$230",
-                    "tags": [
-                        {
+                    "tags": [{
                             "text": "None Plastic",
                             "icon": "no-plastic"
                         },
@@ -88,8 +83,7 @@
                     "title": "TOUR 4-Combine Culture and Volunteer Package",
                     "duration": "3 ngày 2 đêm",
                     "price": "$244",
-                    "tags": [
-                        {
+                    "tags": [{
                             "text": "None Plastic",
                             "icon": "no-plastic"
                         },
@@ -104,15 +98,14 @@
             ]
         },
         "info": {
-            "title": "Journey to the hidden sanctuary",
-            "description": "K'Lang Adventure is a journey to discover wonders and preserve values. A place that possesses massive primeval forests and hundreds of precious species-priceless treasures of nature, where there has never been a trace of 'invasion'. A place that depicts the ancient culture of Cơtu, simple-minded and hospitable people are always proud of their national identity.",
+            "title": "Interview Cotu culture",
+            "description": "Người Cơ Tu (còn gọi là người Ka Tu, Gao, Hạ, Phương, Ca-tang) là một dân tộc sống ở Miền Trung (Việt Nam) và Hạ Lào. Dân số người Cơ Tu có khoảng trên 103 nghìn người. Tại Việt Nam người Cơ Tu là một trong số 54 dân tộc tại Việt Nam.",
             "more": "Explore More"
         },
         "experiences": {
             "title": "Experiences",
             "description": "“Completely-disconnect” from the outside world, immerse yourself in nature through trekking and camping activities in primeval forest. Breathing the cool air,, imbued with the sophistication of the long-standing culture of the Cotu people with the beauty of cuisine, arts and crafts, music and life.",
-            "list": [
-                {
+            "list": [{
                     "id": "01",
                     "title": "Adventure & Challenge",
                     "link": "./",
@@ -144,8 +137,7 @@
         },
         "review": {
             "title": "Stories after each trip",
-            "list": [
-                {
+            "list": [{
                     "title": "Stories after each trip",
                     "image": "./experiences/anh3.png",
                     "comment": "Dubbed 'miniature Sapa' or 'Da Lat of the Central region', Tay Giang has been a very hot name on the travel map of backpackers. Coming here, you will not only be immersed in the vast and poetic natural scenery; Enjoy the cool feeling between the mountains and forests or watch the beautiful terraced fields but also admire the floating white clouds with your own eyes.",
@@ -162,8 +154,7 @@
         "ads": {
             "title": "Ưu đãi đặc biệt",
             "content": "Đăng ký tour vào tháng 9 tới tháng 12 để đón nhận những ưu đãi đặc biệt từ K'Lang Adventure. K'Lang Adventure-Hành trình khám phá sự bí ẩn",
-            "list": [
-                {
+            "list": [{
                     "title": "Chương trình Giá-Siêu Hot-Chào mùa leo núi 2023",
                     "content": [
                         "Mùa leo núi sắp điểm, mùa của những thử thách chạm đỉnh, “săn mây” quên lối về; ngắm view mà ở dưới xuôi người ta gọi là triệu đô; trải nghiệm sự kết hợp hoàn hảo giữa Trekking và Săn mây."
@@ -183,8 +174,7 @@
         "development": {
             "title": "Our Commitment to Sustainability",
             "content": "This season – as the first blossoms of spring spark feelings of joy and renewal-we celebrate the exceptional natural environments across the globe that K’Lang Adventure calls home.",
-            "list": [
-                {
+            "list": [{
                     "topic": "Environment"
                 },
                 {
@@ -207,33 +197,29 @@
                 }
             },
             "middle": {
-                "list": [
-                    {
-                        "title": "About Us",
-                        "items": [
-                            {
-                                "name": "Kind of business Limited Liability Company",
-                                "link": ""
-                            },
-                            {
-                                "name": "Business Area: Number of shareholders 5",
-                                "link": ""
-                            },
-                            {
-                                "name": "Phone No: +84 708 596 715",
-                                "link": ""
-                            },
-                            {
-                                "name": "452 lê văn hiến, tổ 38, phường Khuê Mỹ, quận Ngũ Hành Sơn, thành phố Đà Nẵng",
-                                "link": ""
-                            }
-                        ]
-                    }
-                ],
+                "list": [{
+                    "title": "About Us",
+                    "items": [{
+                            "name": "Kind of business Limited Liability Company",
+                            "link": ""
+                        },
+                        {
+                            "name": "Business Area: Number of shareholders 5",
+                            "link": ""
+                        },
+                        {
+                            "name": "Phone No: +84 708 596 715",
+                            "link": ""
+                        },
+                        {
+                            "name": "452 lê văn hiến, tổ 38, phường Khuê Mỹ, quận Ngũ Hành Sơn, thành phố Đà Nẵng",
+                            "link": ""
+                        }
+                    ]
+                }],
                 "contact": {
                     "title": "Contact Us",
-                    "list": [
-                        {
+                    "list": [{
                             "name": "General Information:",
                             "link": "ecoventuretourist@gmail.com"
                         },
@@ -250,8 +236,7 @@
     "about": {
         "title": "The Story About Eco Venture",
         "description": "Eco Venture, founded in 2025, is a subsidiary of Eco Venture Team. We aim to become a leading travel and tourism enterprise in Southeast Asia, developing sustainable and experiential tourism.",
-        "list": [
-            {
+        "list": [{
                 "title": "About Eco Venture Team",
                 "description": "Founded by a passionate group of university students as part of their graduation thesis, Eco Venture Team is more than just a travel initiative—it is a journey of discovery, learning, and cultural preservation. With hands-on experience in Tay Giang, our team has successfully designed and led four immersive tours for over 20 travelers, blending adventure, sustainability, and authentic local interactions. Through trekking in ancient forests, participating in community projects, and engaging with the Cotu people's rich heritage, we aim to redefine experiential travel. Our mission is to promote sustainable tourism while preserving the cultural and natural beauty of Tay Giang. We believe in responsible exploration that not only enriches travelers but also benefits local communities. With a deep commitment to eco-tourism, Eco Venture Team strives to create unforgettable experiences that inspire, educate, and make a lasting impact."
             },
@@ -259,11 +244,9 @@
                 "title": "Eco Venture",
                 "description": "Selecting Tay Giang, Quang Nam – a land of pristine beauty – for sustainable tourism development and cultural preservation of the Cotu people, TAAD Group established Eco Venture Tourism Development and Trade Joint Stock Company.",
                 "sub": "Our investment fields include:",
-                "investment": [
-                    {
+                "investment": [{
                         "fields": "Hotel",
-                        "list": [
-                            {
+                        "list": [{
                                 "title": "Accommodation",
                                 "items": [
                                     "Eco Venture Retreat Luxury Eco-Resort",
@@ -279,8 +262,7 @@
                     },
                     {
                         "fields": "Travel",
-                        "list": [
-                            {
+                        "list": [{
                                 "title": "Adventure Travel to Explore Nature",
                                 "items": []
                             },
@@ -304,15 +286,13 @@
             "tourLocation": "Destinations",
             "view": "View Tour"
         },
-        "list": [
-            {
+        "list": [{
                 "id": 0,
                 "tourName": "TOUR 1-Cultural Package",
                 "bannerImage": "../tours/images/tours1/images-01.jpg",
                 "tourDes": "'Foodstep Of The Co Tu' is an immersive cultural tour that takes you deep into the heart of Tây Giang, where the ancient tradition of Co Tu people comes to life. Each day of the journey reflects a different aspect of their rich heritage, from the sacred forests and survival wisdom of their ancestors to their vibrant craftsmanship and communal spirit. The experience begins with a trek through the majestic Pomu forest, home to centuries-old trees and hidden medicinal plants, guided by local experts who share the deep-rooted connection between the Cơ Tu and nature. The journey continues with interactive workshops, where you’ll learn traditional weaving, bamboo musical instrument making, and the art of cooking authentic Co Tu cuisine. Beyond exploring the culture, this tour provides a rare opportunity to live as the Cơ Tu do—staying in traditional homestays, participating in farming activities, and joining nightly gatherings filled with folk dances, storytelling, and music. This hands-on experience not only supports local livelihoods but also preserves a way of life that has been passed down through generations.",
                 "tourId": "CT101",
-                "tags": [
-                    {
+                "tags": [{
                         "text": "None Plastic",
                         "icon": "no-plastic"
                     },
@@ -323,151 +303,178 @@
                 ],
                 "tourLocation": "Tay Giang, Quang Nam Province",
                 "tourTime": "2 days 1 night",
-                "details": [
-                    {
-                        "tourName": "TOUR 1-Cultural Package",
-                        "bannerImage": "../tours/images/tours1/baner_tour_ua_3_0.png",
-                        "tourDes": "'Foodstep Of The Co Tu' is an immersive cultural tour that takes you deep into the heart of Tây Giang, where the ancient tradition of Co Tu people comes to life. Each day of the journey reflects a different aspect of their rich heritage, from the sacred forests and survival wisdom of their ancestors to their vibrant craftsmanship and communal spirit. The experience begins with a trek through the majestic Pomu forest, home to centuries-old trees and hidden medicinal plants, guided by local experts who share the deep-rooted connection between the Cơ Tu and nature. The journey continues with interactive workshops, where you’ll learn traditional weaving, bamboo musical instrument making, and the art of cooking authentic Co Tu cuisine. Beyond exploring the culture, this tour provides a rare opportunity to live as the Cơ Tu do—staying in traditional homestays, participating in farming activities, and joining nightly gatherings filled with folk dances, storytelling, and music. This hands-on experience not only supports local livelihoods but also preserves a way of life that has been passed down through generations.",
-                        "tourLocation": "Tay Giang, Quang Nam Province",
-                        "tourId": "CT101",
-                        "map": "../tours/images/tours1/map.png",
-                        "tourTime": "2 days 1 night",
-                        "activities": [
-                            "Trekking"
+                "details": [{
+                    "tourName": "TOUR 1-Cultural Package",
+                    "bannerImage": "../tours/images/tours1/baner_tour_ua_3_0.png",
+                    "tourDes": "'Foodstep Of The Co Tu' is an immersive cultural tour that takes you deep into the heart of Tây Giang, where the ancient tradition of Co Tu people comes to life. Each day of the journey reflects a different aspect of their rich heritage, from the sacred forests and survival wisdom of their ancestors to their vibrant craftsmanship and communal spirit. The experience begins with a trek through the majestic Pomu forest, home to centuries-old trees and hidden medicinal plants, guided by local experts who share the deep-rooted connection between the Cơ Tu and nature. The journey continues with interactive workshops, where you’ll learn traditional weaving, bamboo musical instrument making, and the art of cooking authentic Co Tu cuisine. Beyond exploring the culture, this tour provides a rare opportunity to live as the Cơ Tu do—staying in traditional homestays, participating in farming activities, and joining nightly gatherings filled with folk dances, storytelling, and music. This hands-on experience not only supports local livelihoods but also preserves a way of life that has been passed down through generations.",
+                    "tourLocation": "Tay Giang, Quang Nam Province",
+                    "tourId": "CT101",
+                    "map": "../tours/images/tours1/map.png",
+                    "tourTime": "2 days 1 night",
+                    "activities": [
+                        "Trekking"
+                    ],
+                    "level": "Easy Level (1/10)",
+                    "price": "2,189,000 VND",
+                    "startLocation": "Da Nang City",
+                    "endLocation": "Tay Giang, Quang Nam Province",
+                    "seatsMin": "5",
+                    "seatsMax": "12",
+                    "schedule": "January-September",
+                    "scheduleList": {
+                        "free": [
+                            "Bus round trips",
+                            "Camping on the mountain",
+                            "Tour guide and Porter"
                         ],
-                        "level": "Easy Level (1/10)",
-                        "price": "2,189,000 VND",
-                        "startLocation": "Da Nang City",
-                        "endLocation": "Tay Giang, Quang Nam Province",
-                        "seatsMin": "5",
-                        "seatsMax": "12",
-                        "schedule": "January-September",
-                        "scheduleList": {
-                            "free": [
-                                "Bus round trips",
-                                "Camping on the mountain",
-                                "Tour guide and Porter"
-                            ],
-                            "charge": [
-                                "Fly ticket",
-                                "Personal fees"
-                            ]
-                        },
-                        "journey": [
-                            {
-                                "day": "Day 1: DA NANG – TAY GIANG – CULTURAL AND MEDICINAL PLANT DISCOVERY",
-                                "details": [
-                                    {
-                                        "time": "07:00",
-                                        "title": "The vehicle and tour guide will pick up guests at 452 Le Van Hien (EcoVenture headquarters). Depart for Tay Giang via the majestic Ho Chi Minh route. Guests will enjoy complimentary croissants and admire the mountain scenery along the way."
-                                    },
-                                    {
-                                        "time": "12:00",
-                                        "title": "Arrive in Tay Giang and enjoy a lunch of local specialties, including bamboo-grilled chicken, sticky rice, and stir-fried wild vegetables at the homestay. Then, check-in and rest."
-                                    },
-                                    {
-                                        "time": "13:00-15:30",
-                                        "title": "Head to the medicinal herb area for an exploration",
-                                        "details": [
-                                            "Discover various medicinal plants and rare herbs, such as Dang Sam and Ba Kich.",
-                                            "Guides will explain the benefits and traditional medicinal uses of each plant.",
-                                            "Take photos and learn about the process of growing and harvesting medicinal herbs.",
-                                            "Try herbal products like herbal tea and essential oils."
-                                        ]
-                                    },
-                                    {
-                                        "time": "15:30-17:00",
-                                        "title": "Experience paddleboarding (SUP) on the fresh river, enjoying nature and relaxing on the water."
-                                    },
-                                    {
-                                        "time": "17:00-18:00",
-                                        "title": "Return to the homestay."
-                                    },
-                                    {
-                                        "time": "18:00-19:00",
-                                        "title": "Free time to relax."
-                                    },
-                                    {
-                                        "time": "19:00-20:00",
-                                        "title": "Enjoy dinner featuring forest chicken hotpot with medicinal herbs and traditional rice wine."
-                                    },
-                                    {
-                                        "time": "20:00-21:00",
-                                        "title": "Watch the traditional Cơ Tu dance 'Tung Tung Zá Zá,' then join in cultural exchanges, learning the significance of each movement and melody by the warm campfire."
-                                    },
-                                    {
-                                        "time": "21:30",
-                                        "title": "Herbal foot soak—a traditional Cơ Tu therapy to help restore energy after a long day."
-                                    },
-                                    {
-                                        "time": "22:00",
-                                        "title": "Overnight stay."
-                                    }
-                                ]
-                            },
-                            {
-                                "day": "Day 2: CULTURAL HANDICRAFT EXPERIENCE – RETURN TO DA NANG",
-                                "details": [
-                                    {
-                                        "time": "06:30",
-                                        "title": "Wake up early to enjoy the sunrise over the mountains (cloud-hunting at the homestay), followed by breakfast featuring ginseng porridge and steamed wild vegetable rolls."
-                                    },
-                                    {
-                                        "time": "08:00-08:30",
-                                        "title": "Transfer to Voòng village."
-                                    },
-                                    {
-                                        "time": "08:30-11:00",
-                                        "title": "Participate in the village welcoming ceremony, experience brocade weaving, wood carving, and bamboo weaving with local artisans. Learn about cultural significance, traditions, and stories at the Gươl house with the village chief."
-                                    },
-                                    {
-                                        "time": "11:30-12:30",
-                                        "title": "Check out of the homestay."
-                                    },
-                                    {
-                                        "time": "12:30-13:30",
-                                        "title": "Enjoy lunch at the homestay with local specialties such as grilled meat wrapped in dong leaves and steamed forest vegetables."
-                                    },
-                                    {
-                                        "time": "14:00-19:30",
-                                        "title": "Depart for Da Nang, stopping for rest and shopping for local specialties if desired. The journey ends in Da Nang, saying farewell to the group."
-                                    }
-                                ]
-                            }
-                        ],
-                        "equipment": {
-                            "provided": [
-                                "Trekking Poles",
-                                "Tent’s light"
-                            ],
-                            "personal": [
-                                "ID card or Passport",
-                                "Water Bottle"
-                            ],
-                            "suggestion": [
-                                "Mobile phone, camera",
-                                "Flashlight"
-                            ]
-                        },
-                        "notes": [],
-                        "images": [
-                            "../tours/images/tours1/images-01.jpg"
-                        ],
-                        "question": {
-                            "title": "Q&A",
-                            "list": [
-                                {
-                                    "question": "What is the minimum age for children to join this tour?",
-                                    "answer": "This tour is suitable for children aged 12 or above and accompanied by parents or adults."
+                        "charge": [
+                            "Fly ticket",
+                            "Personal fees"
+                        ]
+                    },
+                    "journey": [{
+                            "day": "Day 1: DA NANG – TAY GIANG – CULTURAL AND MEDICINAL PLANT DISCOVERY",
+                            "details": [{
+                                    "time": "07:00",
+                                    "title": "The vehicle and tour guide will pick up guests at 452 Le Van Hien (EcoVenture headquarters). Depart for Tay Giang via the majestic Ho Chi Minh route. Guests will enjoy complimentary croissants and admire the mountain scenery along the way."
                                 },
                                 {
-                                    "question": "I don't have trekking experience. Can I join this program?",
-                                    "answer": "The trek has a steep gradient, especially the nearly 1km incline at the foot of the mountain, so it can be quite challenging for those who are not physically active."
+                                    "time": "12:00",
+                                    "title": "Arrive in Tay Giang and enjoy a lunch of local specialties, including bamboo-grilled chicken, sticky rice, and stir-fried wild vegetables at the homestay. Then, check-in and rest."
+                                },
+                                {
+                                    "time": "13:00-15:30",
+                                    "title": "Head to the medicinal herb area for an exploration",
+                                    "details": [
+                                        "Discover various medicinal plants and rare herbs, such as Dang Sam and Ba Kich.",
+                                        "Guides will explain the benefits and traditional medicinal uses of each plant.",
+                                        "Take photos and learn about the process of growing and harvesting medicinal herbs.",
+                                        "Try herbal products like herbal tea and essential oils."
+                                    ]
+                                },
+                                {
+                                    "time": "15:30-17:00",
+                                    "title": "Experience paddleboarding (SUP) on the fresh river, enjoying nature and relaxing on the water."
+                                },
+                                {
+                                    "time": "17:00-18:00",
+                                    "title": "Return to the homestay."
+                                },
+                                {
+                                    "time": "18:00-19:00",
+                                    "title": "Free time to relax."
+                                },
+                                {
+                                    "time": "19:00-20:00",
+                                    "title": "Enjoy dinner featuring forest chicken hotpot with medicinal herbs and traditional rice wine."
+                                },
+                                {
+                                    "time": "20:00-21:00",
+                                    "title": "Watch the traditional Cơ Tu dance 'Tung Tung Zá Zá,' then join in cultural exchanges, learning the significance of each movement and melody by the warm campfire."
+                                },
+                                {
+                                    "time": "21:30",
+                                    "title": "Herbal foot soak—a traditional Cơ Tu therapy to help restore energy after a long day."
+                                },
+                                {
+                                    "time": "22:00",
+                                    "title": "Overnight stay."
+                                }
+                            ]
+                        },
+                        {
+                            "day": "Day 2: CULTURAL HANDICRAFT EXPERIENCE – RETURN TO DA NANG",
+                            "details": [{
+                                    "time": "06:30",
+                                    "title": "Wake up early to enjoy the sunrise over the mountains (cloud-hunting at the homestay), followed by breakfast featuring ginseng porridge and steamed wild vegetable rolls."
+                                },
+                                {
+                                    "time": "08:00-08:30",
+                                    "title": "Transfer to Voòng village."
+                                },
+                                {
+                                    "time": "08:30-11:00",
+                                    "title": "Participate in the village welcoming ceremony, experience brocade weaving, wood carving, and bamboo weaving with local artisans. Learn about cultural significance, traditions, and stories at the Gươl house with the village chief."
+                                },
+                                {
+                                    "time": "11:30-12:30",
+                                    "title": "Check out of the homestay."
+                                },
+                                {
+                                    "time": "12:30-13:30",
+                                    "title": "Enjoy lunch at the homestay with local specialties such as grilled meat wrapped in dong leaves and steamed forest vegetables."
+                                },
+                                {
+                                    "time": "14:00-19:30",
+                                    "title": "Depart for Da Nang, stopping for rest and shopping for local specialties if desired. The journey ends in Da Nang, saying farewell to the group."
                                 }
                             ]
                         }
+                    ],
+                    "equipment": {
+                        "provided": [
+                            "Trekking Poles",
+                            "Tent’s light"
+                        ],
+                        "personal": [
+                            "ID card or Passport",
+                            "Water Bottle"
+                        ],
+                        "suggestion": [
+                            "Mobile phone, camera",
+                            "Flashlight"
+                        ]
+                    },
+                    "notes": [],
+                    "images": [
+                        "../gallery/1-5-hoa-bac-4.webp",
+                        "../gallery/2-2.jpg",
+                        "../gallery/27-8taygiang1.gif",
+                        "../gallery/676a07d82c9e6cb4a56ff09c.jpg",
+                        "../gallery/0708.tay_giang1.jpg",
+                        "../gallery/20230803_134623.jpg",
+                        "../gallery/441196233_339713875793813_4300386542697401289_n.jpg",
+                        "../gallery/anh_tay_giang_2.jpg",
+                        "../gallery/anh_tay_giang_8_2_1.jpg",
+                        "../gallery/anh-7-17183860230561923121790-0-102-1441-2408-crop-17183860484131631945352.webp",
+                        "../gallery/anh-xuan-10.jpg",
+                        "../gallery/at_den-tay-giang-du-khach-duoc-trai-nghiem-nhung-gi_a17a2f446233080fda8fefc6a1f5d572.jpg",
+                        "../gallery/da502_dulich1.jpg",
+                        "../gallery/ddaidiendoinhagai1.jpg",
+                        "../gallery/det_tho_cam-1692519403870.jpg",
+                        "../gallery/dinh-que-tay-giang-2.webp",
+                        "../gallery/DSC04944.JPG",
+                        "../gallery/DSC04945.JPG",
+                        "../gallery/DSC04946.JPG",
+                        "../gallery/du-lich-tay-giang-18.jpg",
+                        "../gallery/f209e2c6cc8425da7c95.jpg",
+                        "../gallery/hq720.jpg",
+                        "../gallery/images.baoquangnam.vn-storage-newsportal-2022-2-23-123801-_anh-clau-nghi-tay-gi.jpg",
+                        "../gallery/images.jpeg",
+                        "../gallery/images1704395_1.gif",
+                        "../gallery/images2907363_10.jpg",
+                        "../gallery/IMG_2069.jpg",
+                        "../gallery/nguoi-co-tu-1723.jpg",
+                        "../gallery/tay-giang-quang-nam-3.jpg",
+                        "../gallery/tay-giang-quang-nam-4-e1535168046644.png",
+                        "../gallery/tay-giang-quang-nam-17-e1535167629730.jpg",
+                        "../gallery/tay-giang-quang-nam-e1535167831334.jpg",
+                        "../gallery/thac_rcung_quang_nam_tam.jpg",
+                        "../gallery/z5266221276387_3d65b6a99c434346b5ecf0dffb75790d.jp"
+                    ],
+                    "question": {
+                        "title": "Q&A",
+                        "list": [{
+                                "question": "What is the minimum age for children to join this tour?",
+                                "answer": "This tour is suitable for children aged 12 or above and accompanied by parents or adults."
+                            },
+                            {
+                                "question": "I don't have trekking experience. Can I join this program?",
+                                "answer": "The trek has a steep gradient, especially the nearly 1km incline at the foot of the mountain, so it can be quite challenging for those who are not physically active."
+                            }
+                        ]
                     }
-                ]
+                }]
             },
             {
                 "id": 1,
@@ -475,8 +482,7 @@
                 "bannerImage": "../tours/images/tours2/images-01.jpg",
                 "tourDes": "The 'Echoes of the Jungle: Tay Giang Survival' tour is a thrilling and immersive adventure that blends survival skills, cultural exploration, and nature discovery. Over two days and one night, travelers will embark on a journey into the pristine forests of Tay Giang, where they will learn essential survival techniques, such as filtering water, setting up shelters, and navigating with compasses and maps. The experience is enriched by cultural interactions with the Co Tu people, including visiting the Guol house, witnessing the vibrant Tung Tung Za Za dance, and enjoying traditional cuisine like bamboo-tube rice, grilled chicken, and herbal-infused dishes. Guests will also partake in team-building activities, such as a 'Treasure Hunt' challenge and a nature photography contest, adding an element of excitement to the adventure. With breathtaking treks through ancient forests, refreshing dips in rocky streams, and evenings spent around a lively campfire, this tour offers an unparalleled opportunity to reconnect with nature, embrace local traditions, and create unforgettable memories in the heart of Tay Giang.",
                 "tourId": "SV102",
-                "tags": [
-                    {
+                "tags": [{
                         "text": "None Plastic",
                         "icon": "no-plastic"
                     },
@@ -487,160 +493,186 @@
                 ],
                 "tourLocation": "Tay Giang, Quang Nam Province",
                 "tourTime": "2 days 1 night",
-                "details": [
-                    {
-                        "tourName": "TOUR 2-Survival Package",
-                        "bannerImage": "../tours/images/tours2/baner_tour_ua_3_0.png",
-                        "tourDes": "The 'Echoes of the Jungle: Tay Giang Survival' tour is a thrilling and immersive adventure that blends survival skills, cultural exploration, and nature discovery. Over two days and one night, travelers will embark on a journey into the pristine forests of Tay Giang, where they will learn essential survival techniques, such as filtering water, setting up shelters, and navigating with compasses and maps. The experience is enriched by cultural interactions with the Co Tu people, including visiting the Guol house, witnessing the vibrant Tung Tung Za Za dance, and enjoying traditional cuisine like bamboo-tube rice, grilled chicken, and herbal-infused dishes. Guests will also partake in team-building activities, such as a 'Treasure Hunt' challenge and a nature photography contest, adding an element of excitement to the adventure. With breathtaking treks through ancient forests, refreshing dips in rocky streams, and evenings spent around a lively campfire, this tour offers an unparalleled opportunity to reconnect with nature, embrace local traditions, and create unforgettable memories in the heart of Tay Giang.",
-                        "tourLocation": "Tay Giang, Quang Nam Province",
-                        "tourId": "SV102",
-                        "map": "../tours/images/tours2/map.png",
-                        "tourTime": "2 days 1 night",
-                        "activities": [
-                            "Trekking"
+                "details": [{
+                    "tourName": "TOUR 2-Survival Package",
+                    "bannerImage": "../tours/images/tours2/baner_tour_ua_3_0.png",
+                    "tourDes": "The 'Echoes of the Jungle: Tay Giang Survival' tour is a thrilling and immersive adventure that blends survival skills, cultural exploration, and nature discovery. Over two days and one night, travelers will embark on a journey into the pristine forests of Tay Giang, where they will learn essential survival techniques, such as filtering water, setting up shelters, and navigating with compasses and maps. The experience is enriched by cultural interactions with the Co Tu people, including visiting the Guol house, witnessing the vibrant Tung Tung Za Za dance, and enjoying traditional cuisine like bamboo-tube rice, grilled chicken, and herbal-infused dishes. Guests will also partake in team-building activities, such as a 'Treasure Hunt' challenge and a nature photography contest, adding an element of excitement to the adventure. With breathtaking treks through ancient forests, refreshing dips in rocky streams, and evenings spent around a lively campfire, this tour offers an unparalleled opportunity to reconnect with nature, embrace local traditions, and create unforgettable memories in the heart of Tay Giang.",
+                    "tourLocation": "Tay Giang, Quang Nam Province",
+                    "tourId": "SV102",
+                    "map": "../tours/images/tours2/map.png",
+                    "tourTime": "2 days 1 night",
+                    "activities": [
+                        "Trekking"
+                    ],
+                    "level": "Easy Level (1/10)",
+                    "price": "2,499,000 VND",
+                    "startLocation": "Da Nang City",
+                    "endLocation": "Tay Giang, Quang Nam Province",
+                    "seatsMin": "10",
+                    "seatsMax": "12",
+                    "schedule": "January-September",
+                    "scheduleList": {
+                        "free": [
+                            "Bus round trips",
+                            "Camping on the mountain",
+                            "Tour guide and Porter"
                         ],
-                        "level": "Easy Level (1/10)",
-                        "price": "2,499,000 VND",
-                        "startLocation": "Da Nang City",
-                        "endLocation": "Tay Giang, Quang Nam Province",
-                        "seatsMin": "10",
-                        "seatsMax": "12",
-                        "schedule": "January-September",
-                        "scheduleList": {
-                            "free": [
-                                "Bus round trips",
-                                "Camping on the mountain",
-                                "Tour guide and Porter"
-                            ],
-                            "charge": [
-                                "Fly ticket",
-                                "Personal fees"
-                            ]
-                        },
-                        "journey": [
-                            {
-                                "day": "Day 1: STARTING THE ADVENTURE AND FIRST CHALLENGES",
-                                "details": [
-                                    {
-                                        "time": "07:00",
-                                        "title": "Gather at 452 Le Van Hien, Khue My, Ngu Hanh Son, Da Nang. Check luggage, receive an overview of the itinerary, and depart for Tay Giang by tourist bus."
-                                    },
-                                    {
-                                        "time": "12:00",
-                                        "title": "Arrive in Tay Giang and enjoy a lunch of grilled bamboo chicken, sticky rice, and stir-fried wild vegetables at the homestay. Then, rest."
-                                    },
-                                    {
-                                        "time": "14:00-14:30",
-                                        "title": "Transfer to the survival activity and camping site."
-                                    },
-                                    {
-                                        "time": "15:00-16:00",
-                                        "title": "Receive survival equipment (knives, ropes, compasses, maps, etc.), then complete the first survival tasks:",
-                                        "details": [
-                                            "Fetching water from the stream: Use provided tools to find and filter clean water.",
-                                            "Setting up tents: Each team must build a tent large enough to accommodate its members."
-                                        ]
-                                    },
-                                    {
-                                        "time": "16:00-17:00",
-                                        "title": "Explore the ancient forest:",
-                                        "details": [
-                                            "Discover hidden corners of the jungle with a guide.",
-                                            "Learn about endemic flora and fauna, including ancient trees and medicinal herbs.",
-                                            "Trek through paths leading to waterfalls and natural streams.",
-                                            "Nature photography challenge: Teams compete to capture the best landscape photos and share their stories about the forest."
-                                        ]
-                                    },
-                                    {
-                                        "time": "18:30-20:30",
-                                        "title": "Enjoy a BBQ dinner in the forest (prepared by organizers) and join the campfire night:",
-                                        "details": [
-                                            "Share stories about nature and survival experiences.",
-                                            "Herbal foot soak for relaxation.",
-                                            "Mini awards for the best nature photography team."
-                                        ]
-                                    },
-                                    {
-                                        "time": "21:00",
-                                        "title": "Overnight in tents, experiencing the serene mountain atmosphere."
-                                    }
-                                ]
-                            },
-                            {
-                                "day": "Day 2: TREASURE HUNT & RETURN",
-                                "details": [
-                                    {
-                                        "time": "06:30",
-                                        "title": "Wake up, enjoy the fresh air, and have a light breakfast."
-                                    },
-                                    {
-                                        "time": "07:30-09:30",
-                                        "title": "Learn how to build temporary shelters using natural materials."
-                                    },
-                                    {
-                                        "time": "10:30-12:00",
-                                        "title": "'Treasure Hunt' Challenge:",
-                                        "details": [
-                                            "Teams use maps and clues collected from the previous day to search for hidden treasure in the jungle (prizes include local gifts and vouchers)."
-                                        ]
-                                    },
-                                    {
-                                        "time": "13:30-14:00",
-                                        "title": "Award ceremony:",
-                                        "details": [
-                                            "First Prize: Special gift basket with herbal products and essential oils.",
-                                            "Second & Third Prizes: Handmade souvenirs from local artisans."
-                                        ]
-                                    },
-                                    {
-                                        "time": "14:00-15:30",
-                                        "title": "Pack up and prepare to leave the homestay."
-                                    },
-                                    {
-                                        "time": "15:30-21:30",
-                                        "title": "Depart for Da Nang, with a dinner stop along the way."
-                                    },
-                                    {
-                                        "time": "21:30",
-                                        "title": "Arrive in Da Nang and conclude the journey."
-                                    }
-                                ]
-                            }
-                        ],
-                        "equipment": {
-                            "provided": [
-                                "Trekking Poles",
-                                "Tent’s light"
-                            ],
-                            "personal": [
-                                "ID card or Passport",
-                                "Water Bottle"
-                            ],
-                            "suggestion": [
-                                "Mobile phone, camera",
-                                "Flashlight"
-                            ]
-                        },
-                        "notes": [],
-                        "images": [
-                            "../tours/images/tours2/images-01.jpg",
-                            "https://drive.google.com/file/d/14ldyoLrvJbBfJOuZrAoL68qVpnPZ8f8V/preview"
-                        ],
-                        "question": {
-                            "title": "Q&A",
-                            "list": [
-                                {
-                                    "question": "What is the minimum age for children to join this tour?",
-                                    "answer": "This tour is suitable for children aged 12 or above and accompanied by parents or adults."
+                        "charge": [
+                            "Fly ticket",
+                            "Personal fees"
+                        ]
+                    },
+                    "journey": [{
+                            "day": "Day 1: STARTING THE ADVENTURE AND FIRST CHALLENGES",
+                            "details": [{
+                                    "time": "07:00",
+                                    "title": "Gather at 452 Le Van Hien, Khue My, Ngu Hanh Son, Da Nang. Check luggage, receive an overview of the itinerary, and depart for Tay Giang by tourist bus."
                                 },
                                 {
-                                    "question": "I don't have trekking experience. Can I join this program?",
-                                    "answer": "The trek has a steep gradient, especially the nearly 1km incline at the foot of the mountain, so it can be quite challenging for those who are not physically active. You should review the tips and guidelines for preparing for a trip with a difficulty level of 6/10 here."
+                                    "time": "12:00",
+                                    "title": "Arrive in Tay Giang and enjoy a lunch of grilled bamboo chicken, sticky rice, and stir-fried wild vegetables at the homestay. Then, rest."
+                                },
+                                {
+                                    "time": "14:00-14:30",
+                                    "title": "Transfer to the survival activity and camping site."
+                                },
+                                {
+                                    "time": "15:00-16:00",
+                                    "title": "Receive survival equipment (knives, ropes, compasses, maps, etc.), then complete the first survival tasks:",
+                                    "details": [
+                                        "Fetching water from the stream: Use provided tools to find and filter clean water.",
+                                        "Setting up tents: Each team must build a tent large enough to accommodate its members."
+                                    ]
+                                },
+                                {
+                                    "time": "16:00-17:00",
+                                    "title": "Explore the ancient forest:",
+                                    "details": [
+                                        "Discover hidden corners of the jungle with a guide.",
+                                        "Learn about endemic flora and fauna, including ancient trees and medicinal herbs.",
+                                        "Trek through paths leading to waterfalls and natural streams.",
+                                        "Nature photography challenge: Teams compete to capture the best landscape photos and share their stories about the forest."
+                                    ]
+                                },
+                                {
+                                    "time": "18:30-20:30",
+                                    "title": "Enjoy a BBQ dinner in the forest (prepared by organizers) and join the campfire night:",
+                                    "details": [
+                                        "Share stories about nature and survival experiences.",
+                                        "Herbal foot soak for relaxation.",
+                                        "Mini awards for the best nature photography team."
+                                    ]
+                                },
+                                {
+                                    "time": "21:00",
+                                    "title": "Overnight in tents, experiencing the serene mountain atmosphere."
+                                }
+                            ]
+                        },
+                        {
+                            "day": "Day 2: TREASURE HUNT & RETURN",
+                            "details": [{
+                                    "time": "06:30",
+                                    "title": "Wake up, enjoy the fresh air, and have a light breakfast."
+                                },
+                                {
+                                    "time": "07:30-09:30",
+                                    "title": "Learn how to build temporary shelters using natural materials."
+                                },
+                                {
+                                    "time": "10:30-12:00",
+                                    "title": "'Treasure Hunt' Challenge:",
+                                    "details": [
+                                        "Teams use maps and clues collected from the previous day to search for hidden treasure in the jungle (prizes include local gifts and vouchers)."
+                                    ]
+                                },
+                                {
+                                    "time": "13:30-14:00",
+                                    "title": "Award ceremony:",
+                                    "details": [
+                                        "First Prize: Special gift basket with herbal products and essential oils.",
+                                        "Second & Third Prizes: Handmade souvenirs from local artisans."
+                                    ]
+                                },
+                                {
+                                    "time": "14:00-15:30",
+                                    "title": "Pack up and prepare to leave the homestay."
+                                },
+                                {
+                                    "time": "15:30-21:30",
+                                    "title": "Depart for Da Nang, with a dinner stop along the way."
+                                },
+                                {
+                                    "time": "21:30",
+                                    "title": "Arrive in Da Nang and conclude the journey."
                                 }
                             ]
                         }
+                    ],
+                    "equipment": {
+                        "provided": [
+                            "Trekking Poles",
+                            "Tent’s light"
+                        ],
+                        "personal": [
+                            "ID card or Passport",
+                            "Water Bottle"
+                        ],
+                        "suggestion": [
+                            "Mobile phone, camera",
+                            "Flashlight"
+                        ]
+                    },
+                    "notes": [],
+                    "images": [
+                        "../gallery/1-5-hoa-bac-4.webp",
+                        "../gallery/2-2.jpg",
+                        "../gallery/27-8taygiang1.gif",
+                        "../gallery/676a07d82c9e6cb4a56ff09c.jpg",
+                        "../gallery/0708.tay_giang1.jpg",
+                        "../gallery/20230803_134623.jpg",
+                        "../gallery/441196233_339713875793813_4300386542697401289_n.jpg",
+                        "../gallery/anh_tay_giang_2.jpg",
+                        "../gallery/anh_tay_giang_8_2_1.jpg",
+                        "../gallery/anh-7-17183860230561923121790-0-102-1441-2408-crop-17183860484131631945352.webp",
+                        "../gallery/anh-xuan-10.jpg",
+                        "../gallery/at_den-tay-giang-du-khach-duoc-trai-nghiem-nhung-gi_a17a2f446233080fda8fefc6a1f5d572.jpg",
+                        "../gallery/da502_dulich1.jpg",
+                        "../gallery/ddaidiendoinhagai1.jpg",
+                        "../gallery/det_tho_cam-1692519403870.jpg",
+                        "../gallery/dinh-que-tay-giang-2.webp",
+                        "../gallery/DSC04944.JPG",
+                        "../gallery/DSC04945.JPG",
+                        "../gallery/DSC04946.JPG",
+                        "../gallery/du-lich-tay-giang-18.jpg",
+                        "../gallery/f209e2c6cc8425da7c95.jpg",
+                        "../gallery/hq720.jpg",
+                        "../gallery/images.baoquangnam.vn-storage-newsportal-2022-2-23-123801-_anh-clau-nghi-tay-gi.jpg",
+                        "../gallery/images.jpeg",
+                        "../gallery/images1704395_1.gif",
+                        "../gallery/images2907363_10.jpg",
+                        "../gallery/IMG_2069.jpg",
+                        "../gallery/nguoi-co-tu-1723.jpg",
+                        "../gallery/tay-giang-quang-nam-3.jpg",
+                        "../gallery/tay-giang-quang-nam-4-e1535168046644.png",
+                        "../gallery/tay-giang-quang-nam-17-e1535167629730.jpg",
+                        "../gallery/tay-giang-quang-nam-e1535167831334.jpg",
+                        "../gallery/thac_rcung_quang_nam_tam.jpg",
+                        "../gallery/z5266221276387_3d65b6a99c434346b5ecf0dffb75790d.jp"
+                    ],
+                    "question": {
+                        "title": "Q&A",
+                        "list": [{
+                                "question": "What is the minimum age for children to join this tour?",
+                                "answer": "This tour is suitable for children aged 12 or above and accompanied by parents or adults."
+                            },
+                            {
+                                "question": "I don't have trekking experience. Can I join this program?",
+                                "answer": "The trek has a steep gradient, especially the nearly 1km incline at the foot of the mountain, so it can be quite challenging for those who are not physically active. You should review the tips and guidelines for preparing for a trip with a difficulty level of 6/10 here."
+                            }
+                        ]
                     }
-                ]
+                }]
             },
             {
                 "id": 2,
@@ -648,8 +680,7 @@
                 "bannerImage": "../tours/images/tours3/images-01.jpg",
                 "tourDes": "The 'Pomu Challenge – Calling the Soul of Tay Giang' tour is a thrilling 3-day, 2-night adventure that seamlessly blends survival skills and cultural immersion in the breathtaking highlands of Tay Giang. Travelers will trek through the ancient Pơmu forest, learn to build shelters, filter water, and start fires, while also experiencing the rich traditions of the Cơ Tu people. Highlights include hands-on weaving, bamboo music workshops, and traditional baking, as well as evenings spent enjoying folk dances, storytelling, and BBQ feasts around a campfire. With opportunities to explore pristine waterfalls, sip herbal forest tea at sunrise, and stay in a traditional Guol house, this journey offers the perfect mix of nature, adventure, and culture, leaving travelers with unforgettable memories of Tay Giang.",
                 "tourId": "CP101",
-                "tags": [
-                    {
+                "tags": [{
                         "text": "None Plastic",
                         "icon": "no-plastic"
                     },
@@ -660,177 +691,206 @@
                 ],
                 "tourLocation": "Tay Giang, Quang Nam Province",
                 "tourTime": "3 days 2 nights",
-                "details": [
-                    {
-                        "tourName": "TOUR 3-Combine Cultural and Survival Package",
-                        "bannerImage": "../tours/images/tours1/baner_tour_ua_3_0.png",
-                        "tourDes": "The 'Pomu Challenge – Calling the Soul of Tay Giang' tour is a thrilling 3-day, 2-night adventure that seamlessly blends survival skills and cultural immersion in the breathtaking highlands of Tay Giang. Travelers will trek through the ancient Pơmu forest, learn to build shelters, filter water, and start fires, while also experiencing the rich traditions of the Cơ Tu people. Highlights include hands-on weaving, bamboo music workshops, and traditional baking, as well as evenings spent enjoying folk dances, storytelling, and BBQ feasts around a campfire. With opportunities to explore pristine waterfalls, sip herbal forest tea at sunrise, and stay in a traditional Guol house, this journey offers the perfect mix of nature, adventure, and culture, leaving travelers with unforgettable memories of Tay Giang.",
-                        "tourLocation": "Tay Giang, Quang Nam Province",
-                        "tourId": "CP101",
-                        "map": "../tours/images/tours3/map.png",
-                        "tourTime": "3 days 2 nights",
-                        "activities": [
-                            "Trekking"
+                "details": [{
+                    "tourName": "TOUR 3-Combine Cultural and Survival Package",
+                    "bannerImage": "../tours/images/tours1/baner_tour_ua_3_0.png",
+                    "tourDes": "The 'Pomu Challenge – Calling the Soul of Tay Giang' tour is a thrilling 3-day, 2-night adventure that seamlessly blends survival skills and cultural immersion in the breathtaking highlands of Tay Giang. Travelers will trek through the ancient Pơmu forest, learn to build shelters, filter water, and start fires, while also experiencing the rich traditions of the Cơ Tu people. Highlights include hands-on weaving, bamboo music workshops, and traditional baking, as well as evenings spent enjoying folk dances, storytelling, and BBQ feasts around a campfire. With opportunities to explore pristine waterfalls, sip herbal forest tea at sunrise, and stay in a traditional Guol house, this journey offers the perfect mix of nature, adventure, and culture, leaving travelers with unforgettable memories of Tay Giang.",
+                    "tourLocation": "Tay Giang, Quang Nam Province",
+                    "tourId": "CP101",
+                    "map": "../tours/images/tours3/map.png",
+                    "tourTime": "3 days 2 nights",
+                    "activities": [
+                        "Trekking"
+                    ],
+                    "level": "Easy Level (1/10)",
+                    "price": "2,629,000 VND",
+                    "startLocation": "Da Nang City",
+                    "endLocation": "Tay Giang, Quang Nam Province",
+                    "seatsMin": "10",
+                    "seatsMax": "12",
+                    "schedule": "January-September",
+                    "scheduleList": {
+                        "free": [
+                            "Bus round trips",
+                            "Camping on the mountain",
+                            "Tour guide and Porter"
                         ],
-                        "level": "Easy Level (1/10)",
-                        "price": "2,629,000 VND",
-                        "startLocation": "Da Nang City",
-                        "endLocation": "Tay Giang, Quang Nam Province",
-                        "seatsMin": "10",
-                        "seatsMax": "12",
-                        "schedule": "January-September",
-                        "scheduleList": {
-                            "free": [
-                                "Bus round trips",
-                                "Camping on the mountain",
-                                "Tour guide and Porter"
-                            ],
-                            "charge": [
-                                "Flight ticket",
-                                "Personal fees"
-                            ]
-                        },
-                        "journey": [
-                            {
-                                "day": "Day 1: Da Nang - Tay Giang Town - A Banh Village - Camping Site",
-                                "details": [
-                                    {
-                                        "time": "07:00",
-                                        "title": "Departure from 452 Le Van Hien, Khue My, Ngu Hanh Son, Da Nang",
-                                        "details": [
-                                            "Traveling by car through picturesque mountain passes, admiring the majestic natural scenery."
-                                        ]
-                                    },
-                                    {
-                                        "time": "12:00",
-                                        "title": "Arrive at Tay Giang and enjoy a rustic lunch with bamboo-cooked rice, grilled meat, and forest vegetables at a homestay. Free time for rest."
-                                    },
-                                    {
-                                        "time": "14:00-14:30",
-                                        "title": "Move to the survival activity location."
-                                    },
-                                    {
-                                        "time": "15:00-16:30",
-                                        "title": "'Survival Challenge' Program.",
-                                        "details": [
-                                            "Participate in hands-on survival activities:",
-                                            "Stream bathing, fish catching, and collecting drinking water from bamboo tubes with porter guidance.",
-                                            "Learn from local guides about different medicinal plants and leaves that can be used in case of getting lost."
-                                        ]
-                                    },
-                                    {
-                                        "time": "17:00-18:30",
-                                        "title": "Set up tents and cook dinner with the guide and porter."
-                                    },
-                                    {
-                                        "time": "19:00-20:30",
-                                        "title": "Dinner experience:",
-                                        "details": [
-                                            "Enjoy local specialties such as grilled stream fish, grilled pork wrapped in dong leaves, and bamboo-cooked rice by the fire.",
-                                            "Cultural exchange and free activities."
-                                        ]
-                                    },
-                                    {
-                                        "time": "21:00",
-                                        "title": "Overnight in prepared tents."
-                                    }
-                                ]
-                            },
-                            {
-                                "day": "Day 2: CONQUERING THE PRISTINE AND MAGNIFICENT POMU FOREST",
-                                "details": [
-                                    {
-                                        "time": "6:30-7:30",
-                                        "title": "Sunrise in the Forest",
-                                        "details": [
-                                            "Enjoy forest leaf tea and buffalo horn-shaped pastries – a unique traditional delicacy.",
-                                            "15-minute meditation by the stream."
-                                        ]
-                                    },
-                                    {
-                                        "time": "08:00-10:30",
-                                        "title": "Exploring Po Mu Forest",
-                                        "details": [
-                                            "A 2km trek over 2.5 hours.",
-                                            "Discover the ancient Po Mu forest, a natural heritage of Tay Giang.",
-                                            "Local guides (Cơ Tu people) will introduce rare medicinal plants, identification techniques, and uses.",
-                                            "Learn about valuable timber trees, take photos with giant trees, and hear about the cultural significance of Po Mu forest to the Cơ Tu people."
-                                        ]
-                                    },
-                                    {
-                                        "time": "11:00-12:00",
-                                        "title": "Rest at the riverside campsite."
-                                    },
-                                    {
-                                        "time": "12:30-14:30",
-                                        "title": "Lunch in the Forest",
-                                        "details": [
-                                            "Enjoy a light meal prepared from natural ingredients.",
-                                            "After lunch, pack up and return to the homestay to check in and rest."
-                                        ]
-                                    },
-                                    {
-                                        "time": "15:30-16:00",
-                                        "title": "Herbal Foot Soak",
-                                        "details": [
-                                            "Relax and rejuvenate with a warm herbal foot soak."
-                                        ]
-                                    },
-                                    {
-                                        "time": "16:00-17:30",
-                                        "title": "Sunset viewing and free activities at the homestay."
-                                    },
-                                    {
-                                        "time": "18:00-19:00",
-                                        "title": "Outdoor BBQ Party.",
-                                        "details": [
-                                            "Enjoy a delicious BBQ with local grilled specialties."
-                                        ]
-                                    },
-                                    {
-                                        "time": "19:30-20:30",
-                                        "title": "Experience the unique Tung Tung Zá Zá dance of the Cơ Tu people."
-                                    },
-                                    {
-                                        "time": "21:30",
-                                        "title": "Overnight at the homestay."
-                                    }
-                                ]
-                            }
-                        ],
-                        "equipment": {
-                            "provided": [
-                                "Trekking Poles",
-                                "Tent’s light"
-                            ],
-                            "personal": [
-                                "ID card or Passport",
-                                "Water Bottle"
-                            ],
-                            "suggestion": [
-                                "Mobile phone, camera",
-                                "Flashlight"
-                            ]
-                        },
-                        "notes": [],
-                        "images": [
-                            "../tours/images/tours1/images-01.jpg"
-                        ],
-                        "question": {
-                            "title": "Q&A",
-                            "list": [
-                                {
-                                    "question": "What is the minimum age for children to join this tour?",
-                                    "answer": "This tour is suitable for children aged 12 or above and accompanied by parents or adults."
+                        "charge": [
+                            "Flight ticket",
+                            "Personal fees"
+                        ]
+                    },
+                    "journey": [{
+                            "day": "Day 1: Da Nang - Tay Giang Town - A Banh Village - Camping Site",
+                            "details": [{
+                                    "time": "07:00",
+                                    "title": "Departure from 452 Le Van Hien, Khue My, Ngu Hanh Son, Da Nang",
+                                    "details": [
+                                        "Traveling by car through picturesque mountain passes, admiring the majestic natural scenery."
+                                    ]
                                 },
                                 {
-                                    "question": "I don't have trekking experience. Can I join this program?",
-                                    "answer": "The trek has a steep gradient, especially the nearly 1km incline at the foot of the mountain, so it can be quite challenging for those who are not physically active."
+                                    "time": "12:00",
+                                    "title": "Arrive at Tay Giang and enjoy a rustic lunch with bamboo-cooked rice, grilled meat, and forest vegetables at a homestay. Free time for rest."
+                                },
+                                {
+                                    "time": "14:00-14:30",
+                                    "title": "Move to the survival activity location."
+                                },
+                                {
+                                    "time": "15:00-16:30",
+                                    "title": "'Survival Challenge' Program.",
+                                    "details": [
+                                        "Participate in hands-on survival activities:",
+                                        "Stream bathing, fish catching, and collecting drinking water from bamboo tubes with porter guidance.",
+                                        "Learn from local guides about different medicinal plants and leaves that can be used in case of getting lost."
+                                    ]
+                                },
+                                {
+                                    "time": "17:00-18:30",
+                                    "title": "Set up tents and cook dinner with the guide and porter."
+                                },
+                                {
+                                    "time": "19:00-20:30",
+                                    "title": "Dinner experience:",
+                                    "details": [
+                                        "Enjoy local specialties such as grilled stream fish, grilled pork wrapped in dong leaves, and bamboo-cooked rice by the fire.",
+                                        "Cultural exchange and free activities."
+                                    ]
+                                },
+                                {
+                                    "time": "21:00",
+                                    "title": "Overnight in prepared tents."
+                                }
+                            ]
+                        },
+                        {
+                            "day": "Day 2: CONQUERING THE PRISTINE AND MAGNIFICENT POMU FOREST",
+                            "details": [{
+                                    "time": "6:30-7:30",
+                                    "title": "Sunrise in the Forest",
+                                    "details": [
+                                        "Enjoy forest leaf tea and buffalo horn-shaped pastries – a unique traditional delicacy.",
+                                        "15-minute meditation by the stream."
+                                    ]
+                                },
+                                {
+                                    "time": "08:00-10:30",
+                                    "title": "Exploring Po Mu Forest",
+                                    "details": [
+                                        "A 2km trek over 2.5 hours.",
+                                        "Discover the ancient Po Mu forest, a natural heritage of Tay Giang.",
+                                        "Local guides (Cơ Tu people) will introduce rare medicinal plants, identification techniques, and uses.",
+                                        "Learn about valuable timber trees, take photos with giant trees, and hear about the cultural significance of Po Mu forest to the Cơ Tu people."
+                                    ]
+                                },
+                                {
+                                    "time": "11:00-12:00",
+                                    "title": "Rest at the riverside campsite."
+                                },
+                                {
+                                    "time": "12:30-14:30",
+                                    "title": "Lunch in the Forest",
+                                    "details": [
+                                        "Enjoy a light meal prepared from natural ingredients.",
+                                        "After lunch, pack up and return to the homestay to check in and rest."
+                                    ]
+                                },
+                                {
+                                    "time": "15:30-16:00",
+                                    "title": "Herbal Foot Soak",
+                                    "details": [
+                                        "Relax and rejuvenate with a warm herbal foot soak."
+                                    ]
+                                },
+                                {
+                                    "time": "16:00-17:30",
+                                    "title": "Sunset viewing and free activities at the homestay."
+                                },
+                                {
+                                    "time": "18:00-19:00",
+                                    "title": "Outdoor BBQ Party.",
+                                    "details": [
+                                        "Enjoy a delicious BBQ with local grilled specialties."
+                                    ]
+                                },
+                                {
+                                    "time": "19:30-20:30",
+                                    "title": "Experience the unique Tung Tung Zá Zá dance of the Cơ Tu people."
+                                },
+                                {
+                                    "time": "21:30",
+                                    "title": "Overnight at the homestay."
                                 }
                             ]
                         }
+                    ],
+                    "equipment": {
+                        "provided": [
+                            "Trekking Poles",
+                            "Tent’s light"
+                        ],
+                        "personal": [
+                            "ID card or Passport",
+                            "Water Bottle"
+                        ],
+                        "suggestion": [
+                            "Mobile phone, camera",
+                            "Flashlight"
+                        ]
+                    },
+                    "notes": [],
+                    "images": [
+                        [
+                            "../gallery/1-5-hoa-bac-4.webp",
+                            "../gallery/2-2.jpg",
+                            "../gallery/27-8taygiang1.gif",
+                            "../gallery/676a07d82c9e6cb4a56ff09c.jpg",
+                            "../gallery/0708.tay_giang1.jpg",
+                            "../gallery/20230803_134623.jpg",
+                            "../gallery/441196233_339713875793813_4300386542697401289_n.jpg",
+                            "../gallery/anh_tay_giang_2.jpg",
+                            "../gallery/anh_tay_giang_8_2_1.jpg",
+                            "../gallery/anh-7-17183860230561923121790-0-102-1441-2408-crop-17183860484131631945352.webp",
+                            "../gallery/anh-xuan-10.jpg",
+                            "../gallery/at_den-tay-giang-du-khach-duoc-trai-nghiem-nhung-gi_a17a2f446233080fda8fefc6a1f5d572.jpg",
+                            "../gallery/da502_dulich1.jpg",
+                            "../gallery/ddaidiendoinhagai1.jpg",
+                            "../gallery/det_tho_cam-1692519403870.jpg",
+                            "../gallery/dinh-que-tay-giang-2.webp",
+                            "../gallery/DSC04944.JPG",
+                            "../gallery/DSC04945.JPG",
+                            "../gallery/DSC04946.JPG",
+                            "../gallery/du-lich-tay-giang-18.jpg",
+                            "../gallery/f209e2c6cc8425da7c95.jpg",
+                            "../gallery/hq720.jpg",
+                            "../gallery/images.baoquangnam.vn-storage-newsportal-2022-2-23-123801-_anh-clau-nghi-tay-gi.jpg",
+                            "../gallery/images.jpeg",
+                            "../gallery/images1704395_1.gif",
+                            "../gallery/images2907363_10.jpg",
+                            "../gallery/IMG_2069.jpg",
+                            "../gallery/nguoi-co-tu-1723.jpg",
+                            "../gallery/tay-giang-quang-nam-3.jpg",
+                            "../gallery/tay-giang-quang-nam-4-e1535168046644.png",
+                            "../gallery/tay-giang-quang-nam-17-e1535167629730.jpg",
+                            "../gallery/tay-giang-quang-nam-e1535167831334.jpg",
+                            "../gallery/thac_rcung_quang_nam_tam.jpg",
+                            "../gallery/z5266221276387_3d65b6a99c434346b5ecf0dffb75790d.jp"
+                        ]
+                    ],
+                    "question": {
+                        "title": "Q&A",
+                        "list": [{
+                                "question": "What is the minimum age for children to join this tour?",
+                                "answer": "This tour is suitable for children aged 12 or above and accompanied by parents or adults."
+                            },
+                            {
+                                "question": "I don't have trekking experience. Can I join this program?",
+                                "answer": "The trek has a steep gradient, especially the nearly 1km incline at the foot of the mountain, so it can be quite challenging for those who are not physically active."
+                            }
+                        ]
                     }
-                ]
+                }]
             },
             {
                 "id": 3,
@@ -838,8 +898,7 @@
                 "bannerImage": "../tours/images/tours4/images-01.jpg",
                 "tourDes": "The 'Pomu Challenge – Calling the Soul of Tay Giang' tour is a thrilling 3-day, 2-night adventure that seamlessly blends survival skills and cultural immersion in the breathtaking highlands of Tay Giang. Travelers will trek through the ancient Pơmu forest, learn to build shelters, filter water, and start fires, while also experiencing the rich traditions of the Cơ Tu people. Highlights include hands-on weaving, bamboo music workshops, and traditional baking, as well as evenings spent enjoying folk dances, storytelling, and BBQ feasts around a campfire. With opportunities to explore pristine waterfalls, sip herbal forest tea at sunrise, and stay in a traditional Guol house, this journey offers the perfect mix of nature, adventure, and culture, leaving travelers with unforgettable memories of Tay Giang",
                 "tourId": "CV201",
-                "tags": [
-                    {
+                "tags": [{
                         "text": "None Plastic",
                         "icon": "no-plastic"
                     },
@@ -850,125 +909,153 @@
                 ],
                 "tourLocation": "Tay Giang, Quang Nam Province",
                 "tourTime": "3 days 2 nights",
-                "details": [
-                    {
-                        "tourName": "TOUR 4-Combine Culture and Volunteer Package",
-                        "bannerImage": "../tours/images/tours1/baner_tour_ua_3_0.png",
-                        "tourDes": "The 'Pomu Challenge – Calling the Soul of Tay Giang' tour is a thrilling 3-day, 2-night adventure that seamlessly blends survival skills and cultural immersion in the breathtaking highlands of Tay Giang. Travelers will trek through the ancient Pơmu forest, learn to build shelters, filter water, and start fires, while also experiencing the rich traditions of the Cơ Tu people. Highlights include hands-on weaving, bamboo music workshops, and traditional baking, as well as evenings spent enjoying folk dances, storytelling, and BBQ feasts around a campfire. With opportunities to explore pristine waterfalls, sip herbal forest tea at sunrise, and stay in a traditional Guol house, this journey offers the perfect mix of nature, adventure, and culture, leaving travelers with unforgettable memories of Tay Giang",
-                        "tourLocation": "Tay Giang, Quang Nam Province",
-                        "tourId": "CV201",
-                        "map": "../tours/images/tours4/map.png",
-                        "tourTime": "3 days 2 nights",
-                        "activities": [
-                            "Trekking"
+                "details": [{
+                    "tourName": "TOUR 4-Combine Culture and Volunteer Package",
+                    "bannerImage": "../tours/images/tours1/baner_tour_ua_3_0.png",
+                    "tourDes": "The 'Pomu Challenge – Calling the Soul of Tay Giang' tour is a thrilling 3-day, 2-night adventure that seamlessly blends survival skills and cultural immersion in the breathtaking highlands of Tay Giang. Travelers will trek through the ancient Pơmu forest, learn to build shelters, filter water, and start fires, while also experiencing the rich traditions of the Cơ Tu people. Highlights include hands-on weaving, bamboo music workshops, and traditional baking, as well as evenings spent enjoying folk dances, storytelling, and BBQ feasts around a campfire. With opportunities to explore pristine waterfalls, sip herbal forest tea at sunrise, and stay in a traditional Guol house, this journey offers the perfect mix of nature, adventure, and culture, leaving travelers with unforgettable memories of Tay Giang",
+                    "tourLocation": "Tay Giang, Quang Nam Province",
+                    "tourId": "CV201",
+                    "map": "../tours/images/tours4/map.png",
+                    "tourTime": "3 days 2 nights",
+                    "activities": [
+                        "Trekking"
+                    ],
+                    "level": "Easy Level (1/10)",
+                    "price": "2,579,000 VND",
+                    "startLocation": "Da Nang City",
+                    "endLocation": "Tay Giang, Quang Nam Province",
+                    "seatsMin": "5",
+                    "seatsMax": "12",
+                    "schedule": "January-September",
+                    "scheduleList": {
+                        "free": [
+                            "Bus round trips",
+                            "Camping on the mountain",
+                            "Tour guide and Porter"
                         ],
-                        "level": "Easy Level (1/10)",
-                        "price": "2,579,000 VND",
-                        "startLocation": "Da Nang City",
-                        "endLocation": "Tay Giang, Quang Nam Province",
-                        "seatsMin": "5",
-                        "seatsMax": "12",
-                        "schedule": "January-September",
-                        "scheduleList": {
-                            "free": [
-                                "Bus round trips",
-                                "Camping on the mountain",
-                                "Tour guide and Porter"
-                            ],
-                            "charge": [
-                                "Flight ticket",
-                                "Personal fees"
-                            ]
-                        },
-                        "journey": [
+                        "charge": [
+                            "Flight ticket",
+                            "Personal fees"
+                        ]
+                    },
+                    "journey": [{
+                        "day": "Day 1: DEPARTURE - CƠ TU CULTURE EXPLORATION",
+                        "details": [{
+                                "time": "6:00",
+                                "title": "Pick-up at 452 Le Van Hien, Khue My, Ngu Hanh Son"
+                            },
                             {
-                                "day": "Day 1: DEPARTURE - CƠ TU CULTURE EXPLORATION",
+                                "time": "9:30",
+                                "title": "Arrive in Tay Giang, visit the Cơ Tu Cultural Village in A Tieng Commune, Tay Giang",
                                 "details": [
-                                    {
-                                        "time": "6:00",
-                                        "title": "Pick-up at 452 Le Van Hien, Khue My, Ngu Hanh Son"
-                                    },
-                                    {
-                                        "time": "9:30",
-                                        "title": "Arrive in Tay Giang, visit the Cơ Tu Cultural Village in A Tieng Commune, Tay Giang",
-                                        "details": [
-                                            "Learn about Guol house architecture – the traditional house of the Cơ Tu people, featuring unique thatched roofs and wooden pillars."
-                                        ]
-                                    },
-                                    {
-                                        "time": "11:30",
-                                        "title": "Arrive at homestay, have lunch at Loc Troi Homestay",
-                                        "details": [
-                                            "Enjoy specialties like bamboo rice, grilled chicken, and forest vegetables.",
-                                            "Check into rooms and rest (The distance from the Cơ Tu village to Loc Troi Homestay is 18km, approximately 1.5-hour drive)."
-                                        ]
-                                    },
-                                    {
-                                        "time": "14:00",
-                                        "title": "Visit Dinh Que Summit",
-                                        "details": [
-                                            "One of the highest peaks in Tay Giang.",
-                                            "Enjoy panoramic views of the majestic mountains and lush green valleys.",
-                                            "(Distance: 3km, travel time: 15 minutes)."
-                                        ]
-                                    },
-                                    {
-                                        "time": "15:30",
-                                        "title": "Visit the local school in Voong Village",
-                                        "details": [
-                                            "Prepare for the next day's volunteer activities.",
-                                            "Meet teachers and students to understand their support needs.",
-                                            "(Distance: 5km, travel time: 25 minutes)."
-                                        ]
-                                    },
-                                    {
-                                        "time": "17:00",
-                                        "title": "Return to homestay"
-                                    },
-                                    {
-                                        "time": "18:30",
-                                        "title": "Dinner with local specialties",
-                                        "details": [
-                                            "Grilled mountain pork, fried stream fish, grilled chicken with bamboo rice."
-                                        ]
-                                    }
+                                    "Learn about Guol house architecture – the traditional house of the Cơ Tu people, featuring unique thatched roofs and wooden pillars."
+                                ]
+                            },
+                            {
+                                "time": "11:30",
+                                "title": "Arrive at homestay, have lunch at Loc Troi Homestay",
+                                "details": [
+                                    "Enjoy specialties like bamboo rice, grilled chicken, and forest vegetables.",
+                                    "Check into rooms and rest (The distance from the Cơ Tu village to Loc Troi Homestay is 18km, approximately 1.5-hour drive)."
+                                ]
+                            },
+                            {
+                                "time": "14:00",
+                                "title": "Visit Dinh Que Summit",
+                                "details": [
+                                    "One of the highest peaks in Tay Giang.",
+                                    "Enjoy panoramic views of the majestic mountains and lush green valleys.",
+                                    "(Distance: 3km, travel time: 15 minutes)."
+                                ]
+                            },
+                            {
+                                "time": "15:30",
+                                "title": "Visit the local school in Voong Village",
+                                "details": [
+                                    "Prepare for the next day's volunteer activities.",
+                                    "Meet teachers and students to understand their support needs.",
+                                    "(Distance: 5km, travel time: 25 minutes)."
+                                ]
+                            },
+                            {
+                                "time": "17:00",
+                                "title": "Return to homestay"
+                            },
+                            {
+                                "time": "18:30",
+                                "title": "Dinner with local specialties",
+                                "details": [
+                                    "Grilled mountain pork, fried stream fish, grilled chicken with bamboo rice."
                                 ]
                             }
+                        ]
+                    }],
+                    "equipment": {
+                        "provided": [
+                            "Trekking Poles",
+                            "Tent’s light"
                         ],
-                        "equipment": {
-                            "provided": [
-                                "Trekking Poles",
-                                "Tent’s light"
-                            ],
-                            "personal": [
-                                "ID card or Passport",
-                                "Water Bottle"
-                            ],
-                            "suggestion": [
-                                "Mobile phone, camera",
-                                "Flashlight"
-                            ]
-                        },
-                        "notes": [],
-                        "images": [
-                            "../tours/images/tours1/images-01.jpg",
-                            "https://drive.google.com/file/d/1UfOQSdaRYfL60Dk-8W5_zkFMaSUFOF2Q/preview"
+                        "personal": [
+                            "ID card or Passport",
+                            "Water Bottle"
                         ],
-                        "question": {
-                            "title": "Q&A",
-                            "list": [
-                                {
-                                    "question": "What is the minimum age for children to join this tour?",
-                                    "answer": "This tour is suitable for children aged 12 or above and accompanied by parents or adults."
-                                },
-                                {
-                                    "question": "I don't have trekking experience. Can I join this program?",
-                                    "answer": "The trek has a steep gradient, especially the nearly 1km incline at the foot of the mountain, so it can be quite challenging for those who are not physically active. You should review the tips and guidelines for preparing for a trip with a difficulty level of 6/10 here."
-                                }
-                            ]
-                        }
+                        "suggestion": [
+                            "Mobile phone, camera",
+                            "Flashlight"
+                        ]
+                    },
+                    "notes": [],
+                    "images": [
+                        [
+                            "../gallery/1-5-hoa-bac-4.webp",
+                            "../gallery/2-2.jpg",
+                            "../gallery/27-8taygiang1.gif",
+                            "../gallery/676a07d82c9e6cb4a56ff09c.jpg",
+                            "../gallery/0708.tay_giang1.jpg",
+                            "../gallery/20230803_134623.jpg",
+                            "../gallery/441196233_339713875793813_4300386542697401289_n.jpg",
+                            "../gallery/anh_tay_giang_2.jpg",
+                            "../gallery/anh_tay_giang_8_2_1.jpg",
+                            "../gallery/anh-7-17183860230561923121790-0-102-1441-2408-crop-17183860484131631945352.webp",
+                            "../gallery/anh-xuan-10.jpg",
+                            "../gallery/at_den-tay-giang-du-khach-duoc-trai-nghiem-nhung-gi_a17a2f446233080fda8fefc6a1f5d572.jpg",
+                            "../gallery/da502_dulich1.jpg",
+                            "../gallery/ddaidiendoinhagai1.jpg",
+                            "../gallery/det_tho_cam-1692519403870.jpg",
+                            "../gallery/dinh-que-tay-giang-2.webp",
+                            "../gallery/DSC04944.JPG",
+                            "../gallery/DSC04945.JPG",
+                            "../gallery/DSC04946.JPG",
+                            "../gallery/du-lich-tay-giang-18.jpg",
+                            "../gallery/f209e2c6cc8425da7c95.jpg",
+                            "../gallery/hq720.jpg",
+                            "../gallery/images.baoquangnam.vn-storage-newsportal-2022-2-23-123801-_anh-clau-nghi-tay-gi.jpg",
+                            "../gallery/images.jpeg",
+                            "../gallery/images1704395_1.gif",
+                            "../gallery/images2907363_10.jpg",
+                            "../gallery/IMG_2069.jpg",
+                            "../gallery/nguoi-co-tu-1723.jpg",
+                            "../gallery/tay-giang-quang-nam-3.jpg",
+                            "../gallery/tay-giang-quang-nam-4-e1535168046644.png",
+                            "../gallery/tay-giang-quang-nam-17-e1535167629730.jpg",
+                            "../gallery/tay-giang-quang-nam-e1535167831334.jpg",
+                            "../gallery/thac_rcung_quang_nam_tam.jpg",
+                            "../gallery/z5266221276387_3d65b6a99c434346b5ecf0dffb75790d.jp"
+                        ]
+                    ],
+                    "question": {
+                        "title": "Q&A",
+                        "list": [{
+                                "question": "What is the minimum age for children to join this tour?",
+                                "answer": "This tour is suitable for children aged 12 or above and accompanied by parents or adults."
+                            },
+                            {
+                                "question": "I don't have trekking experience. Can I join this program?",
+                                "answer": "The trek has a steep gradient, especially the nearly 1km incline at the foot of the mountain, so it can be quite challenging for those who are not physically active. You should review the tips and guidelines for preparing for a trip with a difficulty level of 6/10 here."
+                            }
+                        ]
                     }
-                ]
+                }]
             }
         ],
         "details": {
@@ -996,17 +1083,12 @@
             ]
         }
     },
-    "experiences": [
-        {
-            "tabs": "Adventure & Challenge",
-            "name": "Explore thrilling adventures and challenges in nature!"
+    "experiences": [{
+            "tabs": "Interview CEO Lộc Trời",
+            "name": ""
         },
         {
-            "tabs": "Culture & Conservation",
-            "name": "Learn about local cultures and conservation efforts"
-        },
-        {
-            "tabs": "Events",
+            "tabs": "Culture CoTu",
             "name": "Check out upcoming events in the Tay Giang region"
         }
     ],
@@ -1021,8 +1103,7 @@
     },
     "press": {
         "title": "Ứng dụng công nghệ VR/AR vào tour du lịch Tây Giang",
-        "list": [
-            {
+        "list": [{
                 "title": "Trải nghiệm thực tế ảo (VR) khám phá rừng Pơ Mu và văn hóa Cơ Tu",
                 "description": {
                     "text": "Sử dụng VR để tạo ra các chuyến du lịch ảo đưa khách tham quan Quần thể rừng Pơ Mu trên núi Zi'link (Tây Giang), nơi có 1.396 cây và 725 cây đạt chuẩn Cây Di sản Việt Nam. Du khách có thể 'đi bộ' qua rừng nguyên sinh, nghe âm thanh tự nhiên và tìm hiểu về hệ sinh thái đa dạng ngay từ nhà.",

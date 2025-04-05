@@ -10,7 +10,7 @@ function CustomTours({ title, description, more }) {
               <iframe
                 width="100%"
                 height="480"
-                src={`https://www.youtube.com/embed/SNx8B_oE8IY`}
+                src="https://drive.google.com/file/d/1Et4zeqLYwiVE8LeRDCTGTKeiKYbjS3t7/preview"
                 frameBorder="0"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                 allowFullScreen
@@ -24,7 +24,7 @@ function CustomTours({ title, description, more }) {
               <p>{description}</p>
             </div>
             <a
-              href=""
+              href="/experiences"
               className="btn brd-black radius-4 text-capitalize mt-16 ml-48">
               {more}
             </a>
