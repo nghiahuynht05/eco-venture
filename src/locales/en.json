@@ -14,15 +14,10 @@
             "tours": "Tours",
             "experiences": "Experiences"
         },
-        "banner": [{
-                "title": "ECO VENTURE",
-                "description": "Explore Nature-Experience Culture-Live Adventure"
-            },
-            {
-                "title": "ECO VENTURE",
-                "description": "Explore Nature-Experience Culture-Live Adventure"
-            }
-        ],
+        "banner": {
+            "title": "ECO VENTURE",
+            "description": "Explore Nature-Experience Culture-Live Adventure"
+        },
         "tours": {
             "title": "Highlight tours",
             "description": "When the most beautiful season hits, Eco Venture brings the unique experiential tours up, into places never before known on the world tourism map-places that will leave you impressed with the beauty of nature and culture.",
@@ -98,8 +93,8 @@
             ]
         },
         "info": {
-            "title": "Interview Cotu culture",
-            "description": "Người Cơ Tu (còn gọi là người Ka Tu, Gao, Hạ, Phương, Ca-tang) là một dân tộc sống ở Miền Trung (Việt Nam) và Hạ Lào. Dân số người Cơ Tu có khoảng trên 103 nghìn người. Tại Việt Nam người Cơ Tu là một trong số 54 dân tộc tại Việt Nam.",
+            "title": "ECO VENTURE team",
+            "description": "Explore Nature-Experience Culture-Live Adventure",
             "more": "Explore More"
         },
         "experiences": {
@@ -153,7 +148,7 @@
         },
         "ads": {
             "title": "Ưu đãi đặc biệt",
-            "content": "Đăng ký tour vào tháng 9 tới tháng 12 để đón nhận những ưu đãi đặc biệt từ K'Lang Adventure. K'Lang Adventure-Hành trình khám phá sự bí ẩn",
+            "content": "Đăng ký tour vào tháng 9 tới tháng 12 để đón nhận những ưu đãi đặc biệt từ EcoVenture Adventure. EcoVenture Adventure-Hành trình khám phá sự bí ẩn",
             "list": [{
                     "title": "Chương trình Giá-Siêu Hot-Chào mùa leo núi 2023",
                     "content": [
@@ -841,42 +836,42 @@
                     },
                     "notes": [],
                     "images": [
-                        [
-                            "../gallery/1-5-hoa-bac-4.webp",
-                            "../gallery/2-2.jpg",
-                            "../gallery/27-8taygiang1.gif",
-                            "../gallery/676a07d82c9e6cb4a56ff09c.jpg",
-                            "../gallery/0708.tay_giang1.jpg",
-                            "../gallery/20230803_134623.jpg",
-                            "../gallery/441196233_339713875793813_4300386542697401289_n.jpg",
-                            "../gallery/anh_tay_giang_2.jpg",
-                            "../gallery/anh_tay_giang_8_2_1.jpg",
-                            "../gallery/anh-7-17183860230561923121790-0-102-1441-2408-crop-17183860484131631945352.webp",
-                            "../gallery/anh-xuan-10.jpg",
-                            "../gallery/at_den-tay-giang-du-khach-duoc-trai-nghiem-nhung-gi_a17a2f446233080fda8fefc6a1f5d572.jpg",
-                            "../gallery/da502_dulich1.jpg",
-                            "../gallery/ddaidiendoinhagai1.jpg",
-                            "../gallery/det_tho_cam-1692519403870.jpg",
-                            "../gallery/dinh-que-tay-giang-2.webp",
-                            "../gallery/DSC04944.JPG",
-                            "../gallery/DSC04945.JPG",
-                            "../gallery/DSC04946.JPG",
-                            "../gallery/du-lich-tay-giang-18.jpg",
-                            "../gallery/f209e2c6cc8425da7c95.jpg",
-                            "../gallery/hq720.jpg",
-                            "../gallery/images.baoquangnam.vn-storage-newsportal-2022-2-23-123801-_anh-clau-nghi-tay-gi.jpg",
-                            "../gallery/images.jpeg",
-                            "../gallery/images1704395_1.gif",
-                            "../gallery/images2907363_10.jpg",
-                            "../gallery/IMG_2069.jpg",
-                            "../gallery/nguoi-co-tu-1723.jpg",
-                            "../gallery/tay-giang-quang-nam-3.jpg",
-                            "../gallery/tay-giang-quang-nam-4-e1535168046644.png",
-                            "../gallery/tay-giang-quang-nam-17-e1535167629730.jpg",
-                            "../gallery/tay-giang-quang-nam-e1535167831334.jpg",
-                            "../gallery/thac_rcung_quang_nam_tam.jpg",
-                            "../gallery/z5266221276387_3d65b6a99c434346b5ecf0dffb75790d.jp"
-                        ]
+
+                        "../gallery/1-5-hoa-bac-4.webp",
+                        "../gallery/2-2.jpg",
+                        "../gallery/27-8taygiang1.gif",
+                        "../gallery/676a07d82c9e6cb4a56ff09c.jpg",
+                        "../gallery/0708.tay_giang1.jpg",
+                        "../gallery/20230803_134623.jpg",
+                        "../gallery/441196233_339713875793813_4300386542697401289_n.jpg",
+                        "../gallery/anh_tay_giang_2.jpg",
+                        "../gallery/anh_tay_giang_8_2_1.jpg",
+                        "../gallery/anh-7-17183860230561923121790-0-102-1441-2408-crop-17183860484131631945352.webp",
+                        "../gallery/anh-xuan-10.jpg",
+                        "../gallery/at_den-tay-giang-du-khach-duoc-trai-nghiem-nhung-gi_a17a2f446233080fda8fefc6a1f5d572.jpg",
+                        "../gallery/da502_dulich1.jpg",
+                        "../gallery/ddaidiendoinhagai1.jpg",
+                        "../gallery/det_tho_cam-1692519403870.jpg",
+                        "../gallery/dinh-que-tay-giang-2.webp",
+                        "../gallery/DSC04944.JPG",
+                        "../gallery/DSC04945.JPG",
+                        "../gallery/DSC04946.JPG",
+                        "../gallery/du-lich-tay-giang-18.jpg",
+                        "../gallery/f209e2c6cc8425da7c95.jpg",
+                        "../gallery/hq720.jpg",
+                        "../gallery/images.baoquangnam.vn-storage-newsportal-2022-2-23-123801-_anh-clau-nghi-tay-gi.jpg",
+                        "../gallery/images.jpeg",
+                        "../gallery/images1704395_1.gif",
+                        "../gallery/images2907363_10.jpg",
+                        "../gallery/IMG_2069.jpg",
+                        "../gallery/nguoi-co-tu-1723.jpg",
+                        "../gallery/tay-giang-quang-nam-3.jpg",
+                        "../gallery/tay-giang-quang-nam-4-e1535168046644.png",
+                        "../gallery/tay-giang-quang-nam-17-e1535167629730.jpg",
+                        "../gallery/tay-giang-quang-nam-e1535167831334.jpg",
+                        "../gallery/thac_rcung_quang_nam_tam.jpg",
+                        "../gallery/z5266221276387_3d65b6a99c434346b5ecf0dffb75790d.jp"
+
                     ],
                     "question": {
                         "title": "Q&A",
@@ -1006,42 +1001,41 @@
                     },
                     "notes": [],
                     "images": [
-                        [
-                            "../gallery/1-5-hoa-bac-4.webp",
-                            "../gallery/2-2.jpg",
-                            "../gallery/27-8taygiang1.gif",
-                            "../gallery/676a07d82c9e6cb4a56ff09c.jpg",
-                            "../gallery/0708.tay_giang1.jpg",
-                            "../gallery/20230803_134623.jpg",
-                            "../gallery/441196233_339713875793813_4300386542697401289_n.jpg",
-                            "../gallery/anh_tay_giang_2.jpg",
-                            "../gallery/anh_tay_giang_8_2_1.jpg",
-                            "../gallery/anh-7-17183860230561923121790-0-102-1441-2408-crop-17183860484131631945352.webp",
-                            "../gallery/anh-xuan-10.jpg",
-                            "../gallery/at_den-tay-giang-du-khach-duoc-trai-nghiem-nhung-gi_a17a2f446233080fda8fefc6a1f5d572.jpg",
-                            "../gallery/da502_dulich1.jpg",
-                            "../gallery/ddaidiendoinhagai1.jpg",
-                            "../gallery/det_tho_cam-1692519403870.jpg",
-                            "../gallery/dinh-que-tay-giang-2.webp",
-                            "../gallery/DSC04944.JPG",
-                            "../gallery/DSC04945.JPG",
-                            "../gallery/DSC04946.JPG",
-                            "../gallery/du-lich-tay-giang-18.jpg",
-                            "../gallery/f209e2c6cc8425da7c95.jpg",
-                            "../gallery/hq720.jpg",
-                            "../gallery/images.baoquangnam.vn-storage-newsportal-2022-2-23-123801-_anh-clau-nghi-tay-gi.jpg",
-                            "../gallery/images.jpeg",
-                            "../gallery/images1704395_1.gif",
-                            "../gallery/images2907363_10.jpg",
-                            "../gallery/IMG_2069.jpg",
-                            "../gallery/nguoi-co-tu-1723.jpg",
-                            "../gallery/tay-giang-quang-nam-3.jpg",
-                            "../gallery/tay-giang-quang-nam-4-e1535168046644.png",
-                            "../gallery/tay-giang-quang-nam-17-e1535167629730.jpg",
-                            "../gallery/tay-giang-quang-nam-e1535167831334.jpg",
-                            "../gallery/thac_rcung_quang_nam_tam.jpg",
-                            "../gallery/z5266221276387_3d65b6a99c434346b5ecf0dffb75790d.jp"
-                        ]
+
+                        "../gallery/1-5-hoa-bac-4.webp",
+                        "../gallery/2-2.jpg",
+                        "../gallery/27-8taygiang1.gif",
+                        "../gallery/676a07d82c9e6cb4a56ff09c.jpg",
+                        "../gallery/0708.tay_giang1.jpg",
+                        "../gallery/20230803_134623.jpg",
+                        "../gallery/441196233_339713875793813_4300386542697401289_n.jpg",
+                        "../gallery/anh_tay_giang_2.jpg",
+                        "../gallery/anh_tay_giang_8_2_1.jpg",
+                        "../gallery/anh-7-17183860230561923121790-0-102-1441-2408-crop-17183860484131631945352.webp",
+                        "../gallery/anh-xuan-10.jpg",
+                        "../gallery/at_den-tay-giang-du-khach-duoc-trai-nghiem-nhung-gi_a17a2f446233080fda8fefc6a1f5d572.jpg",
+                        "../gallery/da502_dulich1.jpg",
+                        "../gallery/ddaidiendoinhagai1.jpg",
+                        "../gallery/det_tho_cam-1692519403870.jpg",
+                        "../gallery/dinh-que-tay-giang-2.webp",
+                        "../gallery/DSC04944.JPG",
+                        "../gallery/DSC04945.JPG",
+                        "../gallery/DSC04946.JPG",
+                        "../gallery/du-lich-tay-giang-18.jpg",
+                        "../gallery/f209e2c6cc8425da7c95.jpg",
+                        "../gallery/hq720.jpg",
+                        "../gallery/images.baoquangnam.vn-storage-newsportal-2022-2-23-123801-_anh-clau-nghi-tay-gi.jpg",
+                        "../gallery/images.jpeg",
+                        "../gallery/images1704395_1.gif",
+                        "../gallery/images2907363_10.jpg",
+                        "../gallery/IMG_2069.jpg",
+                        "../gallery/nguoi-co-tu-1723.jpg",
+                        "../gallery/tay-giang-quang-nam-3.jpg",
+                        "../gallery/tay-giang-quang-nam-4-e1535168046644.png",
+                        "../gallery/tay-giang-quang-nam-17-e1535167629730.jpg",
+                        "../gallery/tay-giang-quang-nam-e1535167831334.jpg",
+                        "../gallery/thac_rcung_quang_nam_tam.jpg",
+                        "../gallery/z5266221276387_3d65b6a99c434346b5ecf0dffb75790d.jp"
                     ],
                     "question": {
                         "title": "Q&A",
@@ -1067,8 +1061,7 @@
                 "Tour information",
                 "Equipment",
                 "Difficulty of operation",
-                "Q&A",
-                "Download tour file"
+                "Q&A"
             ],
             "idTag": [
                 "describe-destination",
@@ -1078,8 +1071,7 @@
                 "tour-destination",
                 "equipment-destination",
                 "level-destination",
-                "qa-destination",
-                "download-destination"
+                "qa-destination"
             ]
         }
     },
