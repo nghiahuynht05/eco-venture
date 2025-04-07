@@ -10,7 +10,7 @@ function CustomTours({ title, description, more }) {
               <iframe
                 width="100%"
                 height="480"
-                src="https://drive.google.com/file/d/1Et4zeqLYwiVE8LeRDCTGTKeiKYbjS3t7/preview"
+                src="https://drive.google.com/file/d/1bh9p5gyexb8MVvYqGu6OpFShlzK0QmJ4/preview"
                 frameBorder="0"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                 allowFullScreen
