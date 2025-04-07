@@ -36,7 +36,9 @@ const Home = () => {
               <div className="header-right d-flex alg-center gap-16">
                 <LanguageSelector></LanguageSelector>
                 <div className="icon-user">
-                  <a href="https://www.facebook.com/profile.php?id=61552275430181" className="btn text-uppercase radius-2">
+                  <a
+                    href="https://www.facebook.com/profile.php?id=61552275430181"
+                    className="btn text-uppercase radius-2">
                     Book now
                   </a>
                 </div>
@@ -50,20 +52,8 @@ const Home = () => {
             <div className="banner">
               <div className="banner-container">
                 <div className="main-slider">
-                  <CustomSlider>
-                    {images.map((image, index) => {
-                      const bannerData = translations.home?.banner || [];
-                      return (
-                        <img
-                          key={index}
-                          src={image.imgURL}
-                          alt={image.imgAlt}
-                          title={bannerData[index]?.title || ""}
-                          description={bannerData[index]?.description || ""}
-                        />
-                      );
-                    })}
-                  </CustomSlider>
+                  <CustomSlider
+                    children={translations.home?.banner}></CustomSlider>
                 </div>
               </div>
             </div>
