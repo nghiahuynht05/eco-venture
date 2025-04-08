@@ -26,7 +26,7 @@
                     "image": "./experiences/anh1.jpeg",
                     "title": "TOUR 1-Cultural Package",
                     "duration": "2 ngày 1 đêm",
-                    "price": "$110",
+                    "price": "2,189,000 VND",
                     "tags": [{
                             "text": "None Plastic",
                             "icon": "no-plastic"
@@ -43,7 +43,7 @@
                     "image": "./experiences/anh2.jpg",
                     "title": "TOUR 2-Survival Package",
                     "duration": "2 ngày 1 đêm",
-                    "price": "$120",
+                    "price": "2,499,000 VND",
                     "tags": [{
                             "text": "None Plastic",
                             "icon": "no-plastic"
@@ -60,7 +60,7 @@
                     "image": "./experiences/anh3.jpg",
                     "title": "TOUR 3-Combine Cultural and Survival Package",
                     "duration": "3 ngày 2 đêm",
-                    "price": "$230",
+                    "price": "2,629,000 VND",
                     "tags": [{
                             "text": "None Plastic",
                             "icon": "no-plastic"
@@ -77,7 +77,7 @@
                     "image": "./experiences/anh4.png",
                     "title": "TOUR 4-Combine Culture and Volunteer Package",
                     "duration": "3 ngày 2 đêm",
-                    "price": "$244",
+                    "price": "2,579,000 VND",
                     "tags": [{
                             "text": "None Plastic",
                             "icon": "no-plastic"
