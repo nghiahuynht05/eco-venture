@@ -24,9 +24,9 @@
             "details": "View detail",
             "list": [{
                     "image": "./experiences/anh1.jpeg",
-                    "title": "TOUR 1-Cultural Package",
+                    "title": "Cultural Package",
                     "duration": "2 ngày 1 đêm",
-                    "price": "$110",
+                    "price": "3,199,000 VND",
                     "tags": [{
                             "text": "None Plastic",
                             "icon": "no-plastic"
@@ -41,9 +41,9 @@
                 },
                 {
                     "image": "./experiences/anh2.jpg",
-                    "title": "TOUR 2-Survival Package",
+                    "title": "Survival Package",
                     "duration": "2 ngày 1 đêm",
-                    "price": "$120",
+                    "price": "2,799,000 VND",
                     "tags": [{
                             "text": "None Plastic",
                             "icon": "no-plastic"
@@ -58,9 +58,9 @@
                 },
                 {
                     "image": "./experiences/anh3.jpg",
-                    "title": "TOUR 3-Combine Cultural and Survival Package",
+                    "title": "Combine Cultural and Survival Package",
                     "duration": "3 ngày 2 đêm",
-                    "price": "$230",
+                    "price": "3,599,000 VND",
                     "tags": [{
                             "text": "None Plastic",
                             "icon": "no-plastic"
@@ -75,9 +75,9 @@
                 },
                 {
                     "image": "./experiences/anh4.png",
-                    "title": "TOUR 4-Combine Culture and Volunteer Package",
+                    "title": "Combine Culture and Volunteer Package",
                     "duration": "3 ngày 2 đêm",
-                    "price": "$244",
+                    "price": "4,199,000 VND",
                     "tags": [{
                             "text": "None Plastic",
                             "icon": "no-plastic"
@@ -283,7 +283,7 @@
         },
         "list": [{
                 "id": 0,
-                "tourName": "TOUR 1-Cultural Package",
+                "tourName": "Cultural Package",
                 "bannerImage": "../tours/images/tours1/images-01.jpg",
                 "tourDes": "'Foodstep Of The Co Tu' is an immersive cultural tour that takes you deep into the heart of Tây Giang, where the ancient tradition of Co Tu people comes to life. Each day of the journey reflects a different aspect of their rich heritage, from the sacred forests and survival wisdom of their ancestors to their vibrant craftsmanship and communal spirit. The experience begins with a trek through the majestic Pomu forest, home to centuries-old trees and hidden medicinal plants, guided by local experts who share the deep-rooted connection between the Cơ Tu and nature. The journey continues with interactive workshops, where you’ll learn traditional weaving, bamboo musical instrument making, and the art of cooking authentic Co Tu cuisine. Beyond exploring the culture, this tour provides a rare opportunity to live as the Cơ Tu do—staying in traditional homestays, participating in farming activities, and joining nightly gatherings filled with folk dances, storytelling, and music. This hands-on experience not only supports local livelihoods but also preserves a way of life that has been passed down through generations.",
                 "tourId": "CT101",
@@ -299,7 +299,7 @@
                 "tourLocation": "Tay Giang, Quang Nam Province",
                 "tourTime": "2 days 1 night",
                 "details": [{
-                    "tourName": "TOUR 1-Cultural Package",
+                    "tourName": "Cultural Package",
                     "bannerImage": "../tours/images/tours1/baner_tour_ua_3_0.png",
                     "tourDes": "'Foodstep Of The Co Tu' is an immersive cultural tour that takes you deep into the heart of Tây Giang, where the ancient tradition of Co Tu people comes to life. Each day of the journey reflects a different aspect of their rich heritage, from the sacred forests and survival wisdom of their ancestors to their vibrant craftsmanship and communal spirit. The experience begins with a trek through the majestic Pomu forest, home to centuries-old trees and hidden medicinal plants, guided by local experts who share the deep-rooted connection between the Cơ Tu and nature. The journey continues with interactive workshops, where you’ll learn traditional weaving, bamboo musical instrument making, and the art of cooking authentic Co Tu cuisine. Beyond exploring the culture, this tour provides a rare opportunity to live as the Cơ Tu do—staying in traditional homestays, participating in farming activities, and joining nightly gatherings filled with folk dances, storytelling, and music. This hands-on experience not only supports local livelihoods but also preserves a way of life that has been passed down through generations.",
                     "tourLocation": "Tay Giang, Quang Nam Province",
@@ -310,7 +310,7 @@
                         "Trekking"
                     ],
                     "level": "Easy Level (1/10)",
-                    "price": "2,189,000 VND",
+                    "price": "3,199,000 VND",
                     "startLocation": "Da Nang City",
                     "endLocation": "Tay Giang, Quang Nam Province",
                     "seatsMin": "5",
@@ -473,7 +473,7 @@
             },
             {
                 "id": 1,
-                "tourName": "TOUR 2-Survival Package",
+                "tourName": "Survival Package",
                 "bannerImage": "../tours/images/tours2/images-01.jpg",
                 "tourDes": "The 'Echoes of the Jungle: Tay Giang Survival' tour is a thrilling and immersive adventure that blends survival skills, cultural exploration, and nature discovery. Over two days and one night, travelers will embark on a journey into the pristine forests of Tay Giang, where they will learn essential survival techniques, such as filtering water, setting up shelters, and navigating with compasses and maps. The experience is enriched by cultural interactions with the Co Tu people, including visiting the Guol house, witnessing the vibrant Tung Tung Za Za dance, and enjoying traditional cuisine like bamboo-tube rice, grilled chicken, and herbal-infused dishes. Guests will also partake in team-building activities, such as a 'Treasure Hunt' challenge and a nature photography contest, adding an element of excitement to the adventure. With breathtaking treks through ancient forests, refreshing dips in rocky streams, and evenings spent around a lively campfire, this tour offers an unparalleled opportunity to reconnect with nature, embrace local traditions, and create unforgettable memories in the heart of Tay Giang.",
                 "tourId": "SV102",
@@ -489,7 +489,7 @@
                 "tourLocation": "Tay Giang, Quang Nam Province",
                 "tourTime": "2 days 1 night",
                 "details": [{
-                    "tourName": "TOUR 2-Survival Package",
+                    "tourName": "Survival Package",
                     "bannerImage": "../tours/images/tours2/baner_tour_ua_3_0.png",
                     "tourDes": "The 'Echoes of the Jungle: Tay Giang Survival' tour is a thrilling and immersive adventure that blends survival skills, cultural exploration, and nature discovery. Over two days and one night, travelers will embark on a journey into the pristine forests of Tay Giang, where they will learn essential survival techniques, such as filtering water, setting up shelters, and navigating with compasses and maps. The experience is enriched by cultural interactions with the Co Tu people, including visiting the Guol house, witnessing the vibrant Tung Tung Za Za dance, and enjoying traditional cuisine like bamboo-tube rice, grilled chicken, and herbal-infused dishes. Guests will also partake in team-building activities, such as a 'Treasure Hunt' challenge and a nature photography contest, adding an element of excitement to the adventure. With breathtaking treks through ancient forests, refreshing dips in rocky streams, and evenings spent around a lively campfire, this tour offers an unparalleled opportunity to reconnect with nature, embrace local traditions, and create unforgettable memories in the heart of Tay Giang.",
                     "tourLocation": "Tay Giang, Quang Nam Province",
@@ -500,7 +500,7 @@
                         "Trekking"
                     ],
                     "level": "Easy Level (1/10)",
-                    "price": "2,499,000 VND",
+                    "price": "2,799,000 VND",
                     "startLocation": "Da Nang City",
                     "endLocation": "Tay Giang, Quang Nam Province",
                     "seatsMin": "10",
@@ -671,7 +671,7 @@
             },
             {
                 "id": 2,
-                "tourName": "TOUR 3-Combine Cultural and Survival Package",
+                "tourName": "Combine Cultural and Survival Package",
                 "bannerImage": "../tours/images/tours3/images-01.jpg",
                 "tourDes": "The 'Pomu Challenge – Calling the Soul of Tay Giang' tour is a thrilling 3-day, 2-night adventure that seamlessly blends survival skills and cultural immersion in the breathtaking highlands of Tay Giang. Travelers will trek through the ancient Pơmu forest, learn to build shelters, filter water, and start fires, while also experiencing the rich traditions of the Cơ Tu people. Highlights include hands-on weaving, bamboo music workshops, and traditional baking, as well as evenings spent enjoying folk dances, storytelling, and BBQ feasts around a campfire. With opportunities to explore pristine waterfalls, sip herbal forest tea at sunrise, and stay in a traditional Guol house, this journey offers the perfect mix of nature, adventure, and culture, leaving travelers with unforgettable memories of Tay Giang.",
                 "tourId": "CP101",
@@ -687,7 +687,7 @@
                 "tourLocation": "Tay Giang, Quang Nam Province",
                 "tourTime": "3 days 2 nights",
                 "details": [{
-                    "tourName": "TOUR 3-Combine Cultural and Survival Package",
+                    "tourName": "Combine Cultural and Survival Package",
                     "bannerImage": "../tours/images/tours1/baner_tour_ua_3_0.png",
                     "tourDes": "The 'Pomu Challenge – Calling the Soul of Tay Giang' tour is a thrilling 3-day, 2-night adventure that seamlessly blends survival skills and cultural immersion in the breathtaking highlands of Tay Giang. Travelers will trek through the ancient Pơmu forest, learn to build shelters, filter water, and start fires, while also experiencing the rich traditions of the Cơ Tu people. Highlights include hands-on weaving, bamboo music workshops, and traditional baking, as well as evenings spent enjoying folk dances, storytelling, and BBQ feasts around a campfire. With opportunities to explore pristine waterfalls, sip herbal forest tea at sunrise, and stay in a traditional Guol house, this journey offers the perfect mix of nature, adventure, and culture, leaving travelers with unforgettable memories of Tay Giang.",
                     "tourLocation": "Tay Giang, Quang Nam Province",
@@ -698,7 +698,7 @@
                         "Trekking"
                     ],
                     "level": "Easy Level (1/10)",
-                    "price": "2,629,000 VND",
+                    "price": "3,599,000 VND",
                     "startLocation": "Da Nang City",
                     "endLocation": "Tay Giang, Quang Nam Province",
                     "seatsMin": "10",
@@ -889,7 +889,7 @@
             },
             {
                 "id": 3,
-                "tourName": "TOUR 4-Combine Culture and Volunteer Package",
+                "tourName": "Combine Culture and Volunteer Package",
                 "bannerImage": "../tours/images/tours4/images-01.jpg",
                 "tourDes": "The 'Pomu Challenge – Calling the Soul of Tay Giang' tour is a thrilling 3-day, 2-night adventure that seamlessly blends survival skills and cultural immersion in the breathtaking highlands of Tay Giang. Travelers will trek through the ancient Pơmu forest, learn to build shelters, filter water, and start fires, while also experiencing the rich traditions of the Cơ Tu people. Highlights include hands-on weaving, bamboo music workshops, and traditional baking, as well as evenings spent enjoying folk dances, storytelling, and BBQ feasts around a campfire. With opportunities to explore pristine waterfalls, sip herbal forest tea at sunrise, and stay in a traditional Guol house, this journey offers the perfect mix of nature, adventure, and culture, leaving travelers with unforgettable memories of Tay Giang",
                 "tourId": "CV201",
@@ -905,7 +905,7 @@
                 "tourLocation": "Tay Giang, Quang Nam Province",
                 "tourTime": "3 days 2 nights",
                 "details": [{
-                    "tourName": "TOUR 4-Combine Culture and Volunteer Package",
+                    "tourName": "Combine Culture and Volunteer Package",
                     "bannerImage": "../tours/images/tours1/baner_tour_ua_3_0.png",
                     "tourDes": "The 'Pomu Challenge – Calling the Soul of Tay Giang' tour is a thrilling 3-day, 2-night adventure that seamlessly blends survival skills and cultural immersion in the breathtaking highlands of Tay Giang. Travelers will trek through the ancient Pơmu forest, learn to build shelters, filter water, and start fires, while also experiencing the rich traditions of the Cơ Tu people. Highlights include hands-on weaving, bamboo music workshops, and traditional baking, as well as evenings spent enjoying folk dances, storytelling, and BBQ feasts around a campfire. With opportunities to explore pristine waterfalls, sip herbal forest tea at sunrise, and stay in a traditional Guol house, this journey offers the perfect mix of nature, adventure, and culture, leaving travelers with unforgettable memories of Tay Giang",
                     "tourLocation": "Tay Giang, Quang Nam Province",
@@ -916,7 +916,7 @@
                         "Trekking"
                     ],
                     "level": "Easy Level (1/10)",
-                    "price": "2,579,000 VND",
+                    "price": "4,199,000 VND",
                     "startLocation": "Da Nang City",
                     "endLocation": "Tay Giang, Quang Nam Province",
                     "seatsMin": "5",
