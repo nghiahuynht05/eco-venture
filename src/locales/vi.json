@@ -18,6 +18,31 @@
             "title": "ECO VENTURE",
             "description": "Explore Nature-Experience Culture-Live Adventure"
         },
+        "services": [{
+            "image": "./services/anh1.avif",
+            "title": "Basic",
+            "duration": "30 mins",
+            "price": "120,000 VND",
+            "description": "Herbal foot soak, herbal tea\n"
+        }, {
+            "image": "./services/anh2.jpg",
+            "title": "Recovery",
+            "duration": "60 mins",
+            "price": "220,000 VND",
+            "description": "45-minute relaxation massage, herbal steam"
+        }, {
+            "image": "./services/anh3.avif",
+            "title": "Intensive",
+            "duration": "90 mins",
+            "price": "340,000 VND",
+            "description": "60-minute body massage, steam, nutrition guidance after the tour"
+        }, {
+            "image": "./services/anh4.avif",
+            "title": "Premium",
+            "duration": "120 mins",
+            "price": "580,000 VND",
+            "description": "90-minute body massage, steam, herbal bath soak, in-depth nutrition guidance"
+        }],
         "tours": {
             "title": "Highlight tours",
             "description": "When the most beautiful season hits, Eco Venture brings the unique experiential tours up, into places never before known on the world tourism map-places that will leave you impressed with the beauty of nature and culture.",

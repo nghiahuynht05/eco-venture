@@ -3,10 +3,10 @@ import React, { useContext } from "react";
 import "../modules/system/system.base.css";
 import "../sites/all/themes/cassiopeia_theme/css/style.css";
 import "../sites/all/themes/cassiopeia_theme/js/lib/OwlCarousel2-2.3.4/dist/assets/owl.theme.default.css";
-import images from "../data/images";
 import imagesTours from "../data/stick";
 import CustomSlider from "../components/custom.slider";
 import CustomTours from "../components/custom.tours";
+import CustomServices from "../components/custom.services";
 import CustomInfo from "../components/custom.info";
 import CustomLogo from "../components/custom.logo";
 import CustomFooter from "../components/custom.footer";
@@ -92,18 +92,10 @@ const Home = () => {
                         );
                       })}
                     </CustomTours>
-                    {/* <CustomReview
-                      review={translations.home?.review.list}></CustomReview>
-                    <CustomAds
-                      title={translations.home?.ads.title}
-                      content={translations.home?.ads.content}
-                      ads={translations.home?.ads.list}
-                      image={imagesAds}></CustomAds>
-                    <CustomDevelopment
-                      title={translations.home?.development.title}
-                      content={translations.home?.development.content}
-                      development={translations.home?.development.list}
-                      image={imagesTopic}></CustomDevelopment> */}
+                    <CustomServices
+                      translations={
+                        translations.home?.services || []
+                      }></CustomServices>
                   </div>
                 </div>
               </div>
