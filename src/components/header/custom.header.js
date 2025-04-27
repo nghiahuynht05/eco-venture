@@ -29,14 +29,6 @@ function Hearder({ translations }) {
         <li className="expanded">
           <a href="/experiences">{translations.header.experiences}</a>
         </li>
-        <li className="leaf">
-          <a href="/sustainability">{translations.header.sustainability}</a>
-        </li>
-        <li className="leaf">
-          <a href="https://www.facebook.com/profile.php?id=61552275430181">
-            {translations.header.offers}
-          </a>
-        </li>
         <li className="last leaf">
           <a href="/gallery">{translations.header.gallery}</a>
         </li>

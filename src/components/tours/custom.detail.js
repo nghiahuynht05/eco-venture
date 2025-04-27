@@ -443,31 +443,6 @@ function ToursDetail({ dataTours, navText, idTag }) {
                                 </div>
                                 {/* <CustomNote notesData={dataTours.notes}></CustomNote> */}
                                 <CustomQA qa={dataTours}></CustomQA>
-                                <div
-                                  id="download-destination"
-                                  className="description-item">
-                                  <div className="description-item-content">
-                                    <p className="text-center">
-                                      <b>Tải tour bằng file pdf</b>
-                                    </p>
-                                    <div className="download-pdf">
-                                      <img
-                                        src="../tours/svg/pdf-img.png"
-                                        className="img-responsive"
-                                        alt=""
-                                      />
-                                      <a
-                                        className="btn brd-none bg-blue radius-4  txt-white"
-                                        href="#"
-                                        data-url="pdf">
-                                        <span className="icon">
-                                          <i className="fa-light fa-download" />
-                                        </span>
-                                        Download
-                                      </a>
-                                    </div>
-                                  </div>
-                                </div>
                               </div>
                             </div>
                           </div>

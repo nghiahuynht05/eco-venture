@@ -48,7 +48,6 @@ function CustomTours({ children }) {
   };
 
   const toursData = translations.home?.tours || [];
-  console.log(children);
   return (
     <section
       className="sec sec-selling-trip bg-img-dot"

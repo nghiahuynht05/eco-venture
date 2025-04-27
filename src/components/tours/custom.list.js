@@ -44,8 +44,7 @@ function ToursItem({ translate, toursData }) {
                   </div>
                 </div>
                 <div className="node-price-right">
-                  <span className="date">{item.tourTime}</span>
-                  <div className="price">FROM </div>
+                  <span className="date">{item.tourTime}</span>{" "}
                   <a
                     href={`/tours-details/${item.id}`}
                     className="btn brd-non bg-blue radius-4  txt-white d-flex mt-32">

@@ -6,8 +6,7 @@ const navImg = [
   { imgURL: ".././tours/svg/icon-link-destination-blue-5.svg" },
   { imgURL: ".././tours/svg/icon-link-destination-blue-7.svg" },
   { imgURL: ".././tours/svg/icon-link-destination-blue-8.svg" },
-  { imgURL: ".././tours/svg/question.png" },
-  { imgURL: ".././tours/svg/icon-link-destination-blue-9.svg" }
+  { imgURL: ".././tours/svg/question.png" }
 ];
 
 export default navImg;

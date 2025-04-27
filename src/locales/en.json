@@ -48,7 +48,7 @@
             "description": "When the most beautiful season hits, Eco Venture brings the unique experiential tours up, into places never before known on the world tourism map-places that will leave you impressed with the beauty of nature and culture.",
             "details": "View detail",
             "list": [{
-                    "image": "./experiences/anh1.jpeg",
+                    "image": "./experiences/images-01.jpg",
                     "title": "Cultural Package",
                     "duration": "2 ngày 1 đêm",
                     "price": "3,199,000 VND",
@@ -65,7 +65,7 @@
                     "link": "/tours-details/0"
                 },
                 {
-                    "image": "./experiences/anh2.jpg",
+                    "image": "./experiences/images-022.jpg",
                     "title": "Survival Package",
                     "duration": "2 ngày 1 đêm",
                     "price": "2,799,000 VND",
@@ -82,7 +82,7 @@
                     "link": "/tours-details/1"
                 },
                 {
-                    "image": "./experiences/anh3.jpg",
+                    "image": "./experiences/images-033.jpg",
                     "title": "Combine Cultural and Survival Package",
                     "duration": "3 ngày 2 đêm",
                     "price": "3,599,000 VND",
@@ -99,7 +99,7 @@
                     "link": "/tours-details/2"
                 },
                 {
-                    "image": "./experiences/anh4.png",
+                    "image": "./experiences/images-044.png",
                     "title": "Combine Culture and Volunteer Package",
                     "duration": "3 ngày 2 đêm",
                     "price": "4,199,000 VND",
@@ -114,6 +114,174 @@
                     ],
                     "description": "The 'Pomu Challenge – Calling the Soul of Tay Giang' tour is a thrilling 3-day, 2-night adventure that seamlessly blends survival skills and cultural immersion in the breathtaking highlands of Tay Giang. Travelers will trek through the ancient Pơmu forest, learn to build shelters, filter water, and start fires, while also experiencing the rich traditions of the Cơ Tu people. Highlights include hands-on weaving, bamboo music workshops, and traditional baking, as well as evenings spent enjoying folk dances, storytelling, and BBQ feasts around a campfire. With opportunities to explore pristine waterfalls, sip herbal forest tea at sunrise, and stay in a traditional Guol house, this journey offers the perfect mix of nature, adventure, and culture, leaving travelers with unforgettable memories of Tay Giang",
                     "link": "/tours-details/3"
+                },{
+                    "image": "./experiences/images-01.jpg",
+                    "title": "Cultural Package",
+                    "duration": "2 ngày 1 đêm",
+                    "price": "3,199,000 VND",
+                    "tags": [{
+                            "text": "None Plastic",
+                            "icon": "no-plastic"
+                        },
+                        {
+                            "text": "Local communities",
+                            "icon": "community"
+                        }
+                    ],
+                    "description": "'Foodstep Of The Co Tu' is an immersive cultural tour that takes you deep into the heart of Tây Giang, where the ancient tradition of Co Tu people come to life. Each day of the journey reflects a different aspect of their rich heritage, from the sacred forests and survival wisdom of their ancestors to their vibrant craftsmanship and communal spirit. The experience begins with a trek through the majesty Pomu forest, home to centuries-old trees and hidden medicinal plants, guided by local experts who share the deep-rooted connection between the Cơ Tu and nature. The journey continues with interactive workshops, where you’ll learn traditional weaving, bamboo musical instrument making, and the art of cooking authentic Co Tu cuisine. Beyond exploring the culture, this tour provides a rare opportunity to live as the Cơ Tu do—staying in traditional homestays, participating in farming activities, and joining nightly gatherings filled with folk dances, storytelling, and music. This hands-on experience not only supports local livelihoods but also preserves a way of life that has been passed down through generations.",
+                    "link": "/tours-details/0"
+                },
+                {
+                    "image": "./experiences/images-02.jpg",
+                    "title": "Survival Package",
+                    "duration": "2 ngày 1 đêm",
+                    "price": "2,799,000 VND",
+                    "tags": [{
+                            "text": "None Plastic",
+                            "icon": "no-plastic"
+                        },
+                        {
+                            "text": "Local communities",
+                            "icon": "community"
+                        }
+                    ],
+                    "description": "The 'Echoes of the Jungle: Tay Giang Survival' tour is a thrilling and immersive adventure that blends survival skills, cultural exploration, and nature discovery. Over two days and one night, travelers will embark on a journey into the pristine forests of Tay Giang, where they will learn essential survival techniques, such as filtering water, setting up shelters, and navigating with compasses and maps. The experience is enriched by cultural interactions with the Co Tu people, including visiting the Guol house, witnessing the vibrant Tung Tung Za Za dance, and enjoying traditional cuisine like bamboo-tube rice, grilled chicken, and herbal-infused dishes. Guests will also partake in team-building activities, such as a 'Treasure Hunt' challenge and a nature photography contest, adding an element of excitement to the adventure. With breathtaking treks through ancient forests, refreshing dips in rocky streams, and evenings spent around a lively campfire, this tour offers an unparalleled opportunity to reconnect with nature, embrace local traditions, and create unforgettable memories in the heart of Tay Giang",
+                    "link": "/tours-details/1"
+                },
+                {
+                    "image": "./experiences/images-03.jpg",
+                    "title": "Combine Cultural and Survival Package",
+                    "duration": "3 ngày 2 đêm",
+                    "price": "3,599,000 VND",
+                    "tags": [{
+                            "text": "None Plastic",
+                            "icon": "no-plastic"
+                        },
+                        {
+                            "text": "Local communities",
+                            "icon": "community"
+                        }
+                    ],
+                    "description": "The 'Pomu Challenge – Calling the Soul of Tay Giang' tour is a thrilling 3-day, 2-night adventure that seamlessly blends survival skills and cultural immersion in the breathtaking highlands of Tay Giang. Travelers will trek through the ancient Pơmu forest, learn to build shelters, filter water, and start fires, while also experiencing the rich traditions of the Cơ Tu people. Highlights include hands-on weaving, bamboo music workshops, and traditional baking, as well as evenings spent enjoying folk dances, storytelling, and BBQ feasts around a campfire. With opportunities to explore pristine waterfalls, sip herbal forest tea at sunrise, and stay in a traditional Guol house, this journey offers the perfect mix of nature, adventure, and culture, leaving travelers with unforgettable memories of Tay Giang",
+                    "link": "/tours-details/2"
+                },
+                {
+                    "image": "./experiences/images-04.png",
+                    "title": "Combine Culture and Volunteer Package",
+                    "duration": "3 ngày 2 đêm",
+                    "price": "4,199,000 VND",
+                    "tags": [{
+                            "text": "None Plastic",
+                            "icon": "no-plastic"
+                        },
+                        {
+                            "text": "Local communities",
+                            "icon": "community"
+                        }
+                    ],
+                    "description": "The 'Pomu Challenge – Calling the Soul of Tay Giang' tour is a thrilling 3-day, 2-night adventure that seamlessly blends survival skills and cultural immersion in the breathtaking highlands of Tay Giang. Travelers will trek through the ancient Pơmu forest, learn to build shelters, filter water, and start fires, while also experiencing the rich traditions of the Cơ Tu people. Highlights include hands-on weaving, bamboo music workshops, and traditional baking, as well as evenings spent enjoying folk dances, storytelling, and BBQ feasts around a campfire. With opportunities to explore pristine waterfalls, sip herbal forest tea at sunrise, and stay in a traditional Guol house, this journey offers the perfect mix of nature, adventure, and culture, leaving travelers with unforgettable memories of Tay Giang",
+                    "link": "/tours-details/3"
+                },{
+                    "image": "./experiences/images-066.jpg",
+                    "title": "Di Sản Chăm – Hơi Thở Suối Nóng",
+                    "duration": "2 ngày 1 đêm",
+                    "price": "1,299,000 VND",
+                    "tags": [{
+                            "text": "None Plastic",
+                            "icon": "no-plastic"
+                        },
+                        {
+                            "text": "Local communities",
+                            "icon": "community"
+                        }
+                    ],
+                    "description": "The Cham Heritage – Hot Spring Breeze tour (2 days 1 night) from Da Nang takes you to explorNany Son Sanctuary, a UNESCO heritage site with ancient Cham Pa temples, enjoy Cham dance, and savor Central Vietnamese cuisine. Relax at Tra My hot springs, trek through forests, swim in natural waterfalls, and stay overnight in a serene homestay. A perfect blend of culture, nature, and relaxation for an unforgettable experience!",
+                    "link": "/tours-details/5"
+                },
+                {
+                    "image": "./experiences/images-055.jpg",
+                    "title": "Khám Phá Sơn Trà – Theo Dấu Voọc Chà Vá",
+                    "duration": "2 ngày 1 đêm",
+                    "price": "299,000 VND",
+                    "tags": [{
+                            "text": "None Plastic",
+                            "icon": "no-plastic"
+                        },
+                        {
+                            "text": "Local communities",
+                            "icon": "community"
+                        }
+                    ],
+                    "description": "The 'Pomu Challenge – Calling the Soul of Tay Giang' tour is a thrilling 3-day, 2-night adventure that seamlessly blends survival skills and cultural immersion in the breathtaking highlands of Tay Giang. Travelers will trek through the ancient Pơmu forest, learn to build shelters, filter water, and start fires, while also experiencing the rich traditions of the Cơ Tu people. Highlights include hands-on weaving, bamboo music workshops, and traditional baking, as well as evenings spent enjoying folk dances, storytelling, and BBQ feasts around a campfire. With opportunities to explore pristine waterfalls, sip herbal forest tea at sunrise, and stay in a traditional Guol house, this journey offers the perfect mix of nature, adventure, and culture, leaving travelers with unforgettable memories of Tay Giang",
+                    "link": "/tours-details/4"
+                },
+                {
+                    "image": "./experiences/images-07.jpg",
+                    "title": "Hồn Rừng Xê Đăng – Suối Nước Mắt",
+                    "duration": "3 ngày 2 đêm",
+                    "price": "2,099,000 VND",
+                    "tags": [{
+                            "text": "None Plastic",
+                            "icon": "no-plastic"
+                        },
+                        {
+                            "text": "Local communities",
+                            "icon": "community"
+                        }
+                    ],
+                    "description": "The 'Pomu Challenge – Calling the Soul of Tay Giang' tour is a thrilling 3-day, 2-night adventure that seamlessly blends survival skills and cultural immersion in the breathtaking highlands of Tay Giang. Travelers will trek through the ancient Pơmu forest, learn to build shelters, filter water, and start fires, while also experiencing the rich traditions of the Cơ Tu people. Highlights include hands-on weaving, bamboo music workshops, and traditional baking, as well as evenings spent enjoying folk dances, storytelling, and BBQ feasts around a campfire. With opportunities to explore pristine waterfalls, sip herbal forest tea at sunrise, and stay in a traditional Guol house, this journey offers the perfect mix of nature, adventure, and culture, leaving travelers with unforgettable memories of Tay Giang",
+                    "link": "/tours-details/6"
+                },
+                {
+                    "image": "./experiences/images-08.png",
+                    "title": "Văn Hóa Làng Rêu – Hơi Thở Pơ Mu",
+                    "duration": "3 ngày 2 đêm",
+                    "price": "1,399,000 VND",
+                    "tags": [{
+                            "text": "None Plastic",
+                            "icon": "no-plastic"
+                        },
+                        {
+                            "text": "Local communities",
+                            "icon": "community"
+                        }
+                    ],
+                    "description": "A 2-day, 1-night tour to explore the Cơ Tu culture at Lang Reu, visit Phuoc Kieu bronze casting village, experience activities like traditional bronze casting, cultural exchange, trekking through the pristine Po Mu forest, enjoy stream bathing, and savor local mountain specialties in a peaceful setting",
+                    "link": "/tours-details/7"
+                },
+                {
+                    "image": "./experiences/images-09.png",
+                    "title": "Văn Hóa Làng Rêu – Hơi Thở Pơ Mu",
+                    "duration": "3 ngày 2 đêm",
+                    "price": "1,399,000 VND",
+                    "tags": [{
+                            "text": "None Plastic",
+                            "icon": "no-plastic"
+                        },
+                        {
+                            "text": "Local communities",
+                            "icon": "community"
+                        }
+                    ],
+                    "description": "A 2-day, 1-night tour to explore the Cơ Tu culture at Lang Reu, visit Phuoc Kieu bronze casting village, experience activities like traditional bronze casting, cultural exchange, trekking through the pristine Po Mu forest, enjoy stream bathing, and savor local mountain specialties in a peaceful setting",
+                    "link": "/tours-details/8"
+                },
+                {
+                    "image": "./experiences/images-10.png",
+                    "title": "Sắc Màu Tam Thanh – Hành Trình Biển Rạng",
+                    "duration": "1 ngày",
+                    "price": "1,999,000 VND",
+                    "tags": [{
+                            "text": "None Plastic",
+                            "icon": "no-plastic"
+                        },
+                        {
+                            "text": "Local communities",
+                            "icon": "community"
+                        }
+                    ],
+                    "description": "The A 2-day, 1-night adventure into Đông Giang’s highlands: visit an authentic Cơ Tu village, trek through pristine forest to the hidden Chiên Waterfall, enjoy stream bathing, cloud hunting at dawn, and savor mountain cuisine. Stay in a local homestay and experience traditional culture by the campfire in the heart of nature.",
+                    "link": "/tours-details/9"
                 }
             ]
         },
@@ -1062,6 +1230,974 @@
                         "../gallery/thac_rcung_quang_nam_tam.jpg",
                         "../gallery/z5266221276387_3d65b6a99c434346b5ecf0dffb75790d.jp"
                     ],
+                    "question": {
+                        "title": "Q&A",
+                        "list": [{
+                                "question": "What is the minimum age for children to join this tour?",
+                                "answer": "This tour is suitable for children aged 12 or above and accompanied by parents or adults."
+                            },
+                            {
+                                "question": "I don't have trekking experience. Can I join this program?",
+                                "answer": "The trek has a steep gradient, especially the nearly 1km incline at the foot of the mountain, so it can be quite challenging for those who are not physically active. You should review the tips and guidelines for preparing for a trip with a difficulty level of 6/10 here."
+                            }
+                        ]
+                    }
+                }]
+            },
+            {
+                "id": 4,
+                "tourName": "Son Tra & Pygathrix Nemaeus",
+                "bannerImage": "../tours/images/tours5/images-01.jpg",
+                "tourDes": "Forest trekking, red-shanked douc langur spotting, visits to Linh Ung Pagoda, Ban Co Peak, Radar Station 29, and tasting Central Vietnam’s local specialties in pristine nature.",
+                "tourId": "EV105",
+                "tags": [{
+                        "text": "None Plastic",
+                        "icon": "no-plastic"
+                    },
+                    {
+                        "text": "Local communities",
+                        "icon": "community"
+                    }
+                ],
+                "tourLocation": "Bán đảo Sơn Trà, Đà Nẵng",
+                "tourTime": "1 days",
+                "details": [{
+                    "tourName": "Son Tra & Pygathrix Nemaeus",
+                    "bannerImage": "../tours/images/tours1/baner_tour_ua_3_0.png",
+                    "tourDes": "Forest trekking, red-shanked douc langur spotting, visits to Linh Ung Pagoda, Ban Co Peak, Radar Station 29, and tasting Central Vietnam’s local specialties in pristine nature.",
+                    "tourLocation": "Bán đảo Sơn Trà, Đà Nẵng",
+                    "tourId": "EV105",
+                    "map": "../tours/images/tours4/map.png",
+                    "tourTime": "1 days",
+                    "activities": [
+                        "Trekking"
+                    ],
+                    "level": "Easy Level (1/10)",
+                    "price": "299,000 VND",
+                    "startLocation": "Da Nang City",
+                    "endLocation": "Bán đảo Sơn Trà, Đà Nẵng",
+                    "seatsMin": "5",
+                    "seatsMax": "12",
+                    "schedule": "January-September",
+                    "scheduleList": {
+                        "free": [
+                            "Bus round trips",
+                            "Camping on the mountain",
+                            "Tour guide and Porter"
+                        ],
+                        "charge": [
+                            "Flight ticket",
+                            "Personal fees"
+                        ]
+                    },
+                    "journey": [{
+                            "day": "Sangs",
+                            "details": [{
+                                    "time": "7:30",
+                                    "title": "Xe và hướng dẫn viên đón khách tại điểm hẹn tại 452 Lê Văn Hiến, Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng, di chuyển đến bán đảo Sơn Trà"
+                                },
+                                {
+                                    "time": "8:30",
+                                    "title": "Bắt đầu trekking xuyên rừng (3–4 km), tìm hiểu hệ sinh thái & quan sát voọc chà vá chân đỏ trong môi trường tự nhiên"
+                                },
+                                {
+                                    "time": "10:30",
+                                    "title": "Tham quan Chùa Linh Ứng, chụp ảnh tượng Phật Quan Âm & ngắm cảnh biển từ Đỉnh Bàn Cờ"
+                                }
+                            ]
+                        },
+                        {
+                            "day": "Trưa",
+                            "details": [{
+                                "time": "12:30",
+                                "title": "Dùng bữa tại quán địa phương hoặc picnic giữa thiên nhiên với các món như:",
+                                "details": [
+                                    "Bánh tráng cuốn thịt heo", "Mì Quảng",
+                                    "Rau rừng Sơn Trà"
+                                ]
+                            }]
+                        },
+                        {
+                            "day": "Chiều",
+                            "details": [{
+                                    "time": "14:00",
+                                    "title": "Thăm Radar 29 – Mắt thần Đông Dương, nghe giới thiệu về hệ thống phòng thủ và chiến lược",
+                                    "details": [
+                                        "Di chuyển qua tuyến đường xanh ven biển, dừng chân chụp ảnh tại các điểm đẹp"
+                                    ]
+                                },
+                                {
+                                    "time": "16:30",
+                                    "title": "Trở về trung tâm Đà Nẵng, kết thúc hành trình"
+                                }
+                            ]
+                        }
+                    ],
+                    "equipment": {
+                        "provided": [
+                            "Trekking Poles",
+                            "Tent’s light"
+                        ],
+                        "personal": [
+                            "ID card or Passport",
+                            "Water Bottle"
+                        ],
+                        "suggestion": [
+                            "Mobile phone, camera",
+                            "Flashlight"
+                        ]
+                    },
+                    "notes": [],
+                    "images": [],
+                    "question": {
+                        "title": "Q&A",
+                        "list": [{
+                                "question": "What is the minimum age for children to join this tour?",
+                                "answer": "This tour is suitable for children aged 12 or above and accompanied by parents or adults."
+                            },
+                            {
+                                "question": "I don't have trekking experience. Can I join this program?",
+                                "answer": "The trek has a steep gradient, especially the nearly 1km incline at the foot of the mountain, so it can be quite challenging for those who are not physically active. You should review the tips and guidelines for preparing for a trip with a difficulty level of 6/10 here."
+                            }
+                        ]
+                    }
+                }]
+            },
+            {
+                "id": 5,
+                "tourName": "Cham Heritage & Hot Springs",
+                "bannerImage": "../tours/images/tours6/images-01.jpg",
+                "tourDes": "The Cham Heritage – Hot Spring Breeze tour (2 days 1 night) from Da Nang takes you to explorNany Son Sanctuary, a UNESCO heritage site with ancient Cham Pa temples, enjoy Cham dance, and savor Central Vietnamese cuisine. Relax at Tra My hot springs, trek through forests, swim in natural waterfalls, and stay overnight in a serene homestay. A perfect blend of culture, nature, and relaxation for an unforgettable experience!",
+                "tourId": "EV106",
+                "tags": [{
+                        "text": "None Plastic",
+                        "icon": "no-plastic"
+                    },
+                    {
+                        "text": "Local communities",
+                        "icon": "community"
+                    }
+                ],
+                "tourLocation": "Thánh địa Mỹ Sơn – Khu vực suối khoáng nóng Trà My",
+                "tourTime": "2 days 1 night",
+                "details": [{
+                    "tourName": "Cham Heritage & Hot Springs",
+                    "bannerImage": "../tours/images/tours1/baner_tour_ua_3_0.png",
+                    "tourDes": "The Cham Heritage – Hot Spring Breeze tour (2 days 1 night) from Da Nang takes you to explorNany Son Sanctuary, a UNESCO heritage site with ancient Cham Pa temples, enjoy Cham dance, and savor Central Vietnamese cuisine. Relax at Tra My hot springs, trek through forests, swim in natural waterfalls, and stay overnight in a serene homestay. A perfect blend of culture, nature, and relaxation for an unforgettable experience!",
+                    "tourLocation": "Thánh địa Mỹ Sơn – Khu vực suối khoáng nóng Trà My",
+                    "tourId": "EV106",
+                    "map": "../tours/images/tours4/map.png",
+                    "tourTime": "2 days 1 night",
+                    "activities": [
+                        "Trekking"
+                    ],
+                    "level": "Easy Level (1/10)",
+                    "price": "$49.99",
+                    "startLocation": "Da Nang City",
+                    "endLocation": "Thánh địa Mỹ Sơn – Khu vực suối khoáng nóng Trà My",
+                    "seatsMin": "5",
+                    "seatsMax": "12",
+                    "schedule": "January-September",
+                    "scheduleList": {
+                        "free": [
+                            "Bus round trips",
+                            "Camping on the mountain",
+                            "Tour guide and Porter"
+                        ],
+                        "charge": [
+                            "Flight ticket",
+                            "Personal fees"
+                        ]
+                    },
+                    "journey": [{
+                            "day": "NGÀY 1: ĐÀ NẴNG – THÁNH ĐỊA MỸ SƠN – TRÀ MY",
+                            "details": [{
+                                    "time": "07:30",
+                                    "title": "Xe và hướng dẫn viên đón khách tại điểm hẹn tại 452 Lê Văn Hiến, Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng. Khởi hành đến Thánh địa Mỹ Sơn, Quảng Nam."
+                                },
+                                {
+                                    "time": "09:00",
+                                    "title": "Đến Thánh địa Mỹ Sơn – Di sản Văn hóa Thế giới được UNESCO công nhận. Du khách tham quan các cụm đền tháp Chăm Pa cổ kính, lắng nghe giới thiệu về lịch sử vương quốc Chăm Pa và nền kiến trúc độc đáo còn sót lại",
+                                    "details": [
+                                        "Thưởng thức múa Chăm truyền thống và tự do chụp ảnh."
+                                    ]
+                                },
+                                {
+                                    "time": "11:30",
+                                    "title": "Dùng bữa trưa tại nhà hàng địa phương với các món đặc sản miền Trung như bánh tráng cuốn thịt heo, mỳ Quảng, măng núi trộn"
+                                }, {
+                                    "time": "13:00",
+                                    "title": "Khởi hành đến khu vực xã Trà Mai (Nam Trà My), nơi có dòng suối nước nóng quanh năm tuôn trào từ trong khe đá ra."
+                                },
+                                {
+                                    "time": "16:00",
+                                    "title": "Nhận phòng tại khu lưu trú gần suối khoáng nóng (homestay)"
+                                },
+                                {
+                                    "time": "17:00",
+                                    "title": "Thư giãn và trải nghiệm ngâm mình tại suối khoáng nóng tự nhiên."
+                                }, {
+                                    "time": "19:00",
+                                    "title": "Dùng bữa tối tại khu nghỉ dưỡng hoặc tổ chức tiệc BBQ ngoài trời (tùy điều kiện thời tiết và yêu cầu của đoàn)."
+                                }
+                            ]
+                        },
+                        {
+                            "day": "NGÀY 2: TREKKING SUỐI – TẮM THÁC – TRỞ VỀ",
+                            "details": [{
+                                    "time": "06:00",
+                                    "title": "Thức dậy sớm, hít thở không khí trong lành, dùng bữa sáng nhẹ như xôi muối vừng, cơm nắm"
+                                }, {
+                                    "time": "07:30",
+                                    "title": "Bắt đầu hành trình trekking nhẹ xuyên rừng theo đường mòn ven suối.",
+                                    "details": ["Du khách sẽ đi bộ qua những con đường rợp bóng cây, nghe tiếng chim hót và tiếng suối róc rách.", "Điểm đến là một thác nước hoặc hồ tự nhiên – nơi có thể tắm mát, thư giãn, và chụp ảnh lưu niệm."]
+                                },
+                                {
+                                    "time": "11:00",
+                                    "title": "Trở về khu nghỉ dưỡng, vệ sinh cá nhân và dùng bữa trưa."
+                                },
+                                {
+                                    "time": "13:00",
+                                    "title": "Trả phòng, khởi hành trở về Đà Nẵng "
+                                },
+                                {
+                                    "time": "18:00",
+                                    "title": "Về đến điểm trả khách ban đầu. Kết thúc chương trình tour. Chia tay và hẹn gặp lại trong các hành trình tiếp theo."
+                                }
+                            ]
+                        }
+                    ],
+                    "equipment": {
+                        "provided": [
+                            "Trekking Poles",
+                            "Tent’s light"
+                        ],
+                        "personal": [
+                            "ID card or Passport",
+                            "Water Bottle"
+                        ],
+                        "suggestion": [
+                            "Mobile phone, camera",
+                            "Flashlight"
+                        ]
+                    },
+                    "notes": [],
+                    "images": [],
+                    "question": {
+                        "title": "Q&A",
+                        "list": [{
+                                "question": "What is the minimum age for children to join this tour?",
+                                "answer": "This tour is suitable for children aged 12 or above and accompanied by parents or adults."
+                            },
+                            {
+                                "question": "I don't have trekking experience. Can I join this program?",
+                                "answer": "The trek has a steep gradient, especially the nearly 1km incline at the foot of the mountain, so it can be quite challenging for those who are not physically active. You should review the tips and guidelines for preparing for a trip with a difficulty level of 6/10 here."
+                            }
+                        ]
+                    }
+                }]
+            },
+            {
+                "id": 6,
+                "tourName": "Xe Dang Forest & Tears Waterfall",
+                "bannerImage": "../tours/images/tours7/images-01.jpg",
+                "tourDes": "The Cham Heritage – Hot Spring Breeze tour (2 days 1 night) from Da Nang takes you to explorNany Son Sanctuary, a UNESCO heritage site with ancient Cham Pa temples, enjoy Cham dance, and savor Central Vietnamese cuisine. Relax at Tra My hot springs, trek through forests, swim in natural waterfalls, and stay overnight in a serene homestay. A perfect blend of culture, nature, and relaxation for an unforgettable experience!",
+                "tourId": "EV107",
+                "tags": [{
+                        "text": "None Plastic",
+                        "icon": "no-plastic"
+                    },
+                    {
+                        "text": "Local communities",
+                        "icon": "community"
+                    }
+                ],
+                "tourLocation": "Làng Ch’ơm, Suối Nước Mắt, Nam Trà, Quảng Nam",
+                "tourTime": "2 days 1 night",
+                "details": [{
+                    "tourName": "Xe Dang Forest & Tears Waterfall",
+                    "bannerImage": "../tours/images/tours1/baner_tour_ua_3_0.png",
+                    "tourDes": "The Cham Heritage – Hot Spring Breeze tour (2 days 1 night) from Da Nang takes you to explorNany Son Sanctuary, a UNESCO heritage site with ancient Cham Pa temples, enjoy Cham dance, and savor Central Vietnamese cuisine. Relax at Tra My hot springs, trek through forests, swim in natural waterfalls, and stay overnight in a serene homestay. A perfect blend of culture, nature, and relaxation for an unforgettable experience!",
+                    "tourLocation": "Làng Ch’ơm, Suối Nước Mắt, Nam Trà, Quảng Nam",
+                    "tourId": "EV107",
+                    "map": "../tours/images/tours4/map.png",
+                    "tourTime": "2 days 1 night",
+                    "activities": [
+                        "Trekking"
+                    ],
+                    "level": "Easy Level (1/10)",
+                    "price": "$80",
+                    "startLocation": "Da Nang City",
+                    "endLocation": "Làng Ch’ơm, Suối Nước Mắt, Nam Trà, Quảng Nam",
+                    "seatsMin": "5",
+                    "seatsMax": "12",
+                    "schedule": "January-September",
+                    "scheduleList": {
+                        "free": [
+                            "Bus round trips",
+                            "Camping on the mountain",
+                            "Tour guide and Porter"
+                        ],
+                        "charge": [
+                            "Flight ticket",
+                            "Personal fees"
+                        ]
+                    },
+                    "journey": [{
+                            "day": "Ngày 1: Đà Nẵng – Làng Ch’ơm – Suối Nước Mắt",
+                            "details": [{
+                                    "time": "07:00",
+                                    "title": "Đón khách và khởi hành",
+                                    "details": [
+                                        "Xe và hướng dẫn viên đón khách tại 452 Lê Văn Hiến, Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng.",
+                                        "Khởi hành đến Nam Trà, ngắm cảnh núi rừng trên cung đường."
+                                    ]
+                                },
+                                {
+                                    "time": "11:30",
+                                    "title": "Đến Làng Ch’ơm – Tham quan và workshop",
+                                    "details": [
+                                        "Tham quan nhà Gươl (nhà rông truyền thống), tìm hiểu văn hóa Xê Đăng.",
+                                        "Tham gia workshop ngắn (45 phút) dệt thổ cẩm hoặc đan lát, tạo sản phẩm lưu niệm."
+                                    ]
+                                },
+                                {
+                                    "time": "12:00",
+                                    "title": "Ăn trưa tại nhà cộng đồng",
+                                    "details": [
+                                        "Thưởng thức cơm lam, gà nướng, rau rừng, măng núi trộn.",
+                                        "Thử tự tay nướng cơm lam cùng người dân (tùy lựa chọn)."
+                                    ]
+                                },
+                                {
+                                    "time": "13:30",
+                                    "title": "Trekking đến suối Nước Mắt",
+                                    "details": [
+                                        "Trekking 4km qua rừng nguyên sinh, khám phá hệ thực vật.",
+                                        "Nghe hướng dẫn viên kể truyền thuyết về tên gọi suối."
+                                    ]
+                                },
+                                {
+                                    "time": "16:30",
+                                    "title": "Thư giãn tại suối Nước Mắt",
+                                    "details": [
+                                        "Tắm suối (khu vực an toàn) hoặc ngâm chân trong dòng nước mát.",
+                                        "Thử chèo bè tre hoặc chụp ảnh thiên nhiên (nếu điều kiện suối cho phép)."
+                                    ]
+                                },
+                                {
+                                    "time": "18:30",
+                                    "title": "Ăn tối và giao lưu văn nghệ",
+                                    "details": [
+                                        "Ăn tối tại homestay với thực đơn phong phú hơn (thêm cá suối nướng, bánh gạo nếp).",
+                                        "Giao lưu văn nghệ Xê Đăng, thưởng thức múa truyền thống, nghe kể chuyện về văn hóa địa phương."
+                                    ]
+                                },
+                                {
+                                    "time": "20:30",
+                                    "title": "Nghỉ đêm tại homestay hoặc lều glamping",
+                                    "details": [
+                                        "Homestay được nâng cấp với giường đệm thoải mái, trang trí thổ cẩm.",
+                                        "Hoặc trải nghiệm ngủ lều glamping gần gũi thiên nhiên."
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "day": "Ngày 2: Trekking Ngắn – Khám Phá Làng Ch’ơm – Trở Về",
+                            "details": [{
+                                    "time": "06:30",
+                                    "title": "Dậy sớm, ăn sáng",
+                                    "details": [
+                                        "Thức dậy sớm, hít thở không khí trong lành, ngắm bình minh.",
+                                        "Ăn sáng với bánh gạo nếp nướng và trà thảo mộc địa phương."
+                                    ]
+                                },
+                                {
+                                    "time": "07:30",
+                                    "title": "Trekking quanh Làng Ch’ơm",
+                                    "details": [
+                                        "Trekking ngắn 2km quanh Làng Ch’ơm.",
+                                        "Khám phá ruộng bậc thang hoặc rừng gần đó.",
+                                        "Tham gia hoạt động trồng cây lưu niệm (tùy lựa chọn)."
+                                    ]
+                                },
+                                {
+                                    "time": "09:30",
+                                    "title": "Tham quan chợ Nam Trà",
+                                    "details": [
+                                        "Ghé chợ nhỏ ở Nam Trà, mua đặc sản như mật ong rừng, thổ cẩm, măng khô."
+                                    ]
+                                },
+                                {
+                                    "time": "10:30",
+                                    "title": "Trở về homestay",
+                                    "details": [
+                                        "Vệ sinh cá nhân và trả phòng."
+                                    ]
+                                },
+                                {
+                                    "time": "11:00",
+                                    "title": "Ăn trưa nhẹ",
+                                    "details": [
+                                        "Ăn trưa với các món địa phương như mỳ Quảng núi hoặc bánh tráng cuốn."
+                                    ]
+                                },
+                                {
+                                    "time": "12:00",
+                                    "title": "Khởi hành về Đà Nẵng",
+                                    "details": []
+                                },
+                                {
+                                    "time": "15:00",
+                                    "title": "Kết thúc tour",
+                                    "details": [
+                                        "Về đến điểm trả khách ban đầu, chia tay và hẹn gặp lại."
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "equipment": {
+                        "provided": [
+                            "Trekking Poles",
+                            "Tent’s light"
+                        ],
+                        "personal": [
+                            "ID card or Passport",
+                            "Water Bottle"
+                        ],
+                        "suggestion": [
+                            "Mobile phone, camera",
+                            "Flashlight"
+                        ]
+                    },
+                    "notes": [],
+                    "images": [],
+                    "question": {
+                        "title": "Q&A",
+                        "list": [{
+                                "question": "What is the minimum age for children to join this tour?",
+                                "answer": "This tour is suitable for children aged 12 or above and accompanied by parents or adults."
+                            },
+                            {
+                                "question": "I don't have trekking experience. Can I join this program?",
+                                "answer": "The trek has a steep gradient, especially the nearly 1km incline at the foot of the mountain, so it can be quite challenging for those who are not physically active. You should review the tips and guidelines for preparing for a trip with a difficulty level of 6/10 here."
+                            }
+                        ]
+                    }
+                }]
+            },
+            {
+                "id": 7,
+                "tourName": "Xe Dang Forest & Tears Waterfall",
+                "bannerImage": "../tours/images/tours8/images-01.jpg",
+                "tourDes": "The Cham Heritage – Hot Spring Breeze tour (2 days 1 night) from Da Nang takes you to explorNany Son Sanctuary, a UNESCO heritage site with ancient Cham Pa temples, enjoy Cham dance, and savor Central Vietnamese cuisine. Relax at Tra My hot springs, trek through forests, swim in natural waterfalls, and stay overnight in a serene homestay. A perfect blend of culture, nature, and relaxation for an unforgettable experience!",
+                "tourId": "EV108",
+                "tags": [{
+                        "text": "None Plastic",
+                        "icon": "no-plastic"
+                    },
+                    {
+                        "text": "Local communities",
+                        "icon": "community"
+                    }
+                ],
+                "tourLocation": "Làng Ch’ơm, Suối Nước Mắt, Nam Trà, Quảng Nam",
+                "tourTime": "2 days 1 night",
+                "details": [{
+                    "tourName": "Xe Dang Forest & Tears Waterfall",
+                    "bannerImage": "../tours/images/tours1/baner_tour_ua_3_0.png",
+                    "tourDes": "The Cham Heritage – Hot Spring Breeze tour (2 days 1 night) from Da Nang takes you to explorNany Son Sanctuary, a UNESCO heritage site with ancient Cham Pa temples, enjoy Cham dance, and savor Central Vietnamese cuisine. Relax at Tra My hot springs, trek through forests, swim in natural waterfalls, and stay overnight in a serene homestay. A perfect blend of culture, nature, and relaxation for an unforgettable experience!",
+                    "tourLocation": "Làng Ch’ơm, Suối Nước Mắt, Nam Trà, Quảng Nam",
+                    "tourId": "EV108",
+                    "map": "../tours/images/tours4/map.png",
+                    "tourTime": "2 days 1 night",
+                    "activities": [
+                        "Trekking"
+                    ],
+                    "level": "Easy Level (1/10)",
+                    "price": "$80",
+                    "startLocation": "Da Nang City",
+                    "endLocation": "Làng Ch’ơm, Suối Nước Mắt, Nam Trà, Quảng Nam",
+                    "seatsMin": "5",
+                    "seatsMax": "12",
+                    "schedule": "January-September",
+                    "scheduleList": {
+                        "free": [
+                            "Bus round trips",
+                            "Camping on the mountain",
+                            "Tour guide and Porter"
+                        ],
+                        "charge": [
+                            "Flight ticket",
+                            "Personal fees"
+                        ]
+                    },
+                    "journey": [{
+                            "day": "Ngày 1: Đà Nẵng – Làng cổ Phước Kiều – Làng Rêu – Homestay sinh thái",
+                            "details": [{
+                                    "time": "07:30",
+                                    "title": "Đón khách và khởi hành",
+                                    "details": [
+                                        "Xe và hướng dẫn viên đón khách tại Đà Nẵng hoặc Hội An.",
+                                        "Khởi hành đến huyện Đại Lộc, tỉnh Quảng Nam."
+                                    ]
+                                },
+                                {
+                                    "time": "09:00",
+                                    "title": "Tham quan Làng đúc đồng Phước Kiều",
+                                    "details": [
+                                        "Tìm hiểu nghề đúc đồng truyền thống và lịch sử làng nghề hơn 400 năm tuổi.",
+                                        "Trải nghiệm gõ thử cồng chiêng, xem quy trình đúc sản phẩm thủ công.",
+                                        "Mua sắm sản phẩm lưu niệm tại làng."
+                                    ]
+                                },
+                                {
+                                    "time": "11:00",
+                                    "title": "Di chuyển đến Làng Rêu",
+                                    "details": [
+                                        "Tham quan Làng Rêu - ngôi làng cổ của đồng bào Cơ Tu tại Quảng Nam."
+                                    ]
+                                },
+                                {
+                                    "time": "11:30",
+                                    "title": "Ăn trưa tại Làng Rêu",
+                                    "details": [
+                                        "Dùng bữa trưa tại nhà sàn truyền thống với các món ăn dân dã, đặc sản núi rừng."
+                                    ]
+                                },
+                                {
+                                    "time": "13:30",
+                                    "title": "Khám phá văn hóa Làng Rêu",
+                                    "details": [
+                                        "Giao lưu với đồng bào Cơ Tu, tìm hiểu tập tục, lễ hội và kiến trúc Gươl.",
+                                        "Tham quan xưởng dệt thổ cẩm và nhà truyền thống.",
+                                        "Thử mặc trang phục Cơ Tu và chụp ảnh lưu niệm."
+                                    ]
+                                },
+                                {
+                                    "time": "15:30",
+                                    "title": "Nhận phòng homestay sinh thái",
+                                    "details": [
+                                        "Nhận phòng tại homestay gần làng hoặc khu vực ven rừng."
+                                    ]
+                                },
+                                {
+                                    "time": "16:30",
+                                    "title": "Tự do nghỉ ngơi",
+                                    "details": [
+                                        "Tham gia chương trình đi bộ ngắn quanh bản làng, tắm suối nếu thời tiết thuận lợi."
+                                    ]
+                                },
+                                {
+                                    "time": "18:30",
+                                    "title": "Ăn tối và giao lưu",
+                                    "details": [
+                                        "Dùng bữa tối cùng người dân bản địa.",
+                                        "Thưởng thức tiệc truyền thống, giao lưu lửa trại, thưởng thức rượu cần và múa dân gian Cơ Tu (có thể yêu cầu thêm dịch vụ)."
+                                    ]
+                                },
+                                {
+                                    "time": "Nghỉ đêm",
+                                    "title": "Nghỉ tại homestay",
+                                    "details": []
+                                }
+                            ]
+                        },
+                        {
+                            "day": "Ngày 2: Trekking Rừng Pơ Mu – Trở về Đà Nẵng",
+                            "details": [{
+                                    "time": "06:30",
+                                    "title": "Dậy sớm và ăn sáng",
+                                    "details": [
+                                        "Hít thở không khí trong lành núi rừng.",
+                                        "Dùng bữa sáng nhẹ: cơm nắm muối vừng, xôi bắp,..."
+                                    ]
+                                },
+                                {
+                                    "time": "07:30",
+                                    "title": "Trekking khám phá rừng Pơ Mu",
+                                    "details": [
+                                        "Trekking nhẹ cùng người dân bản địa dẫn đường.",
+                                        "Ngắm cây Pơ Mu cổ thụ hàng trăm năm tuổi, lắng nghe tiếng chim hót.",
+                                        "Chiêm ngưỡng thảm thực vật phong phú, suối đá và địa hình đa dạng."
+                                    ]
+                                },
+                                {
+                                    "time": "10:30",
+                                    "title": "Nghỉ chân trong rừng",
+                                    "details": [
+                                        "Dừng nghỉ tại thác nước hoặc khu vực mát mẻ, chụp ảnh lưu niệm."
+                                    ]
+                                },
+                                {
+                                    "time": "11:30",
+                                    "title": "Ăn trưa tại homestay",
+                                    "details": [
+                                        "Vệ sinh cá nhân và dùng bữa trưa với đặc sản núi rừng."
+                                    ]
+                                },
+                                {
+                                    "time": "13:00",
+                                    "title": "Trả phòng và trở về",
+                                    "details": [
+                                        "Trả phòng homestay và khởi hành trở về Đà Nẵng."
+                                    ]
+                                },
+                                {
+                                    "time": "16:00 - 17:00",
+                                    "title": "Kết thúc hành trình",
+                                    "details": [
+                                        "Về đến điểm đón ban đầu.",
+                                        "Chào tạm biệt và hẹn gặp lại."
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "equipment": {
+                        "provided": [
+                            "Trekking Poles",
+                            "Tent’s light"
+                        ],
+                        "personal": [
+                            "ID card or Passport",
+                            "Water Bottle"
+                        ],
+                        "suggestion": [
+                            "Mobile phone, camera",
+                            "Flashlight"
+                        ]
+                    },
+                    "notes": [],
+                    "images": [],
+                    "question": {
+                        "title": "Q&A",
+                        "list": [{
+                                "question": "What is the minimum age for children to join this tour?",
+                                "answer": "This tour is suitable for children aged 12 or above and accompanied by parents or adults."
+                            },
+                            {
+                                "question": "I don't have trekking experience. Can I join this program?",
+                                "answer": "The trek has a steep gradient, especially the nearly 1km incline at the foot of the mountain, so it can be quite challenging for those who are not physically active. You should review the tips and guidelines for preparing for a trip with a difficulty level of 6/10 here."
+                            }
+                        ]
+                    }
+                }]
+            },
+            {
+                "id": 8,
+                "tourName": "Tam Thanh Colors & Rang Coast",
+                "bannerImage": "../tours/images/tours9/images-01.jpg",
+                "tourDes": "The “Sac Mau Tam Thanh” tour offers a vibrant day of mural art, hands-on painting, light beach trekking, and cultural moments in a coastal fishing village — capped with fresh seafood and eco-friendly fun in Central Vietnam’s seaside charm.",
+                "tourId": "EV109",
+                "tags": [{
+                        "text": "None Plastic",
+                        "icon": "no-plastic"
+                    },
+                    {
+                        "text": "Local communities",
+                        "icon": "community"
+                    }
+                ],
+                "tourLocation": "Làng Ch’ơm, Suối Nước Mắt, Nam Trà, Quảng Nam",
+                "tourTime": "1 days",
+                "details": [{
+                    "tourName": "Tam Thanh Colors & Rang Coast",
+                    "bannerImage": "../tours/images/tours1/baner_tour_ua_3_0.png",
+                    "tourDes": "The “Sac Mau Tam Thanh” tour offers a vibrant day of mural art, hands-on painting, light beach trekking, and cultural moments in a coastal fishing village — capped with fresh seafood and eco-friendly fun in Central Vietnam’s seaside charm.",
+                    "tourLocation": "Làng Ch’ơm, Suối Nước Mắt, Nam Trà, Quảng Nam",
+                    "tourId": "EV109",
+                    "map": "../tours/images/tours4/map.png",
+                    "tourTime": "1 days",
+                    "activities": [
+                        "Trekking"
+                    ],
+                    "level": "Easy Level (1/10)",
+                    "price": "$23",
+                    "startLocation": "Da Nang City",
+                    "endLocation": "Làng Ch’ơm, Suối Nước Mắt, Nam Trà, Quảng Nam",
+                    "seatsMin": "5",
+                    "seatsMax": "12",
+                    "schedule": "January-September",
+                    "scheduleList": {
+                        "free": [
+                            "Bus round trips",
+                            "Camping on the mountain",
+                            "Tour guide and Porter"
+                        ],
+                        "charge": [
+                            "Flight ticket",
+                            "Personal fees"
+                        ]
+                    },
+                    "journey": [{
+                        "day": "Ngày 1: Đà Nẵng – Làng Bích Họa Tam Thanh – Biển Rạng",
+                        "details": [{
+                                "time": "07:30",
+                                "title": "Đón khách và khởi hành",
+                                "details": [
+                                    "Xe và hướng dẫn viên đón đoàn tại 452 Lê Văn Hiến, Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng.",
+                                    "Khởi hành đến Tam Kỳ, ngắm cảnh đồng quê và sông Thu Bồn trên đường đi."
+                                ]
+                            },
+                            {
+                                "time": "09:00",
+                                "title": "Tham quan Làng Bích Họa Tam Thanh",
+                                "details": [
+                                    "Tham quan các bức tranh tường nghệ thuật đầy màu sắc.",
+                                    "Tìm hiểu câu chuyện về dự án bích họa và đời sống làng chài.",
+                                    "Tham gia mini-workshop vẽ tranh tường (30 phút) cùng nghệ sĩ địa phương.",
+                                    "Chụp ảnh check-in tại các góc nghệ thuật nổi bật."
+                                ]
+                            },
+                            {
+                                "time": "11:00",
+                                "title": "Trekking nhẹ dọc bãi biển Rạng",
+                                "details": [
+                                    "Trekking 3km khám phá cảnh quan biển hoang sơ.",
+                                    "Ghé thăm làng chài, nghe người dân kể về nghề biển.",
+                                    "Thử thách nhặt rác bảo vệ môi trường, nhận quà lưu niệm (túi vải tái chế)."
+                                ]
+                            },
+                            {
+                                "time": "12:30",
+                                "title": "Ăn trưa tại nhà hàng ven biển",
+                                "details": [
+                                    "Thực đơn hải sản tươi sống: tôm nướng, mực hấp, ghẹ hấp.",
+                                    "Thưởng thức đặc sản bánh tráng cuốn cá cơm và nước dừa tươi.",
+                                    "Giao lưu trò chuyện với ngư dân địa phương."
+                                ]
+                            },
+                            {
+                                "time": "14:00",
+                                "title": "Thư giãn tại biển Rạng",
+                                "details": [
+                                    "Tắm biển hoặc tham gia chèo thuyền thúng cùng ngư dân (tùy chọn).",
+                                    "Tận hưởng không gian yên bình, chụp ảnh hoàng hôn sớm."
+                                ]
+                            },
+                            {
+                                "time": "16:00",
+                                "title": "Khởi hành trở về Đà Nẵng",
+                                "details": []
+                            },
+                            {
+                                "time": "17:30",
+                                "title": "Kết thúc hành trình",
+                                "details": [
+                                    "Về đến điểm trả khách tại 452 Lê Văn Hiến, Khuê Mỹ, Ngũ Hành Sơn, Đà Nẵng.",
+                                    "Kết thúc tour, chia tay và hẹn gặp lại."
+                                ]
+                            }
+                        ]
+                    }],
+                    "equipment": {
+                        "provided": [
+                            "Trekking Poles",
+                            "Tent’s light"
+                        ],
+                        "personal": [
+                            "ID card or Passport",
+                            "Water Bottle"
+                        ],
+                        "suggestion": [
+                            "Mobile phone, camera",
+                            "Flashlight"
+                        ]
+                    },
+                    "notes": [],
+                    "images": [],
+                    "question": {
+                        "title": "Q&A",
+                        "list": [{
+                                "question": "What is the minimum age for children to join this tour?",
+                                "answer": "This tour is suitable for children aged 12 or above and accompanied by parents or adults."
+                            },
+                            {
+                                "question": "I don't have trekking experience. Can I join this program?",
+                                "answer": "The trek has a steep gradient, especially the nearly 1km incline at the foot of the mountain, so it can be quite challenging for those who are not physically active. You should review the tips and guidelines for preparing for a trip with a difficulty level of 6/10 here."
+                            }
+                        ]
+                    }
+                }]
+            },
+            {
+                "id": 9,
+                "tourName": "Chien Falls & Dong Giang Vibes",
+                "bannerImage": "../tours/images/tours10/images-01.jpg",
+                "tourDes": "The a 2-day, 1-night adventure into Đông Giang’s highlands: visit an authentic Cơ Tu village, trek through pristine forest to the hidden Chiên Waterfall, enjoy stream bathing, cloud hunting at dawn, and savor mountain cuisine. Stay in a local homestay and experience traditional culture by the campfire in the heart of nature.",
+                "tourId": "EV201",
+                "tags": [{
+                        "text": "None Plastic",
+                        "icon": "no-plastic"
+                    },
+                    {
+                        "text": "Local communities",
+                        "icon": "community"
+                    }
+                ],
+                "tourLocation": "Thác Chiên – Xã Mà Cooih – Bản Cơ Tu – Rừng tự nhiên Đông Giang",
+                "tourTime": "1 days",
+                "details": [{
+                    "tourName": "Chien Falls & Dong Giang Vibes",
+                    "bannerImage": "../tours/images/tours1/baner_tour_ua_3_0.png",
+                    "tourDes": "The a 2-day, 1-night adventure into Đông Giang’s highlands: visit an authentic Cơ Tu village, trek through pristine forest to the hidden Chiên Waterfall, enjoy stream bathing, cloud hunting at dawn, and savor mountain cuisine. Stay in a local homestay and experience traditional culture by the campfire in the heart of nature.",
+                    "tourLocation": "Thác Chiên – Xã Mà Cooih – Bản Cơ Tu – Rừng tự nhiên Đông Giang",
+                    "tourId": "EV201",
+                    "map": "../tours/images/tours4/map.png",
+                    "tourTime": "1 days",
+                    "activities": [
+                        "Trekking"
+                    ],
+                    "level": "Easy Level (1/10)",
+                    "price": "$4646",
+                    "startLocation": "Da Nang City",
+                    "endLocation": "Thác Chiên – Xã Mà Cooih – Bản Cơ Tu – Rừng tự nhiên Đông Giang",
+                    "seatsMin": "5",
+                    "seatsMax": "12",
+                    "schedule": "January-September",
+                    "scheduleList": {
+                        "free": [
+                            "Bus round trips",
+                            "Camping on the mountain",
+                            "Tour guide and Porter"
+                        ],
+                        "charge": [
+                            "Flight ticket",
+                            "Personal fees"
+                        ]
+                    },
+                    "journey": [{
+                            "day": "Ngày 1: Đà Nẵng – Đông Giang – Bản Cơ Tu – Thác Chiên",
+                            "details": [{
+                                    "time": "07:30",
+                                    "title": "Đón khách và khởi hành",
+                                    "details": [
+                                        "Xe và hướng dẫn viên đón khách tại điểm hẹn (Đà Nẵng), khởi hành theo quốc lộ 14G.",
+                                        "Ngắm cảnh núi rừng hùng vĩ trên đường đi."
+                                    ]
+                                },
+                                {
+                                    "time": "10:30",
+                                    "title": "Tham quan bản Cơ Tu tại xã Mà Cooih",
+                                    "details": [
+                                        "Giao lưu với đồng bào Cơ Tu, tìm hiểu kiến trúc nhà Gươl.",
+                                        "Nghe kể chuyện về phong tục, lễ hội, nghề dệt thổ cẩm, làm nông."
+                                    ]
+                                },
+                                {
+                                    "time": "11:30",
+                                    "title": "Ăn trưa tại nhà dân hoặc homestay",
+                                    "details": [
+                                        "Thưởng thức gà nướng ống tre, cơm lam, rau rừng, cá suối nướng,..."
+                                    ]
+                                },
+                                {
+                                    "time": "13:00",
+                                    "title": "Trekking đến Thác Chiên",
+                                    "details": [
+                                        "Di chuyển đến điểm trekking, hướng dẫn viên bản địa đồng hành.",
+                                        "Trekking 2–3 km xuyên rừng, băng suối, ngắm cảnh thiên nhiên."
+                                    ]
+                                },
+                                {
+                                    "time": "15:00",
+                                    "title": "Tham quan Thác Chiên",
+                                    "details": [
+                                        "Tắm suối, nghỉ ngơi bên thác, chụp ảnh lưu niệm.",
+                                        "Thưởng thức trái cây, nước suối và bánh địa phương."
+                                    ]
+                                },
+                                {
+                                    "time": "17:00",
+                                    "title": "Nhận phòng homestay",
+                                    "details": [
+                                        "Nhận phòng tại homestay địa phương hoặc khu nghỉ sinh thái."
+                                    ]
+                                },
+                                {
+                                    "time": "18:30",
+                                    "title": "Ăn tối và giao lưu",
+                                    "details": [
+                                        "Dùng bữa tối trong không gian núi rừng.",
+                                        "Tùy chọn tổ chức giao lưu lửa trại, rượu cần, múa Cơ Tu."
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "day": "Ngày 2: Rừng sinh thái – Săn mây – Trở về",
+                            "details": [{
+                                    "time": "05:30",
+                                    "title": "Săn mây sáng sớm",
+                                    "details": [
+                                        "Dậy sớm săn mây tại đồi cao (nếu thời tiết thuận lợi)."
+                                    ]
+                                },
+                                {
+                                    "time": "06:30",
+                                    "title": "Ăn sáng nhẹ",
+                                    "details": [
+                                        "Ăn sáng với cơm nắm muối vừng, xôi bắp,..."
+                                    ]
+                                },
+                                {
+                                    "time": "07:30",
+                                    "title": "Khám phá rừng tự nhiên",
+                                    "details": [
+                                        "Đi bộ khám phá rừng, tìm hiểu cây thuốc rừng, động vật bản địa.",
+                                        "Dừng chân tại suối nhỏ để rửa mặt, nghỉ ngơi, chụp ảnh."
+                                    ]
+                                },
+                                {
+                                    "time": "10:30",
+                                    "title": "Trở về homestay",
+                                    "details": [
+                                        "Vệ sinh cá nhân và nghỉ ngơi."
+                                    ]
+                                },
+                                {
+                                    "time": "11:30",
+                                    "title": "Ăn trưa",
+                                    "details": [
+                                        "Thưởng thức thêm đặc sản núi rừng."
+                                    ]
+                                },
+                                {
+                                    "time": "13:00",
+                                    "title": "Trả phòng và khởi hành về",
+                                    "details": [
+                                        "Trả phòng homestay, khởi hành về Đà Nẵng hoặc Hội An."
+                                    ]
+                                },
+                                {
+                                    "time": "16:00 – 17:00",
+                                    "title": "Kết thúc tour",
+                                    "details": [
+                                        "Về đến điểm đón ban đầu, kết thúc hành trình."
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "equipment": {
+                        "provided": [
+                            "Trekking Poles",
+                            "Tent’s light"
+                        ],
+                        "personal": [
+                            "ID card or Passport",
+                            "Water Bottle"
+                        ],
+                        "suggestion": [
+                            "Mobile phone, camera",
+                            "Flashlight"
+                        ]
+                    },
+                    "notes": [],
+                    "images": [],
                     "question": {
                         "title": "Q&A",
                         "list": [{
