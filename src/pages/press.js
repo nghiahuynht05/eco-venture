@@ -14,6 +14,9 @@ import CustomHeader from "../components/header/custom.header";
 import LanguageSelector from "../components/custom.language";
 import CustomChatBot from "../components/chatbot/custom.chatbot";
 import CustomMenuPopup from "../components/header/custom.menu";
+import imagesExperiences from "../data/experiences";
+import CustomExperiences from "../components/experiences/custom.experiences";
+
 import { LanguageContext } from "../context/languageContext";
 
 const Gallery = () => {
@@ -46,6 +49,10 @@ const Gallery = () => {
         </div>
       </section>
       <CustomPress content={translations.press}></CustomPress>
+      <CustomExperiences
+        tabs={translations.experiences}
+        images={imagesExperiences}></CustomExperiences>
+
       <CustomFooter translations={translations.home?.footer}></CustomFooter>
       <CustomChatBot></CustomChatBot>
 

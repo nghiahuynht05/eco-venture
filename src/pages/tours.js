@@ -89,7 +89,7 @@ const Tours = () => {
                             <div className="heading-destination d-flex jtf-between alg-center">
                               <h2 className="heading title-list-destination">
                                 List
-                                <span>( 6 active tours)</span>
+                                <span>( 10 active tours)</span>
                               </h2>
                             </div>
                             <div className="list-hotel-tags">
