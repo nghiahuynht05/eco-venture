@@ -15,6 +15,7 @@ import CustomHeader from "../components/header/custom.header";
 import CustomExperiences from "../components/experiences/custom.experiences";
 import CustomChatBot from "../components/chatbot/custom.chatbot";
 import CustomMenuPopup from "../components/header/custom.menu";
+import CustomPress from "../components/press/custome.press";
 
 import { LanguageContext } from "../context/languageContext";
 
@@ -50,6 +51,8 @@ const Experiences = () => {
       <CustomExperiences
         tabs={translations.experiences}
         images={imagesExperiences}></CustomExperiences>
+              <CustomPress content={translations.press}></CustomPress>
+
       <CustomFooter translations={translations.home?.footer}></CustomFooter>
       <CustomChatBot></CustomChatBot>
     </div>

@@ -50,7 +50,7 @@ const MenuPopup = ({ translations }) => {
                 </a>
               </li>
               <li className="leaf">
-                <a href="/press">{translations.header.press}</a>
+                <a href="/experiences">{translations.header.experiences}</a>
               </li>
               <li className="leaf">
                 <a href="/tours">{translations.home.header.tours}</a>
